@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2020
-lastupdated: "2020-04-22"
+lastupdated: "2020-06-10"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design
 
@@ -23,7 +23,7 @@ subcollection: overview
 {:note: .note}
 {:term: .term}
 
-# How does IBM Cloud ensure zero downtime?
+# How {{site.data.keyword.cloud_notm}} ensures high availability and disaster recovery
 {: #zero-downtime}
 
 Your global strategy is important, and {{site.data.keyword.cloud}} uses global load balancing to ensure a redundant, highly available platform is available for you to host your workloads and applications.
