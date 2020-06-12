@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-05-28"
+lastupdated: "2020-06-12"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -36,6 +36,12 @@ New as of: 21 May 2020
 You can now connect your external identity provider to an {{site.data.keyword.appid_full_notm}} instance, and then configure that {{site.data.keyword.appid_short}} to connect directly to {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) to federate authentication for users in your enterprise to your {{site.data.keyword.Bluemix_notm}} account.
 
 By using this new integration between {{site.data.keyword.appid_short}} and {{site.data.keyword.Bluemix_notm}} IAM, you can simplify the log in experience for users in your enterprise and automatically add users to your account through their login, instead of having to invite or federate each user individually with IBMid. For more information, see [Enabling authentication from an external identity provider](/docs/iam?topic=iam-idp-integration).
+
+### Support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
+{: #enterprise-catalog-filter}
+New as of: 01 May 2020
+
+You can now use filters to customize which products in the {{site.data.keyword.Bluemix_notm}} catalog are available in accounts within an enterprise hierarchy. Filters that are set at a parent account level apply to all child account groups and accounts. For more information, see [Customizing your private catalogs](/docs/account?topic=account-restrict-by-user).   
 
 ### Unified notifications experience
 {: #unified-notifications-experience}
