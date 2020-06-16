@@ -92,7 +92,7 @@ Offerings that are managed by {{site.data.keyword.IBM_notm}} require customer re
 
 | Resource | Incident and Operations Management | Change Management | Identity and Access Management | Security and Regulation Compliance | Disaster Recovery |
 | - | - | - | - | - | - |
-| Data |Customer  | Customer | Customer | Customer | Customer | Customer |
+| Data |Customer  | Customer | Customer | Customer | Customer | 
 | Application | Customer | Customer | Customer | Customer | Customer |
 | Service instance | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | Shared |
 | Virtual and bare metal servers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | Shared |
