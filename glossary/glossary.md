@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-05-07"
+lastupdated: "2020-06-17"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -83,6 +83,11 @@ An iterative process for resolving annotation conflicts by comparing the annotat
 {: #x2149238}
 
 Two or more container group instances running on the same network node. See also [anti-affinity](/docs/overview?topic=overview-glossary#x8888040).
+
+### allowlist
+{: #x3954001}
+
+A list of items, such as usernames, email addresses, or IP addresses, that are granted access to a certain system or function. When an allowlist is used for access control, all entities are denied access, except for those that are included in the allowlist. See also [blocklist](/docs/overview?topic=overview-glossary#x3954055).
 
 ### analysis engine
 {: #x3461204}
@@ -223,6 +228,11 @@ To establish a connection between software components on a network using an agre
 {: #x7881128}
 
 A set of documents annotated with the ground truth, such as question and answer pairs, semantic annotation, and passage judgment. Blind data is never released or seen by developers and is used to test the system periodically to evaluate performance on unseen data. See also [testing data](/docs/overview?topic=overview-glossary#x7736833), [training data](/docs/overview?topic=overview-glossary#x2860199).
+
+### blocklist
+{: #x3954055}
+
+A list of items, such as usernames, email addresses, or IP addresses, that are denied access to a certain system or function. When a blocklist is used for access control, all entities are allowed access, except for those that are included in the blocklist. See also [allowlist](/docs/overview?topic=overview-glossary#x3954001).
 
 ### BLU Acceleration
 {: #x7470463}
