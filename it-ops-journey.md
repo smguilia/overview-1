@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2020
-lastupdated: "2020-05-28"
+lastupdated: "2020-06-18"
 
 keywords: cloud environment, virtual server, virtual machine, vm, understanding infrastructure, IaaS model, IT ops admin, on-premises, data center
 
@@ -137,7 +137,7 @@ You can buy extra storage based on your needs. See the following table for a sum
 |--------|---------------|
 | [{{site.data.keyword.blockstorageshort}}](/docs/BlockStorage?topic=BlockStorage-getting-started) | Persistent, high-performance iSCSI storage that is provisioned and managed independently of compute instances. iSCSI-based Block Storage LUNs are connected to authorized devices through redundant multi-path I/O (MPIO) connections. |
 | [{{site.data.keyword.filestorage_short}}](/docs/FileStorage?topic=FileStorage-getting-started) | Persistent, fast, and flexible network-attached, NFS-based File Storage. In this network-attached storage (NAS) environment, you have total control over your file shares function and performance. File Storage shares can be connected to up to 64 authorized devices over routed TCP/IP connections for resiliency. |
-| [{{site.data.keyword.cos_full_notm}}](/docs/services/cloud-object-storage?topic=cloud-object-storage-getting-started) | Information that is stored with {{site.data.keyword.cloud_notm}} Object Storage is encrypted and dispersed across multiple geographic locations, and accessed over HTTP by using a REST API. This service uses the distributed storage technologies that are provided by the {{site.data.keyword.cloud_notm}} Object Storage System (formerly Cleversafe). |
+| [{{site.data.keyword.cos_full_notm}}](/docs/cloud-object-storage?topic=cloud-object-storage-getting-started-cloud-object-storage) | Information that is stored with {{site.data.keyword.cloud_notm}} Object Storage is encrypted and dispersed across multiple geographic locations, and accessed over HTTP by using a REST API. This service uses the distributed storage technologies that are provided by the {{site.data.keyword.cloud_notm}} Object Storage System (formerly Cleversafe). |
 | [{{site.data.keyword.cloud_notm}} Master Data Management](/docs/services/MDMOnCloud?topic=MDMOnCloud-mdmoc_getting_started#mdmoc_getting_started) | Offload large amounts of data from your on-premises data center to your Cloud Object Storage bucket. |
 | [{{site.data.keyword.backup_full}}](/docs/Backup?topic=Backup-getting-started) | An automated agent-based backup system that is managed through a browser-based management utility. You can back up data between servers in one or more data centers on the {{site.data.keyword.cloud_notm}} network. |
 {: caption="Table 2. Storage options" caption-side="top"}
