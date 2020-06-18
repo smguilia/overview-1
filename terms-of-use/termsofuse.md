@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-06-03"
+lastupdated: "2020-06-18"
 
 keywords: terms of use, IBM Cloud, IP address policy, legal, contact information
 
@@ -41,7 +41,7 @@ If you or your company is a covered entity as defined by the US Health Insurance
 For subpoenas or for reporting abuse on IBM Cloud, please contact the following:
 
 IBM Cloud c/o SoftLayer Inc*. <br> 14001 North Dallas Parkway, Suite M100 <br> Dallas, TX 75240 <br> 214.442.0600 Main
-<br> 214.442.0605 Abuse <br> 214.442.0612 Fax <br> subpoenas@softlayer.com Subpoenas <br> abuse@softlayer.com Abuse
+<br> 214.442.0605 Abuse <br> 214.442.0612 Fax<br> Subpoenas subpoenas@softlayer.com <br> Abuse abuse@softlayer.com 
 
 \* SoftLayer Inc. is an IBM Company
 
