@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2020
-lastupdated: "2020-06-18"
+lastupdated: "2020-06-19"
 
 keywords: data center, data centers, data center locations, specific data center, individual data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global load balancing, geo, load balancing, availability zones, zones, north america, south america, europe, asia, DC, failover, tiers, globally resilient, resilient
 
@@ -73,7 +73,7 @@ You can also choose to deploy resources to a SZR, but you can't spread them acro
 
 | Location      | Region   | Zone | Data Center |
 |-----------|----------|------|----|
-| Seoul     | kr-seo | kr-seo-1 | SEO01<br>SEO02 |
+| Seoul     | kr-seo | kr-seo-1 | SEO01 |
 | Chennai | in-che-1  |in-che-1  | CHE01 |
 {: caption="Table 2. SZRs for creating resources" caption-side="top"}
 
@@ -103,7 +103,6 @@ See the following table for the specific code for each data center.
 | Houston 01       | HOU01 |
 | Mexico 01        | MEX01 |
 | Montreal 01      | MON01 |
-| Raleigh 01       | RAL01 |
 | San Jose 01      | SJC01 |
 | San Jose 03      | SJC03 |
 | San Jose 04      | SJC04 |
@@ -162,7 +161,6 @@ See the following table for the specific code for each data center.
 |Melbourne 02 | MEL02|
 |Perth 01 | PER01|
 |Seoul 01 | SEO01|
-|Seoul 02 | SEO02|
 |Singapore 01 | SNG01|
 |Singapore 02 | SNG02|
 |Sydney 01 | SYD01|
