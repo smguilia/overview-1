@@ -183,7 +183,7 @@ The Program includes some or all of the following works licensed under the Creat
 
 CODE_OF_CONDUCT.MD [enzyme-to-json] (Copyright not found)(http://registry.npmjs.org/enzyme-to-json/-/enzyme-to-json-3.4.3.tgz)
 
-### {{site.data.keyword.Bluemix_notm}} IAM-Token Service (CITS)
+### {{site.data.keyword.Bluemix_notm}} IAM-Token Service
 {: #iam}
 
 This section consists of the following:
