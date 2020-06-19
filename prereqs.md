@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2019-06-18"
+lastupdated: "2019-06-19"
 
 keywords: prereqs, platform prereqs, platform prerequisites, platform
 
@@ -35,4 +35,4 @@ Extended Support Release](https://www.mozilla.org/en-US/firefox/organizations/){
 ## Command-line interface
 {: #cli-platform}
 
-The {{site.data.keyword.Bluemix_notm}} command-line interface (CLI) is constantly changing so it is recommended to go to [Installing the stand-alone {{site.data.keyword.Bluemix_notm}} CLI](/docs/cli?topic=cli-getting-startedd), which always points to the latest CLI version.
+The {{site.data.keyword.Bluemix_notm}} command-line interface (CLI) is constantly changing so it is recommended to go to [Installing the stand-alone {{site.data.keyword.Bluemix_notm}} CLI](/docs/cli?topic=cli-getting-started), which always points to the latest CLI version.
