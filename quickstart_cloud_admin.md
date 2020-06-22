@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2020
-lastupdated: "2020-05-28"
+lastupdated: "2020-06-22"
 
 keywords: first steps, understanding IT ops, infrastructure, quick start guide, IT ops admin, building
 
@@ -44,7 +44,7 @@ Sign up for a Pay-As-You-Go or Subscription account to get full access to all of
 ## Next steps
 {: #next-steps-it-ops}
 
-[Manage your infrastructure](/docs/overview?topic=overview-it-ops). Some example management tasks include: 
+[Manage your infrastructure](/docs/cloud-infrastructure?topic=cloud-infrastructure-managing). Some example management tasks include: 
 
   * Monitoring your devices and system events.
   * Protecting your devices by using a VPN connection and safeguarding your data through regular backups. 
