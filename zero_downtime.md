@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2020
-lastupdated: "2020-06-10"
+lastupdated: "2020-06-24"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design
 
@@ -34,7 +34,9 @@ Your global strategy is important, and {{site.data.keyword.cloud}} uses global l
 
 The {{site.data.keyword.cloud_notm}} console is available globally and load balanced from a single URL. It is highly available and continues to run even if your resources are unavailable. 
 
-Platform services, such as account management, catalog, identity and access management, and more, are also globally available and load balanced across multiple regions. This means that there is a failover design in place to keep your resources up and running without you having to take any action. Each platform service is categorized as a general availability service with a [Service Level Agreement](/docs/overview?topic=overview-slas) of 99.99% availability. While each platform service might be available from various regions, each region in which the service is deployed has multiple data centers for redundancy.
+Other platform services, including catalogs, global search and tagging, identity and access management, and account management are also globally available and load balanced across multiple regions. This means that there is a failover design in place to keep your resources up and running without you having to take any action. 
+
+Each platform service is categorized as a general availability service with a [Service Level Agreement](/docs/overview?topic=overview-slas) of 99.99% availability. While each platform service might be available from various regions, each region in which the service is deployed has multiple data centers for redundancy.
 
 | Platform Service | Details |
 |------------------|----------------|
@@ -43,7 +45,11 @@ Platform services, such as account management, catalog, identity and access mana
 |      Global search and tagging         |    [Searching for resources](/docs/resources?topic=resources-searching-for-resources) and [Working with tags](/docs/resources?topic=resources-tag)        |
 |        IAM       |      [Getting started with IAM](/docs/iam?topic=iam-getstarted)             |
 |  Account management  |    [Best practices for setting up your account](/docs/account?topic=account-account_setup) and [Best practices for billing and usage](/docs/billing-usage?topic=billing-usage-best-practices)     |
+| {{site.data.keyword.cloud-shell_short}} | [Understanding high availability and disaster recovery for Cloud Shell](/docs/cloud-shell?topic=cloud-shell-ha-dr) |
 {: caption="Table 1. Platform services" caption-side="top"}
+
+{{site.data.keyword.cloud-shell_short}} is [regionally available](/docs/cloud-shell?topic=cloud-shell-ha-dr) in the Dallas, Frankfurt, and Tokyo regions, which means that automated global failover isn't supported. If a region is unavailable, {{site.data.keyword.cloud-shell_short}} also becomes unavailable in that region.
+{: note}
 
 ## High availability for services and infrastructure
 {: #services-ha}
