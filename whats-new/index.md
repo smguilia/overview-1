@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-06-12"
+lastupdated: "2020-06-24"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -28,6 +28,14 @@ If you're looking for updates for the services that are available on {{site.data
 
 ## {{site.data.keyword.Bluemix_notm}} platform
 {: #platform_category}
+
+### {{site.data.keyword.cloud-shell_notm}} is generally available
+{: #cloud-shell-ga}
+New as of: 24 June 2020
+
+{{site.data.keyword.cloud-shell_notm}}, the browser-based shell environment, is now generally available (GA)! This release includes greater region support with the addition of the Tokyo (`jp-tok`) region. {{site.data.keyword.cloud-shell_short}} sessions now also support inputting and viewing double-byte characters on the command line, so you can work in languages such as Japanese, Simplified and Traditional Chinese, and more. The server image was also updated to include updates to several command line tools, in addition to the regular updates for the {{site.data.keyword.cloud_notm}} CLI and plug-ins.
+
+To try out {{site.data.keyword.cloud-shell_notm}}, see [Getting started with {{site.data.keyword.cloud-shell_notm}}](/docs/cloud-shell?topic=cloud-shell-getting-started).
 
 ### Connect to an external identity provider for authentication
 {: #external-idp}
