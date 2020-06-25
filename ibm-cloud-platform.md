@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-05-28"
+lastupdated: "2020-06-25"
 
 keywords: console, platform overview, overview, data center 
 
@@ -30,7 +30,7 @@ As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} pla
 
   * A robust console that serves as the front end for creating, viewing, managing your cloud resources
   * An identity and access management component that securely authenticates users for both platform services and controls access to resources consistently across {{site.data.keyword.Bluemix_notm}}
-  * A catalog that consists of hundreds of {{site.data.keyword.Bluemix_notm}} offerings
+  * A catalog that consists of hundreds of supported products
   * A search and tagging mechanism for filtering and identifying your resources
   * An account and billing management system that provides exact usage for pricing plans and secure credit card fraud protection
   
@@ -41,7 +41,7 @@ Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-by
 ## Setting up your account
 {: #set-up-account}
 
-If you're a developer and you're just trying out {{site.data.keyword.Bluemix_notm}}, you can go straight to the catalog and browse the offerings that you'd like to explore and add to your Lite account. When you're ready to get started with an environment and get apps running in production, consider setting up the basics in your account:
+If you're a developer and you're just trying out {{site.data.keyword.Bluemix_notm}}, you can go straight to the catalog and browse the products that you'd like to explore and add to your Lite account. When you're ready to get started with an environment and get apps running in production, consider setting up the basics in your account:
 
 * User access groups for organizing users and service IDs into one entity to make assigning access a streamlined process.
 * Resource groups for organizing your resources to make assigning access to a set of resources quick and easy.
@@ -60,11 +60,11 @@ For more information, see the [best practices for setting up an enterprise](/doc
 ## {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
-{{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with a variety of offerings in the catalog, including compute, storage, and networking options, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open-source databases, and cloud-native services. You can find all of these services on the Services tab in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
+{{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with a variety of products in the catalog, including compute, storage, and networking options, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open-source databases, and cloud-native services. You can find all of these services on the Services tab in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-The Software tab includes a growing catalog of software offerings, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs), [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, and [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud). Even though you're responsible for the lifecycle management, deployment, and configuration of these software offerings on your own compute resources, you can take advantage of a simplified installation process that helps you to get up and running quickly.
+The Software tab includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs), [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, and [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud). Even though you're responsible for the lifecycle management, deployment, and configuration of these software products on your own compute resources, you can take advantage of a simplified installation process that helps you to get up and running quickly.
 
-The catalog supports command-line interfaces (CLIs) and a RESTful API for users to retrieve information about existing offerings, and create, manage, and delete their resources. 
+The catalog supports command-line interfaces (CLIs) and a RESTful API for users to retrieve information about existing products, and create, manage, and delete their resources. 
 
 ## Pricing and billing
 {: #pricing-billing}
