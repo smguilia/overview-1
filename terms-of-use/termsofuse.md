@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-07-02"
+lastupdated: "2020-07-07"
 
 keywords: terms of use, IBM Cloud, IP address policy, legal, contact information
 
@@ -18,7 +18,7 @@ subcollection: overview
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# {{site.data.keyword.Bluemix_notm}} terms of use
+# {{site.data.keyword.Bluemix_notm}} Terms of Use
 {: #terms}
 
 Your {{site.data.keyword.Bluemix}} account and any services ordered from the {{site.data.keyword.Bluemix_notm}} are provided under the terms of the Service Description for {{site.data.keyword.Bluemix_notm}} available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window} ![External link icon](../../icons/launch-glyph.svg); and one of the following base agreements:
