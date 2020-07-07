@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-06-24"
+lastupdated: "2020-07-07"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -28,6 +28,46 @@ If you're looking for updates for the services that are available on {{site.data
 
 ## {{site.data.keyword.Bluemix_notm}} platform
 {: #platform_category}
+
+### CLI support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
+{: #enterprise-filter-cli}
+New as of: 07 July 2020
+
+You can now use the following commands to set and manage filters in accounts within an enterprise hierarchy:
+
+* **`ibmcloud catalog filter get`**
+* **`ibmcloud catalog filter create`**
+* **`ibmcloud catalog filter offering`**
+* **`ibmcloud catalog filter delete`**
+
+Each command operates the same at the enteprise level by default. You can also apply the commands to specific account groups in an enterprise. For more information, see the [Catalogs management CLI plug-in](/docs/cli?topic=cli-manage-catalogs-plugin).
+
+### Consulting services are available in the {{site.data.keyword.Bluemix_notm}} catalog
+{: #catalog-consulting-svcs}
+New as of: 07 July 2020
+
+We now offer consulting services that aim to help guide you in transforming your business. Our consulting strategy combines expertise, tools, and methodologies to develop cloud strategies and implementation plans that align with your business goals. 
+
+To check out the available consulting services, go to the [catalog](https://cloud.ibm.com/catalog){: external}, and click **Consulting**. 
+
+### Catalog management SDKs are available
+{: #catalog-mgmt-sdks}
+New as of: 07 July 2020
+
+Four new Software Development Kits (SDKs) for the catalog management service, which includes private catalogs and software products, are now available. 
+
+* The {{site.data.keyword.Bluemix_notm}} Platform Services Java SDK
+* The {{site.data.keyword.Bluemix_notm}} Platform Services Node.js SDK
+* The {{site.data.keyword.Bluemix_notm}} Platform Services Python SDK
+* The {{site.data.keyword.Bluemix_notm}} Platform Services Go SDK
+
+For more information, see the [Catalog Management API reference](https://cloud.ibm.com/apidocs/resource-catalog/private-catalog){: external}. 
+
+### OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
+{: #ova-vcenter-support}
+New as of: 07 July 2020
+
+With the deployment power of the {{site.data.keyword.Bluemix_notm}} Schematics service, support for third-party OVA images targeting VMware vCenter Server deployments is now available. To quickly find the available products in the [catalog](https://cloud.ibm.com/catalog){: external}, click **Software**, and select **OVA Images** from the **Software** list.
 
 ### {{site.data.keyword.cloud-shell_notm}} is generally available
 {: #cloud-shell-ga}
