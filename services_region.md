@@ -91,6 +91,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Activity Tracker with LogDNA | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Data Shield | Hosted Globally | Hosted Globally | 
+| IBM Cloud Monitoring with Sysdig | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis with LogDNA | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -216,6 +217,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Virtual Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Activity Tracker with LogDNA | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Data Shield | Hosted Globally | Hosted Globally | 
+| IBM Cloud Monitoring with Sysdig | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis with LogDNA | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -341,6 +343,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | IBM Cloud Activity Tracker with LogDNA | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Cloud Data Shield | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| IBM Cloud Monitoring with Sysdig | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | IBM Cognos Dashboard Embedded |  |  |  |  | 
 | IBM Log Analysis with LogDNA | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -956,4 +959,5 @@ The following infrastructure resources are available in Asia and the Pacific reg
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+
 
