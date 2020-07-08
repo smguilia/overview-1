@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-06-20"
+lastupdated: "2020-07-08"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -20,9 +20,6 @@ subcollection: overview
 
 # {{site.data.keyword.Bluemix_notm}} Notices
 {: #notices}
-
-## Notices
-{: #notices-details}
 
 This information was developed for products and services offered in the US. This material might be available from {{site.data.keyword.IBM_notm}} in other languages. However, you might be required to own a copy of the product or product version in that language in order to access it.
 
