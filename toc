@@ -2,7 +2,7 @@
 {:topicgroup: .topicgroup}
 {:download: .download}
 
-{: .toc subcollection="overview" category="platform_services" audience="platform" arm="3816100" href="/docs/overview?topic=overview-whatis-platform" path="overview"}
+{: .toc subcollection="overview" category="platform_services" audience="platform" arm="3816100" href="/docs/overview?topic=overview-whatis-platform" product-page="https://ibm.com/cloud" path="overview"}
 Getting started with IBM Cloud
 
     {: .navgroup id="learn"}
