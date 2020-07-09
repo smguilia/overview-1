@@ -4,7 +4,7 @@ copyright:
 
   years: 2018, 2020
 
-lastupdated: "2020-05-28"
+lastupdated: "2020-07-09"
 
 keywords: quick start steps, dev quick start, dev get started, developer, quick start guide, get coding
 
@@ -27,7 +27,7 @@ As a developer we want to get you coding quickly. This quick start guide is inte
 ## Before you begin
 {: #prereqs-dev}
 
-Create a Pay-As-You-Go or Subscription account to get full access to all offerings in the catalog, including offerings with free service plans. 
+Create a Pay-As-You-Go or Subscription account to get full access to all products in the catalog, including products with free service plans. 
 
 ## Quick start steps
 {: #steps-dev}
