@@ -43,7 +43,7 @@ Create a Pay-As-You-Go or Subscription account to get full access to all product
 ## Next steps
 {: #nextsteps-dev}
 
-* Explore the offerings in the [catalog](https://{DomainName}/catalog){: external} ![External link icon](../icons/launch-glyph.svg) that you can use to build or enhance your app.
+* Explore the products in the [catalog](https://{DomainName}/catalog){: external} ![External link icon](../icons/launch-glyph.svg) that you can use to build or enhance your app.
 * If you're interested in a specific service or implementation, check out the [solution tutorials](/docs/solution-tutorials?topic=solution-tutorials-tutorials) that are available to get you up and running.
 * Jump-start your process by downloading ready-to-use [code patterns](https://developer.ibm.com/patterns/){: external}  for specific solutions. 
 
