@@ -7,7 +7,7 @@ lastupdated: "2020-07-08"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
-subcollection: account
+subcollection: overview
 
 ---
 {:external: target="_blank" .external}
