@@ -7,7 +7,7 @@ lastupdated: "2020-06-09"
 
 keywords: lifecycle, end of support, service availability, deprecation
 
-subcollection: resources
+subcollection: overview
 
 ---
 
