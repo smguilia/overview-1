@@ -96,7 +96,7 @@ The following table lists the filter options you can use when searching the cata
 | Option | Description |
 |--------------|-------|
 | {{site.data.keyword.IBM_notm}} | The lifecycle and operations of the service are the responsibility of {{site.data.keyword.IBM_notm}}. |
-| Third Party | Support for the service is the responsibility of the third-party provider. If the root cause analysis determines that the issue is a defect in the service, {{site.data.keyword.IBM_notm}} isn't required to provide a fix. However, {{site.data.keyword.IBM_notm}} shares analysis with the third-party provider, if needed, and can work with the third-party provider to help solve the issue. |
+| Third party | Support for the service is the responsibility of the third-party provider. If the root cause analysis determines that the issue is a defect in the service, {{site.data.keyword.IBM_notm}} isn't required to provide a fix. However, {{site.data.keyword.IBM_notm}} shares analysis with the third-party provider, if needed, and can work with the third-party provider to help solve the issue. |
 {: caption="Table 1. Options for filtering by provider" caption-side="top"}
 {: #provider-svc}
 {: tab-title="Provider"}
