@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2020
-lastupdated: "2020-06-19"
+lastupdated: "2020-07-09"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -33,8 +33,6 @@ The advantage of an MZR is that it provides consistent cloud services across dif
 
 The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the region, zone, and data center codes for each one. 
 
-<!-- Staging only: Brazil MZR not available yet as of 04/30, but planned for 2020. Codes: br-sao (region), br-sao-1, br-sao-2, br-sao-3 (zones), SAO01, SAO04, SAO05 (DCs) -->
-
 | Location | Region | Zone | Data Center |
 |-----------|----------|------|----|
 | Dallas | us-south | us-south-1<br>us-south-2<br>us-south-3 | DAL10<br>DAL12<br>DAL13 |
@@ -56,8 +54,6 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 {: tab-group="mzr"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
-
-<!-- Staging only: Osaka MZR not available yet as of 04/30, but planned for 2020. Codes: jp-osa (region), jp-osa-1, jp-osa-2, jp-osa-3 (zones), OSA21, OSA22, OSA23 (DCs) -->
 
 | Location      | Region   | Zone | Data Center |
 |-----------|----------|------|----|
@@ -93,9 +89,6 @@ The following graphic illustrates the available {{site.data.keyword.Bluemix_notm
 ![Map of available data centers](images/Global-View.svg){: caption="Figure 2. Data center locations" caption-side="bottom"}
 
 See the following table for the specific code for each data center.
-
-<!-- Staging only: Sao Paulo and Osaka DCs not available yet as of 04/30, but planned for 2020. -->
-
 
 | Data Center      | Code  |
 |------------------|-------|
