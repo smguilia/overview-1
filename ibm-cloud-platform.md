@@ -37,8 +37,6 @@ As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} pla
 ![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showiing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Figure 1. Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
 Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-byoc) that you want to modernize and bring to the cloud or you're developing a [brand new application](/docs/apps?topic=apps-tutorial-starterkit), your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
-  
-<!-- staging only - A logging service that is powered by LogDNA and a monitoring service that is powered by SysDig for robust logging and monitoring support. A status service that collects and displays planned and unplanned events, maintenance, security, and announcements notifications in the console and as emails -->
 
 ## Setting up your account
 {: #set-up-account}
@@ -141,74 +139,6 @@ The following table lists the filter options you can use when searching the cata
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
-
-<!--
-### Searching for software 
-{: #catalog-filter-sw}
-
-The following table lists the filter options you can use when searching the catalog for software. 
-
-| Option | Description | 
-|-----|-----|
-| AI / Machine Learning | Description  | 
-| Analytics | Products that facilitate the analysis of data, typically large sets of business data, by the use of mathematics, statistics, and other means. | 
-| Blockchain | Description | 
-| Compute | Infrastructure resources that serve as the basis for building apps in the cloud. | 
-| Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another. | 
-| Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance. | 
-| Developer Tools | Products that support developing, testing, and debugging software. | 
-| Integration | Products that facilitate the connection of data, apps, APIs, and devices across an organization to be more efficient, productive, and agile. | 
-| Internet of Things | Description | 
-| Logging and Monitoring | Description | 
-| Mobile | Products with specific or special utility for users creatings things to be used on mobile devices. | 
-| Networking | Products that support or augment the linking of computers so they can operate interactively. | 
-| Security | Products that provide the protection of stored data from theft, leakage, and deletion. | 
-| Storage | Products that support data to be created, read, updated, and deleted. | 
-{: caption="Table 2. Options for filtering by category" caption-side="top"}
-{: #swcategoryfilters}
-{: tab-title="Category"}
-{: tab-group="swfilteroptions"}
-{: class="simple-tab-table"}
-
-| Option | Description |
-|--------------|-------|
-| Cloud Paks | |
-| Helm charts | |
-| Terraform | |
-| Operators | |
-| OVAs | |
-{: caption="Table 2. Options for filtering by software type" caption-side="top"}
-{: #swsoftwarefilters}
-{: tab-title="Software"}
-{: tab-group="swfilteroptions"}
-{: class="simple-tab-table"}
-{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
-
-| Option | Description |
-|--------------|-------|
-| IBM Kubernetes Service | |
-| Red Hat OpenShift | |
-| VMware vCenter Server | |
-{: caption="Table 2. Options for filtering by deployment target" caption-side="top"}
-{: #swdeploymenttargetfilters}
-{: tab-title="Deployment target"}
-{: tab-group="swfilteroptions"}
-{: class="simple-tab-table"}
-{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."} 
-
-| Option | Description |
-|--------------|-------|
-| {{site.data.keyword.IBM_notm}} | The lifecycle and operations of the software are the responsibility of {{site.data.keyword.IBM_notm}}. |
-| Community | The software is provided by open source communities outside of {{site.data.keyword.IBM_notm}}. If the root cause analysis determines that the issue is a defect in the software, {{site.data.keyword.IBM_notm}} isn't required to provide a fix. |
-| Third Party | Support for the software is the responsibility of the third-party provider. If the root cause analysis determines that the issue is a defect in the software, {{site.data.keyword.IBM_notm}} isn't required to provide a fix. However, {{site.data.keyword.IBM_notm}} shares analysis with the third-party provider, if needed, and can work with the third-party provider to help solve the issue. |
-{: caption="Table 1. Options for filtering by provider" caption-side="top"}
-{: #swproviderfilters}
-{: tab-title="Provider"}
-{: tab-group="swfilteroptions"}
-{: class="simple-tab-table"}
-{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."} 
--->
-
 ## Pricing and billing
 {: #pricing-billing}
 
@@ -235,11 +165,6 @@ With usage metering, service providers can submit metrics that are collected for
 {: #usage}
 
 Usage reports return the summary for the account for the specified month. Account billing managers are authorized to access the reports.
-
-<!-- staging only
-### Order management
-{: #order}
-Order management manages the lifecycle of Orders and Line Items. It is responsible for processing Orders and Line Item from different billing systems such as DSW, GAIA, and IMS. It also fuels `whiskey`, which is Operation Dashboard for {{site.data.keyword.Bluemix_notm}} Orders. -->
 
 ## Creating resources
 {: #provisioning-layer}
@@ -278,14 +203,6 @@ The {{site.data.keyword.mon_full_notm}} service, allows you to gain operational 
 {: #account_observability}
 
 Use the {{site.data.keyword.at_full}} service to monitor the activity of your {{site.data.keyword.Bluemix_notm}} account, investigate abnormal activity and critical actions, and comply with regulatory audit requirements. In addition, you can be alerted on actions as they happen. The events that are collected comply with the Cloud Auditing Data Federation (CADF) standard. For more information, see [Getting started with {{site.data.keyword.at_full_notm}}](/docs/Activity-Tracker-with-LogDNA?topic=Activity-Tracker-with-LogDNA-getting-started).
-
-<!-- Staging only below this comment -->
- 
-## Status and notifications
-{: #status-service}
-
-{{site.data.keyword.Bluemix_notm}} provides a platform status service that collects and displays planned and unplanned events, maintenance, security, and announcement notifications. You can view the status of your services by region and type, as well as view notifications across the platform. Additionally, you can set email preferences that are associated with critical notifications.
-
 
 
 
