@@ -15,7 +15,7 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:tip: .tip}
 
 # Design your cloud architecture
@@ -36,10 +36,10 @@ Create a Pay-As-You-Go or Subscription account to get full access to all offerin
     * See [What is the {{site.data.keyword.Bluemix_notm}} platform?](/docs/overview?topic=overview-whatis-platform) for more information about the platform.
     * {{site.data.keyword.Bluemix_notm}} offers end-to-end continuous security for cloud-native and enterprise applications and data. See [How do I know that my data is safe?](/docs/overview?topic=overview-security) for more information. 
     * Learn about disaster recovery and high availability in {{site.data.keyword.Bluemix_notm}}. See [How do I ensure zero downtime?](/docs/overview?topic=overview-zero-downtime) for more information.
-    * Check out the reference architectures for {{site.data.keyword.Bluemix_notm}}. See the [Architecture center](https://www.ibm.com/cloud/garage/architectures){: new_window} ![External link icon](../icons/launch-glyph.svg) for more information. 
-    * Review case studies to learn how other companies use {{site.data.keyword.Bluemix_notm}} to achieve their business goals. See [{{site.data.keyword.Bluemix_notm}} case studies](https://www.ibm.com/cloud-computing/bluemix/case-studies){: new_window} ![External link icon](../icons/launch-glyph.svg) for more information. 
+    * Check out the reference architectures for {{site.data.keyword.Bluemix_notm}}. See the [Architecture center](https://www.ibm.com/cloud/garage/architectures){: external} ![External link icon](../icons/launch-glyph.svg) for more information. 
+    * Review case studies to learn how other companies use {{site.data.keyword.Bluemix_notm}} to achieve their business goals. See [{{site.data.keyword.Bluemix_notm}} case studies](https://www.ibm.com/cloud/case-studies/){: external} ![External link icon](../icons/launch-glyph.svg) for more information. 
 2. Learn about the various options for hosting your applications, giving you as much control over the infrastructure as you want or need. For more information, see [Choosing your hosting environment](/docs/apps?topic=apps-hosting).
-3. Explore the products in the [catalog](https://cloud.ibm.com/catalog){: new_window} ![External link icon](../icons/launch-glyph.svg) that you can use to build your solution.
+3. Explore the offerings in the [catalog](https://cloud.ibm.com/catalog){: external} ![External link icon](../icons/launch-glyph.svg) that you can use to build your solution.
 
 ## Next steps
 {: #next-steps-ea}

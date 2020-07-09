@@ -13,7 +13,7 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 {:important: .important}
@@ -25,7 +25,7 @@ subcollection: overview
 {{site.data.keyword.IBM}} is dedicated to putting the client first for every interaction. To help facilitate this, our Global Client Success team offers free personalized assistance through an onboarding program.
 {: shortdesc}
 
-You must be logged in to your Pay-As-You-Go or Subscription account to qualify for personalized onboarding. After you log in, a **Get started** button is displayed on this page. 
+You must be logged in to your Pay-As-You-Go or Subscription account to qualify for personalized onboarding. After you log in, a **Get started** button is displayed on this page.
 {: important}
 
 ## What's the process?
@@ -50,7 +50,7 @@ We're here to help to you get started with any area of {{site.data.keyword.cloud
 ### Want to get started on your own?
 {: #self-onboard}
 
-We have many resources that you can use to learn about {{site.data.keyword.cloud_notm}} on your own, and as a first-time user, check out the [Getting Started Resource Center](https://www.ibm.com/cloud/get-started/resources){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon") This robust digital resource provides key content and resources to help you get started with {{site.data.keyword.cloud_notm}}.
+We have many resources that you can use to learn about {{site.data.keyword.cloud_notm}} on your own, and as a first-time user, check out the [Getting Started Resource Center](https://www.ibm.com/cloud/get-started/resources){: external}  This robust digital resource provides key content and resources to help you get started with {{site.data.keyword.cloud_notm}}.
 
 ### Questions about the onboarding process?
 {: #contact-client-success}

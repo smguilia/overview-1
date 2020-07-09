@@ -7,7 +7,7 @@ copyright:
   years: 2015, 2020
 lastupdated: "2020-07-07"
 
-keywords: terms of use, IBM Cloud, IP address policy, legal, contact information
+keywords: terms of use, IBM Cloud
 
 subcollection: overview
 
@@ -16,29 +16,29 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 
-# {{site.data.keyword.Bluemix_notm}} Terms of Use
+# {{site.data.keyword.Bluemix_notm}} Terms of Use 
 {: #terms}
 
-Your {{site.data.keyword.Bluemix}} account and any services ordered from the {{site.data.keyword.Bluemix_notm}} are provided under the terms of the Service Description for {{site.data.keyword.Bluemix_notm}} available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window} ![External link icon](../../icons/launch-glyph.svg); and one of the following base agreements:
+Your {{site.data.keyword.Bluemix}} account and any services ordered from the {{site.data.keyword.Bluemix_notm}} are provided under the terms of the Service Description for {{site.data.keyword.Bluemix_notm}} available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: external} ![External link icon](../icons/launch-glyph.svg); and one of the following base agreements:
 
-* {{site.data.keyword.Bluemix_notm}} Services Agreement (local country version*) for non-US Dollar credit card billing, or if you select invoicing from IBM, available at [https://www.ibm.com/terms](https://www.ibm.com/terms){: new_window} ![External link icon](../../icons/launch-glyph.svg) (select your country);
-* SoftLayer Cloud Service Agreement for US Dollar credit card billing, available at [https://www.ibm.com/support/customer/zz/en/softlayer.html](https://www.ibm.com/support/customer/zz/en/softlayer.html){: new_window} ![External link icon](../../icons/launch-glyph.svg)
-* {{site.data.keyword.IBM_notm}} Passport Advantage Agreement you accepted upon registration and the General Terms for Cloud Offerings TOU for {{site.data.keyword.IBM_notm}} Passport Advantage Clients, available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/tou](http://www-03.ibm.com/software/sla/sladb.nsf/sla/tou){: new_window} ![External link icon](../../icons/launch-glyph.svg); or
-* Cloud Trial Agreement for Proof of Concept (POC) Accounts available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/tou](http://www-03.ibm.com/software/sla/sladb.nsf/sla/tou){: new_window} ![External link icon](../../icons/launch-glyph.svg); POC accounts may be provided for assessment of specific services and/or solutions. Use of services beyond the intended scope of POC may be possible, but might be subjected to additional charges. 
+* {{site.data.keyword.Bluemix_notm}} Services Agreement (local country version*) for non-US Dollar credit card billing, or if you select invoicing from IBM, available at [https://www.ibm.com/terms](https://www.ibm.com/terms){: external} ![External link icon](../icons/launch-glyph.svg) (select your country);
+* SoftLayer Cloud Service Agreement for US Dollar credit card billing, available at [https://www.ibm.com/support/customer/zz/en/softlayer.html](https://www.ibm.com/support/customer/zz/en/softlayer.html){: external} ![External link icon](../icons/launch-glyph.svg)
+* {{site.data.keyword.IBM_notm}} Passport Advantage Agreement you accepted upon registration and the General Terms for Cloud Offerings TOU for {{site.data.keyword.IBM_notm}} Passport Advantage Clients, available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/tou](http://www-03.ibm.com/software/sla/sladb.nsf/sla/tou){: external} ![External link icon](../icons/launch-glyph.svg); or
+* Cloud Trial Agreement for Proof of Concept (POC) Accounts available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/tou](http://www-03.ibm.com/software/sla/sladb.nsf/sla/tou){: external} ![External link icon](../icons/launch-glyph.svg); POC accounts may be provided for assessment of specific services and/or solutions. Use of services beyond the intended scope of POC may be possible, but might be subjected to additional charges. 
 * An equivalent cloud service base agreement terms signed between you and {{site.data.keyword.IBM_notm}};
             
-Applicable Additional SDs for any service ordered using your {{site.data.keyword.Bluemix_notm}} Account are available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window} ![External link icon](../../icons/launch-glyph.svg). The additional SDs contain links to the applicable Data Sheet for each service.
+Applicable Additional SDs for any service ordered using your {{site.data.keyword.Bluemix_notm}} Account are available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: external} ![External link icon](../icons/launch-glyph.svg). The additional SDs contain links to the applicable Data Sheet for each service.
 
-If you or your company is a covered entity as defined by the US Health Insurance Portability and Accountability Act (HIPAA) and intend to order Cloud Services that might process protected health information (PHI), you must accept the IBM Business Associate Addendum (BAA) available at [https://www-03.ibm.com/software/sla/sladb.nsf/sla/baa?OpenDocument](https://www-03.ibm.com/software/sla/sladb.nsf/sla/baa?OpenDocument){: new_window} ![External link icon](../../icons/launch-glyph.svg). The BAA can be digitally accepted as described in [Enabling the HIPAA Supported setting](/docs/account?topic=account-eu-hipaa-supported#enabling-hipaa).
+If you or your company is a covered entity as defined by the US Health Insurance Portability and Accountability Act (HIPAA) and intend to order Cloud Services that might process protected health information (PHI), you must accept the IBM Business Associate Addendum (BAA) available at [https://www-03.ibm.com/software/sla/sladb.nsf/sla/baa?OpenDocument](https://www-03.ibm.com/software/sla/sladb.nsf/sla/baa?OpenDocument){: external} ![External link icon](../icons/launch-glyph.svg). The BAA can be digitally accepted as described in [Enabling the HIPAA Supported setting](/docs/account?topic=account-eu-hipaa-supported#enabling-hipaa).
 
 ### Legal contact information
 
 For subpoenas or for reporting abuse on IBM Cloud, please contact the following:
 
 IBM Cloud c/o SoftLayer Inc*. <br> 14001 North Dallas Parkway, Suite M100 <br> Dallas, TX 75240 <br> 214.442.0600 Main
-<br> 214.442.0605 Abuse <br> 214.442.0612 Fax<br> Subpoenas subpoenas@softlayer.com <br> Abuse abuse@softlayer.com 
+<br> 214.442.0605 Abuse <br> 214.442.0612 Fax <br> Subpoenas subpoenas@softlayer.com <br> Abuse abuse@softlayer.com 
 
 \* SoftLayer Inc. is an IBM Company
 

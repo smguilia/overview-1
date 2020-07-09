@@ -3,7 +3,7 @@
 
 copyright:
   years: 2014, 2019
-lastupdated: "2019-03-14"
+lastupdated: "2019-03-15"
 
 keywords: translation, national language support
 
@@ -12,7 +12,7 @@ subcollection: overview
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 
 # National language support for {{site.data.keyword.cloud_notm}}
 {: #language-support}

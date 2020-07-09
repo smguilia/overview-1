@@ -13,8 +13,8 @@ Getting started with IBM Cloud
 
     {: .topicgroup}
     Related links
-        [Why IBM Cloud?](https://www.ibm.com/cloud/why-ibm/){: new_window}
-        [Security in the cloud](https://www.ibm.com/cloud/security){: new_window}
+        [Why IBM Cloud?](https://www.ibm.com/cloud/why-ibm/){: external}
+        [Security in the cloud](https://www.ibm.com/cloud/security){: external}
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
@@ -35,8 +35,14 @@ Getting started with IBM Cloud
     platform-cli-api.md
     security.md
     compliance.md
-    locations.md
     zero_downtime.md
+
+    {: .topicgroup}
+    Product availability and locations
+        services_region.md
+        locations.md
+        services_availability.md
+
     certifications.md
     shared-responsibility.md
 

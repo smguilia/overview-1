@@ -12,7 +12,7 @@ subcollection: overview
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 
 # Glossary terms for {{site.data.keyword.cloud_notm}} 
 {: #glossary}
@@ -154,6 +154,16 @@ An entity that is used or produced by a software or systems development process.
 {: #x2260813}
 
 An application programming interface that provides rich functionality for interacting with an application. The assembly  makes side calls to external services and then transforms and aggregates the response before a response is relayed to the calling application.
+
+### assessment
+{: #x2219017}
+
+The testing process to monitor and measure specific aspects of an implementation to ensure a control is met.
+
+### asset
+{: #x2172042}
+
+Tangible or intangible goods, services, or property represented as an entity that is traded on a blockchain network.
 
 ### attribute
 {: #x2000252}
@@ -358,6 +368,16 @@ A member in a blockchain network that uses the network to invoke transactions ag
 {: #x2010901}
 
 A system construct that allows users to simultaneously run separate logical operating system instances. Containers use layers of file systems to minimize image sizes and promote reuse. See also [image](/docs/overview?topic=overview-glossary#x2024928), [layer](/docs/overview?topic=overview-glossary#x2028320), [registry](/docs/overview?topic=overview-glossary#x2064940).
+
+### control
+{: #x2018434}
+
+A technical, administrative, or physical safeguard designed to meet a set of defined security and privacy requirements. Controls exist to prevent, detect, or lessen the ability of a threat to exploit a vulnerability.
+
+### control implementation
+{: #x9918484}
+
+The implementation of how a control is met through hardware, software, or a service; or by a policy, process, procedure, or compliance artifact.
 
 ### coreference
 {: #x9440294}
@@ -774,6 +794,11 @@ The process of controlling access of authorized users to data and applications, 
 
 A file system and its execution parameters that are used within a container runtime to create a container. The file system consists of a series of layers, combined at runtime, that are created as the image is built by successive updates. The image does not retain state as the container executes. See also [base image](/docs/overview?topic=overview-glossary#x5366487), [container](/docs/overview?topic=overview-glossary#x2010901), [layer](/docs/overview?topic=overview-glossary#x2028320), [namespace](/docs/overview?topic=overview-glossary#x2031005), [parent image](/docs/overview?topic=overview-glossary#x8439210), [private image repository](/docs/overview?topic=overview-glossary#x8439215), [registry](/docs/overview?topic=overview-glossary#x2064940).
 
+### implementation
+{: #x2024995}
+
+The process of meeting a control through hardware, software, or a service; or by a policy, process, procedure, or compliance artifact.
+
 ### imprint mode
 {: #x9860399}
 
@@ -788,6 +813,11 @@ The delivery of a computer infrastructure, including server functionality, netwo
 {: #x2002531}
 
 An entity that consists of resources that are reserved for a particular application or a service.
+
+### instantiate
+{: #x2056692}
+
+The process of starting and initializing a smart contract on a blockchain channel. After instantiation, peers on the channel that have the smart contract installed can accept smart contract invocations.
 
 ### inter-annotator agreement
 {: #x9721455}
@@ -1043,6 +1073,11 @@ An explicit formal specification of the representation of the objects, concepts,
 ### orderer node
 {: #x9826016}
 
+See [ordering node](#x9884023).
+
+### ordering node
+{: #x9884023}
+
 A node that collects transactions from network members, orders the transactions and bundles them into blocks.
 
 ### ordering service
@@ -1109,6 +1144,11 @@ The method by which a client pays an invoice, such as credit card, check, or wir
 {: #x3566452}
 
 See [processing engine archive](/docs/overview?topic=overview-glossary#x2959092).
+
+### peer
+{: #x2033450}
+
+A blockchain network resource that provides the services to execute and validate transactions, and maintain ledgers. A peer runs chaincode and is the holder of transaction history and the current state of assets on the network’s channels, that is, the ledger.
 
 ### performance
 {: #x2033492}
@@ -1193,7 +1233,8 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
+- A collection of controls from one or more libraries configured to a specific use case. In addition, a rule can be attached to a profile. See also [rule](/docs/overview?topic=overview-glossary#x2037526), [scope](/docs/overview?topic=overview-glossary#x2037763).
+- A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
 
 ### promo code
 {: #x8440874}
@@ -1313,7 +1354,8 @@ The URL used to direct requests to an application. A route is made up of an opti
 ### rule
 {: #x2037526}
 
-A set of conditional statements that are used to determine whether a build can be promoted.
+- A JSON document that defines the configuration of resources and validates the compliance based on security requirements when a resource is created or modified. See also [profile](/docs/overview?topic=overview-glossary#x2034950), [scope](/docs/overview?topic=overview-glossary#x2037763).
+- A set of conditional statements that are used to determine whether a build can be promoted.
 
 ### rule set
 {: #x2065665}
@@ -1343,6 +1385,10 @@ A catalog in which approvals for publishing and lifecycle actions are bypassed s
 {: #x2004442}
 
 To increase platform (or system) capacity by adding more application or service instances.
+### scope
+{: #x2037763}
+
+The extent at which a profile, or rule, can be attached, including an enterprise, account group, account, or resource group. See also [profile](/docs/overview?topic=overview-glossary#x2034950), [rule](/docs/overview?topic=overview-glossary#x2037526).
 
 ### Secure Shell (SSH)
 {: #x3574365}

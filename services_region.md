@@ -3,29 +3,31 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-07-09"
+lastupdated: "2020-07-08"
 
-keywords: location, regions, data centers, service location, service availability, multizone region, MZR
+keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
-subcollection: resources
+subcollection: account
 
 ---
-{:
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:shortdesc: .shortdesc}
 
-# Service  and infrastructure availability
+
+# Service and infrastructure availability by location
 {: #services_region}
 
-{{site.data.keyword.Bluemix}} makes it easy for you to implement, host, and scale services, infrastructure, and apps so you can focus on your application logic and application design. However, not all services and infrastructure are available for purchase in every {{site.data.keyword.Bluemix_notm}} location.
-{:shortdesc} 
+{{site.data.keyword.Bluemix}} makes it easy for you to implement, host, and scale services, infrastructure, and apps so you can focus on your application logic and application design.
+{:shortdesc}
 
-IBM provides SDKs and APIs for all services that are general availablity. Check out the reference docs in the [API & SDK reference library](/docs?tab=api-docs).
+IBM provides SDKs and APIs for all services that are general availablity. Check out the reference docs in the [API & SDK reference library](/docs?tab=api-docs). 
+
+Not all services and infrastructure are available for purchase in every {{site.data.keyword.Bluemix_notm}} location. 
 
 ## Services
 {: #paas-services}
 
-Some services are available to purchase in a location, but that service's data might be hosted in a different location. The following table shows the services that are provided by IBM. For the full list of resources that are available, see the [catalog](https://cloud.ibm.com/catalog){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon") in the {{site.data.keyword.Bluemix_notm}} console.
+Some services are available to purchase in a location, but that service's data might be hosted in a different location. The following table shows the services that are provided by IBM. For the full list of resources that are available, see the [catalog](https://cloud.ibm.com/catalog){: external}  in the {{site.data.keyword.Bluemix_notm}} console.
 
 Services that are hosted globally create resources that operate across multiple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests.
 

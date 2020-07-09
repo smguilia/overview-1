@@ -3,9 +3,9 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2019-06-19"
+lastupdated: "2020-06-18"
 
-keywords: prereqs, platform prereqs, platform prerequisites, platform
+keywords: prereqs, platform prereqs, platform prerequisites, supported browsers, browsers
 
 subcollection: overview
 
@@ -13,7 +13,7 @@ subcollection: overview
 
 {:shortdesc: .shortdesc}
 {:note: .note}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 
 # What are the {{site.data.keyword.Bluemix_notm}} prerequisites?
 {: #prereqs-platform}
@@ -28,11 +28,11 @@ The following list specifies the minimum required browser software for {{site.da
 
  * Chrome: Latest version for your operating system
  * Firefox: Latest regular and ESR versions for your operating system, see [Mozilla Firefox
-Extended Support Release](https://www.mozilla.org/en-US/firefox/organizations/){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon") for more details
+Extended Support Release](https://www.mozilla.org/en-US/firefox/organizations/){: external}  for more details
  * Edge: Latest version for Windows
  * Safari: Latest version for Mac
  
 ## Command-line interface
 {: #cli-platform}
 
-The {{site.data.keyword.Bluemix_notm}} command-line interface (CLI) is constantly changing so it is recommended to go to [Installing the stand-alone {{site.data.keyword.Bluemix_notm}} CLI](/docs/cli?topic=cli-getting-started), which always points to the latest CLI version.
+The {{site.data.keyword.Bluemix_notm}} command-line interface (CLI) is constantly changing so it is recommended to go to [Getting started with the {{site.data.keyword.Bluemix_notm}} CLI](/docs/cli?topic=cli-getting-started), which always points to the latest CLI version.
