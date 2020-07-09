@@ -2,9 +2,9 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-04-30"
+lastupdated: "2020-06-26"
 
-keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support
+keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
 subcollection: overview
 
@@ -13,13 +13,13 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:tip: .tip}
 {:note: .note}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:script: data-hd-video='script'}
 
 # Navigating the {{site.data.keyword.cloud_notm}} console 
 {: #ui}
 
-The {{site.data.keyword.cloud}} console is a user interface that helps you manage all your {{site.data.keyword.cloud_notm}} resources. When you access the [console](https://cloud.ibm.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"), you can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a Menu icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
+The {{site.data.keyword.cloud}} console is a user interface that helps you manage all your {{site.data.keyword.cloud_notm}} resources. When you access the [console](https://cloud.ibm.com){: external} , you can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a Menu icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
 {: shortdesc}
 
 ## Watch a tour
@@ -36,54 +36,54 @@ The {{site.data.keyword.cloud}} console is a user interface that helps you manag
 
 Welcome to IBM Cloud, the home of over 190 unique services that are available for you to start customizing and building the solutions that you need for your business today! [Upbeat music]
 
-After logging in, you're ready to start building right away! From your dashboard, pick the journey that best fits your needs [Click Menu icon > Dashboard]. Start creating apps, add users to your account, or if you wanted to learn about some of our common patterns based on best practices and proven technologies, check out the solution tutorials in the Learn widget. Your dashboard is the place to view a high-level overview of your account usage, support cases, apps, and resources with quick links out to each area.
+After logging in, you're ready to start building right away! From your dashboard, pick the journey that best fits your needs [Click Menu icon > Dashboard]. Start creating apps, add users to your account, or if you wanted to learn about some of our common patterns based on best practices and proven technologies, check out the solution tutorials in the Learn widget. Your dashboard is the place to view a high-level overview of your account usage, support cases, apps, and resources with quick links out to each area.
 
 When you're ready to start adding resources to your account, go to the catalog [Click Catalog menu item]. Get started with some powerful services from Watson in the AI category. Check out our databases, IoT, networking, and storage offerings. And explore the variety of compute options from the IBM Cloud Kubernetes Service to bare metal servers to serverless. If you're just here to try us out, filter the catalog to view offerings with Lite plans, which are free to use [Click Filter to expand the options, and select Lite].
 
-After you start building, go to your resource list [Click Menu icon > Resource list] to get a quick and easy view of all of the resources that have been added to your account. This is where you can access quick options [Expand any category on the resource list, and select the Actions menu icon for any row to display the options] for working with apps, and tag, rename, or delete resources.
+After you start building, go to the My resources page [Click Menu icon > My resources] to get a quick and easy view of all of the resources that have been added to your account. This is where you can access quick options [Expand any category on the My resources page, and select the Actions menu icon for any row to display the options] for working with apps, and tag, rename, or delete resources.
 
 For any of the housekeeping items that you need to take care of as the account owner, such as creating and managing your resource groups, Cloud Foundry orgs and spaces, tags for resources, or account settings, go to Manage > Account [Click Manage menu option > Account].
 
 From the same Manage menu, you can access the Billing and usage area of your account too [Click Manage menu option > Billing and usage]. 
 
-Through the Manage > Access (IAM) option [Click Manage menu item > Access (IAM)], you can invite users to your account and manage their access to account resources including IAM-enabled resources, Cloud Foundry resources, and classic infrastructure resources.
+Through the Manage > Access (IAM) option [Click Manage menu item > Access (IAM)], you can invite users to your account and manage their access to account resources including IAM-enabled resources, Cloud Foundry resources, and classic infrastructure resources.
 
-If you run into any questions as you start building apps, working with users, or building your infrastructure, you can visit the Support page [Click Support menu option] where you'll find common FAQs that can help you to resolve your issue quickly without even having to contact IBM Cloud. However, if you do find the need to get in touch with us or open a support case, those options are also available to you.
+If you run into any questions as you start building apps, working with users, or building your infrastructure, you can visit the Support page [Click Support menu option] where you'll find common FAQs that can help you to resolve your issue quickly without even having to contact IBM Cloud. However, if you do find the need to get in touch with us or open a support case, those options are also available to you.
 
-The docs [Click Docs menu items] are also a helpful guide for walking you through common tasks. You can enter any set of keywords in the docs search bar to help you quickly find the information that you're looking for. 
+The docs [Click Docs menu items] are also a helpful guide for walking you through common tasks. You can enter any set of keywords in the docs search bar to help you quickly find the information that you're looking for. 
 
-Now that you know how to navigate through the IBM Cloud console to set up your account, create resources from the catalog, manage them from your resource list, and find help through support and docs, it's time to get coding and building out your infrastructure!  
+Now that you know how to navigate through the IBM Cloud console to set up your account, create resources from the catalog, manage them from the My resources page, and find help through support and docs, it's time to get coding and building out your infrastructure!  
 
 
 ## Using the console
 {: #consoleoptions}
 
-When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed, which shows widgets that summarize the status of your account. If you're interested in adding or removing widgets, see [Customizing your dashboard](/docs/account?topic=account-custom-dashboard).
+When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed, which shows widgets that summarize the status of your account. If you're interested in customizing your dashboard, see [Working with scoped dashboards](/docs/account?topic=account-custom-dashboard).
 
   * Use the **Catalog** link to create new resources.
   * Use the **Docs** link to access the product documentation. 
   * Use the **Support** link to access the Support Center.  
   * From the **Manage** menu, you can access your account, billing and usage, and Identity and Access Management options.
   * Click the Cost estimator icon ![Cost estimator icon](../icons/Estimator.svg) to open the cost estimator.
-  * Click the Notifications icon ![Notifications icon](../icons/Notification.svg) to access announcements and planned and unplanned events.
+  * Click the Notifications icon ![Notifications icon](../icons/Notification.svg) to  view and control all incidents, maintenance, and announcements that are likely to affect your account.
 
 ## Searching for resources
 {: #search}
 
-You can search for resources by name or by tag from anywhere in the {{site.data.keyword.cloud_notm}} console for resources that you expect to find in the resource list. Type the name of a resource or tag in the search field in the console menu bar.
+You can search for resources by name or by tag from anywhere in the {{site.data.keyword.cloud_notm}} console for resources that you expect to find in the My resources page. Type the name of a resource or tag in the search field in the console menu bar.
 
 For more information, see [Searching for resources](/docs/resources?topic=resources-searching-for-resources). 
 
 ## Managing resources
 {: #dashboardview}
 
-Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) &gt; **Resource List** to access your list of account resources. You can use the resource list to view and work with {{site.data.keyword.cloud_notm}} resources and Cloud Foundry service instances. See [What is a resource?](/docs/resources?topic=resources-resource) for more information about the different types of resources.
+Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) &gt; **Resource List** to access your list of account resources. You can use the My resources page to view and work with {{site.data.keyword.cloud_notm}} resources and Cloud Foundry service instances. See [What is a resource?](/docs/resources?topic=resources-resource) for more information about the different types of resources.
 
 ### Viewing resources
-You can view all the resources in your account across all locations from the resource list. To see the items that are important to you, filter your list with the filters for each column header. For example, if you want to view and work with resources in a specific location, expand the **Location** filter, and select a location from the list.
+You can view all the resources in your account across all locations from the My resources page. To see the items that are important to you, filter your list with the filters for each column header. For example, if you want to view and work with resources in a specific location, expand the **Location** filter, and select a location from the list.
 
 ### Working with resources
-You can work with your resources in various ways from the resource list:
+You can work with your resources in various ways from the My resources page:
 
   * Each resource is displayed in its own row and an Actions icon ![More Actions icon](../icons/action-menu-icon.svg) is included at the end of the row. Click the Actions icon ![More Actions icon](../icons/action-menu-icon.svg) to start, stop, rename, or delete a resource.
   * To set up credentials or connections for a resource, click the name of the resource to navigate to the resource details page. Then, select **Service credentials** or **Connections**. For more information, see [Adding a credential](/docs/resources?topic=resources-service_credentials) and [Managing connections](/docs/resources?topic=resources-connect_app).
@@ -139,7 +139,7 @@ You can manage users in your account, classic infrastructure access for your use
 Use the catalog to place an order. You can navigate to the catalog in one of the following ways:
 
   * Click **Catalog** from the menu bar.
-  * Click the **Menu icon** ![Menu icon](../icons/icon_hamburger.svg) > **Resource List**. Then, click **Create resource**.
+  * Click the **Menu icon** ![Menu icon](../icons/icon_hamburger.svg) > **My resources**. Then, click **Create resource**.
 
 ![Location to place an order.](images/orders.png "Placing an order"){: caption="Figure 3. Placing an order in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
@@ -194,4 +194,4 @@ You can set your preferences to receive emails about platform and infrastructure
 ### Selecting your VPN access point
 {: #vpn-access}
 
-You can log in to the {{site.data.keyword.cloud_notm}} console by using a VPN access point. Go to [VPN access](https://www.ibm.com/cloud-computing/bluemix/vpn-access), and select an access point from the lists.
+You can log in to the {{site.data.keyword.cloud_notm}} console by using a VPN access point. Go to [VPN access](https://www.ibm.com/cloud/vpn-access), and select an access point from the lists.

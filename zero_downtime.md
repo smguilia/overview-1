@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2020
-lastupdated: "2020-06-24"
+lastupdated: "2020-06-23"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design
 
@@ -17,7 +17,7 @@ subcollection: overview
 
 {:codeblock: .codeblock}
 {:screen: .screen}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
 {:note: .note}
@@ -26,7 +26,7 @@ subcollection: overview
 # How {{site.data.keyword.cloud_notm}} ensures high availability and disaster recovery
 {: #zero-downtime}
 
-Your global strategy is important, and {{site.data.keyword.cloud}} uses global load balancing to ensure a redundant, highly available platform is available for you to host your workloads and applications.
+Your global strategy is important, and {{site.data.keyword.cloud}} uses global load balancing to ensure a redundant, highly-available platform is available for you to host your workloads and applications.
 {:shortdesc} 
 
 ## High availability for the platform
@@ -46,12 +46,13 @@ Each platform service is categorized as a general availability service with a [S
 |        IAM       |      [Getting started with IAM](/docs/iam?topic=iam-getstarted)             |
 |  Account management  |    [Best practices for setting up your account](/docs/account?topic=account-account_setup) and [Best practices for billing and usage](/docs/billing-usage?topic=billing-usage-best-practices)     |
 | {{site.data.keyword.cloud-shell_short}} | [Understanding high availability and disaster recovery for Cloud Shell](/docs/cloud-shell?topic=cloud-shell-ha-dr) |
+| {{site.data.keyword.compliance_short}} | [Meeting your security and compliance goals](/docs/security-compliance?topic=security-compliance-best-practices) |
 {: caption="Table 1. Platform services" caption-side="top"}
 
 {{site.data.keyword.cloud-shell_short}} is [regionally available](/docs/cloud-shell?topic=cloud-shell-ha-dr) in the Dallas, Frankfurt, and Tokyo regions, which means that automated global failover isn't supported. If a region is unavailable, {{site.data.keyword.cloud-shell_short}} also becomes unavailable in that region.
 {: note}
 
-## High availability for services and infrastructure
+## High availability for resources
 {: #services-ha}
 
 High availability and disaster recovery aren't universal across all resources, so the type of high availability and disaster recovery that's available depends on the resource that you're using. All {{site.data.keyword.Bluemix_notm}} resources are hosted in data center locations around the world. The locations that you deploy your app to can spread workloads across data centers, and you can ensure that a failover design is in place to keep your app up and running. 

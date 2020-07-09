@@ -2,9 +2,9 @@
 
 copyright:
   years: 2019, 2020
-lastupdated: "2020-06-19"
+lastupdated: "2020-07-09"
 
-keywords: data center, data centers, data center locations, specific data center, individual data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global load balancing, geo, load balancing, availability zones, zones, north america, south america, europe, asia, DC, failover, tiers, globally resilient, resilient
+keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
 subcollection: overview
 
@@ -14,12 +14,12 @@ subcollection: overview
 {:tip: .tip}
 {:note: .note}
 {:term: .term}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 
 # Locations for resource deployment
 {: #locations}
 
-{{site.data.keyword.cloud}} has a resilient global network of locations consisting of regions, zones, and data centers to host your highly available cloud workload. You can create resources in different locations but with the same billing and usage view, and deploy your apps to the location that is nearest to your customers to achieve low application latency.
+{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations but with the same billing and usage view, and deploy your apps to the location that is nearest to your customers to achieve low application latency.
 {: shortdesc}
 
 {{site.data.keyword.cloud_notm}} provides 3 tiers of regions: multizone regions (MZR), single-zone regions( SZR), and data centers. For more details, see the following sections.

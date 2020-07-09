@@ -4,13 +4,13 @@ copyright:
   years: 2020
 lastupdated: "2020-05-08"
 
-keywords: compliance, environmental information 
+keywords: compliance, environmental information
 
 subcollection: overview
 
 ---
 
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:shortdesc: .shortdesc}
 {:screen: .screen}
 {:codeblock: .codeblock}
@@ -22,11 +22,10 @@ subcollection: overview
 # Understanding {{site.data.keyword.Bluemix_notm}} compliance
 {: #compliance}
 
-{{site.data.keyword.cloud_notm}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001/27017/27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/compliance){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon").
+{{site.data.keyword.cloud_notm}} provides a secure cloud platform that you can trust. {{site.data.keyword.cloud_notm}} compliance results from a platform and services that are built on best-in-industry security standards, including GDPR, HIPAA, ISO 9001, ISO 27001/27017/27018, PCI, SOC2, and others. For more information, see [Compliance on the {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/compliance){: external} .
 
 ## Compliance reports
 {: #reports}
-
 {{site.data.keyword.cloud_notm}} provides compliance reports for some compliance regulations, for example SOC or PCI, to advise clients. The reports include details of the audit experience and can help users assess and address the high, medium, and low risks identified.
 
 If you have an {{site.data.keyword.cloud_notm}} account and want an infrastructure compliance report, go to [https://cloud.ibm.com/classic/security/compliancereport/request](https://cloud.ibm.com/classic/security/compliancereport/request). Fill out the form and you will receive an email with the requested reports attached.
@@ -44,7 +43,6 @@ The GDPR seeks to create a harmonized data protection law framework across the E
 
 ## Environmental information
 {: #environment-info}
-
 {{site.data.keyword.cloud_notm}}, as a user and as a provider, is environmentally conscious and strives to provide power efficiency and recycling in our data centers. As such, the servers put in service within the {{site.data.keyword.cloud_notm}} comply with Commission Regulation (EU) 2019/424 of 15 March 2019 laying down ecodesign requirements for servers and data storage products (EU Lot 9).
 
 For details, see the following data sheets on our physical hardware in the cloud:

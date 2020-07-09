@@ -13,7 +13,7 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:tip: .tip}
 {:note: .note}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 
 
 # Service Level Agreements (SLAs)
@@ -24,7 +24,7 @@ subcollection: overview
 
 {{site.data.keyword.Bluemix_notm}} provides SLAs for {{site.data.keyword.Bluemix_notm}} services that might make you eligible for credits toward your account. SLAs are your only way to resolve {{site.data.keyword.Bluemix_notm}}'s failure to meet a specified service level. 
 
-The complete Service Description for {{site.data.keyword.Bluemix_notm}} is available at [Cloud Services terms](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon").
+The complete Service Description for {{site.data.keyword.Bluemix_notm}} is available at [Cloud Services terms](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: external} .
 
 ## Availability SLA 
 {: #avail-downtime}
@@ -35,7 +35,7 @@ You're eligible for a credit toward your account if you experience availability 
 
 | Type	                                     | Description	      | Support Details|
 |--------------------------------------------|--------------------|----------------|
-| High availability for a public environment | Other Environments | Credit         |
+| High availability for a public environment | Other environments | Credit         |
 | <99.99%                                    |<99.9%              |10%             |
 | <99.9%                                    |<99.0%              |25%             |
 {: caption="Table 1. Monthly availability service level" caption-side="top"}
@@ -76,7 +76,7 @@ Service level time periods exclude anytime that is required to reload the operat
 ## Claims
 {: #claims}
 
-To submit a claim for downtime, [create a support case](https://cloud.ibm.com/unifiedsupport/cases/add){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). Title your case `SLA credit request`, and provide sufficient information to identify the affected service, error messages, and other information necessary to validate the claim.
+To submit a claim for downtime, [create a support case](https://cloud.ibm.com/unifiedsupport/cases/add){: external} . Title your case `SLA credit request`, and provide sufficient information to identify the affected service, error messages, and other information necessary to validate the claim.
 
 Submit your claim within 60 days of the end of the contracted month that the service level was missed.  
 

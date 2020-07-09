@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-07-08"
+lastupdated: "2020-07-07"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -89,7 +89,7 @@ The United States prohibits most commercial transactions and other dealings with
 
 {{site.data.keyword.cloud_notm}} implements network-wide blocking of communications to IP addresses which originate from countries subject to those trade and economic sanctions. This policy affects all {{site.data.keyword.cloud_notm}} data center locations and environments, and blocks access by IP addresses registered to countries subject to U.S. trade and economic sanctions.
 
-To identify IP addresses associated with U.S. embargoed countries, {{site.data.keyword.cloud_notm}} references the Geo IP2 Database maintained by [MaxMind ![External link icon](../../icons/launch-glyph.svg)](http://www.maxmind.com){: new_window}). {{site.data.keyword.cloud_notm}} updates its IP address country mapping on a quarterly basis.
+To identify IP addresses associated with U.S. embargoed countries, {{site.data.keyword.cloud_notm}} references the Geo IP2 Database maintained by [MaxMind ![External link icon](../icons/launch-glyph.svg)](http://www.maxmind.com){: external}). {{site.data.keyword.cloud_notm}} updates its IP address country mapping on a quarterly basis.
 
 Note: This restriction does not apply to content that is not prohibited under U.S. sanctions and embargoes. Please email IBM_Cloud_Embargo_Exemption_Request@wwpdl.vnet.ibm.com if you believe your content is not prohibited under U.S. trade and economic sanctions. 
 
@@ -384,11 +384,11 @@ SCREENSHOTS [shortid]
 ## Trademarks
 {: #trademarks}
 
-{{site.data.keyword.IBM_notm}}, the {{site.data.keyword.IBM_notm}} logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corp., registered in many jurisdictions worldwide. Other product and service names might be trademarks of {{site.data.keyword.IBM_notm}} or other companies. A current list of {{site.data.keyword.IBM_notm}} trademarks is available on the web at [Copyright and trademark information ![External link icon](../../icons/launch-glyph.svg)](https://www.ibm.com/legal/copytrade){: new_window}.
+{{site.data.keyword.IBM_notm}}, the {{site.data.keyword.IBM_notm}} logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corp., registered in many jurisdictions worldwide. Other product and service names might be trademarks of {{site.data.keyword.IBM_notm}} or other companies. A current list of {{site.data.keyword.IBM_notm}} trademarks is available on the web at [Copyright and trademark information ![External link icon](../icons/launch-glyph.svg)](https://www.ibm.com/legal/copytrade){: external}.
 
 Adobe, the Adobe logo, PostScript, and the PostScript logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States, and/or other countries.
 
-The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the [Creative Commons 3.0 Attribution License ![External link icon](../../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: new_window}.
+The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the [Creative Commons 3.0 Attribution License ![External link icon](../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: external}.
 
 Linux is a registered trademark of Linus Torvalds in the United States, other countries, or both.
 
