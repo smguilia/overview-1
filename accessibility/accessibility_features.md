@@ -29,7 +29,7 @@ Accessibility features assist users who have a disability, such as restricted mo
 * Keyboard-only operation
 * Operations that use a screen reader
 
-{{site.data.keyword.Bluemix_notm}} uses the latest W3C Standard, [WAI-ARIA 1.0](http://www.w3.org/TR/wai-aria/){: new_window} to ensure compliance to [US Section 508 ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards){: new_window} and [Web Content Accessibility Guidelines (WCAG) 2.0 ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://www.w3.org/TR/WCAG20/){: new_window}. To take advantage of accessibility features, use the latest release of your screen reader in combination with the latest Internet Explorer web browser that is supported by this product.
+{{site.data.keyword.Bluemix_notm}} uses the latest W3C Standard, [WAI-ARIA 1.0](http://www.w3.org/TR/wai-aria/){: external} to ensure compliance to [US Section 508](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards){: external} and [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/){: external}. To take advantage of accessibility features, use the latest release of your screen reader in combination with the latest Internet Explorer web browser that is supported by this product.
 
 The {{site.data.keyword.Bluemix_notm}} online product documentation and the {{site.data.keyword.Bluemix_notm}} user interface framework is enabled for accessibility. 
 
