@@ -41,7 +41,7 @@ Each platform service is categorized as a general availability service with a [S
 | Platform Service | Details |
 |------------------|----------------|
 | Console | [Navigating the console](/docs/overview?topic=overview-ui) |
-| Catalogs    |    [Working with the IBM Cloud catalog and your private catalogs](/docs/account?topic=account-restrict-by-user)               |
+| Catalogs    |     [Managing catalog settings](/docs/account?topic=account-filter-account)         |
 |      Global search and tagging         |    [Searching for resources](/docs/account?topic=account-searching-for-resources) and [Working with tags](/docs/account?topic=account-tag)        |
 |        IAM       |      [What is IBM Cloud Identity and Access Management?](/docs/account?topic=account-iamoverview)             |
 |  Account management  |    [Best practices for setting up your account](/docs/account?topic=account-account_setup) and [Best practices for billing and usage](/docs/billing-usage?topic=billing-usage-best-practices)     |
