@@ -112,7 +112,8 @@ This section consists of the following:
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/2.5/legalcode.
 
-JCIP-ANNOTATIONS [HttpCore] (Copyright not found) (http://www-eu.apache.org/dist//httpcomponents/httpcore/source/httpcomponents-core-4.4.4-src.zip)
+JCIP-ANNOTATIONS [HttpCore] (Copyright not found) 
+<!-- (http://www-eu.apache.org/dist/httpcomponents/httpcore/source/httpcomponents-core-4.4.4-src.zip) -->
 
 #### Creative Commons Attribution 3.0 Generic
 {: #console-30}
