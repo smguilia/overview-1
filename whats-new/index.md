@@ -89,7 +89,7 @@ By using this new integration between {{site.data.keyword.appid_short}} and {{si
 {: #enterprise-catalog-filter}
 New as of: 01 May 2020
 
-You can now use filters to customize which products in the {{site.data.keyword.Bluemix_notm}} catalog are available in accounts within an enterprise hierarchy. Filters that are set at a parent account level apply to all child account groups and accounts. For more information, see [Customizing your private catalogs](/docs/account?topic=account-restrict-by-user).   
+You can now use filters to customize which products in the {{site.data.keyword.Bluemix_notm}} catalog are available in accounts within an enterprise hierarchy. Filters that are set at a parent account level apply to all child account groups and accounts. For more information, see [Managing products for an {{site.data.keyword.Bluemix_notm}} enterprise](/docs/account?topic=account-catalog-enterprise-restrict).    
 
 ### Unified notifications experience
 {: #unified-notifications-experience}
