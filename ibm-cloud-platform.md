@@ -47,7 +47,7 @@ If you're a developer and you're just trying out {{site.data.keyword.Bluemix_not
 * Resource groups for organizing your resources to make assigning access to a set of resources quick and easy.
 * Access policies for your access groups or individual developers who need IAM access policies or Cloud Foundry org and space roles.
 
-For more information, see the [best practices for setting up your account](/docs/account?topic=account-account_setup) and [best practices for assigning access](/docs/iam?topic=iam-account_setup). 
+For more information, see the [best practices for organizing your resources and assigning access](/docs/account?topic=account-account_setup).
 
 As a financial officer for your company, you might be interested in simplifying how you manage billing and usage across multiple teams and departments. With a Subscription account, you can create an {{site.data.keyword.Bluemix_notm}} enterprise, which offers centralized account management, consolidated billing, and top-down usage reporting. An enterprise consists of an enterprise account, account groups, and individual accounts. 
 

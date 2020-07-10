@@ -41,12 +41,11 @@ Each platform service is categorized as a general availability service with a [S
 | Platform Service | Details |
 |------------------|----------------|
 | Console | [Navigating the console](/docs/overview?topic=overview-ui) |
-| Catalogs    |    [Working with the IBM Cloud catalog and your private catalogs](/docs/account?topic=account-manage-catalog)               |
-|      Global search and tagging         |    [Searching for resources](/docs/resources?topic=resources-searching-for-resources) and [Working with tags](/docs/resources?topic=resources-tag)        |
-|        IAM       |      [Getting started with IAM](/docs/iam?topic=iam-getstarted)             |
+| Catalogs    |    [Working with the IBM Cloud catalog and your private catalogs](/docs/account?topic=account-restrict-by-user)               |
+|      Global search and tagging         |    [Searching for resources](/docs/account?topic=account-searching-for-resources) and [Working with tags](/docs/account?topic=account-tag)        |
+|        IAM       |      [What is IBM Cloud Identity and Access Management?](/docs/account?topic=account-iamoverview)             |
 |  Account management  |    [Best practices for setting up your account](/docs/account?topic=account-account_setup) and [Best practices for billing and usage](/docs/billing-usage?topic=billing-usage-best-practices)     |
 | {{site.data.keyword.cloud-shell_short}} | [Understanding high availability and disaster recovery for Cloud Shell](/docs/cloud-shell?topic=cloud-shell-ha-dr) |
-| {{site.data.keyword.compliance_short}} | [Meeting your security and compliance goals](/docs/security-compliance?topic=security-compliance-best-practices) |
 {: caption="Table 1. Platform services" caption-side="top"}
 
 {{site.data.keyword.cloud-shell_short}} is [regionally available](/docs/cloud-shell?topic=cloud-shell-ha-dr) in the Dallas, Frankfurt, and Tokyo regions, which means that automated global failover isn't supported. If a region is unavailable, {{site.data.keyword.cloud-shell_short}} also becomes unavailable in that region.

@@ -24,7 +24,7 @@ subcollection: overview
 This quick start guide is intended to help account admins set up their {{site.data.keyword.Bluemix}} environment. 
 {:shortdesc}
 
-1. Create resource groups to organize the resources that you create from the {{site.data.keyword.Bluemix_notm}} catalog. For more information, see [Best practices for organizing resources in resource groups](/docs/resources?topic=resources-bp_resourcegroups).
+1. Create resource groups to organize the resources that you create from the {{site.data.keyword.Bluemix_notm}} catalog. For more information, see [Best practices for organizing resources and assigning access](/docs/account?topic=account-account_setup).
 
   Creating a resource group ahead of time is important because after you assign a resource to a resource group, it can't be moved.
   {:tip}
