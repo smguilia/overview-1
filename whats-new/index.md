@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-07-06"
+lastupdated: "2020-07-10"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -28,6 +28,12 @@ If you're looking for updates for the services that are available on {{site.data
 
 ## {{site.data.keyword.Bluemix_notm}} platform
 {: #platform_category}
+
+### Notification distribution list
+{: #notification-distribution}
+New as of: 07 July 2020
+
+You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](https://cloud.ibm.com/docs/account?topic=account-email-prefs#adding-users-to-a-distribution-list})
 
 ### CLI support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 {: #enterprise-filter-cli}
@@ -95,7 +101,7 @@ You can now use filters to customize which products in the {{site.data.keyword.B
 {: #unified-notifications-experience}
 New as of: 21 April 2020
 
-Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the Notifications icon ![Notifications icon](../icons/Notification.svg) from the console menu bar to view your notifications.
+Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notification icon](../icons/Notification.svg) on the console menu bar to view your notifications.
 
 Additionally, you can find all infrastructure notifications on the new notifications page. To learn more about the new notifications experience, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
 
