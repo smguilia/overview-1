@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-07-09"
+lastupdated: "2020-07-14"
 
 keywords: console, platform overview, overview, data center 
 
@@ -82,6 +82,7 @@ The following table lists the filter options you can use when searching the cata
 | Developer Tools | Products that support developing, testing, and debugging software. |
 | Integration | Products that facilitate the connection of data, apps, APIs, and devices across an organization to be more efficient, productive, and agile. |
 | Internet of Things | Products that support receiving and transferring data over wireless networks without human intervention. |
+| Logging and Monitoring | Products that support storing, searching, analyzing, and monitoring log data and events. And, products that support reviewing and managing the operational workflow and processes being logged. |
 | Mobile | Products with specific or special utility for users creatings things to be used on mobile devices. |
 | Networking | Products that support or augment the linking of computers so they can operate interactively. |
 | Security | Products that provide the protection of stored data from theft, leakage, and deletion. |
