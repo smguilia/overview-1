@@ -70,5 +70,5 @@ The content team receives the issues that you open and works to address the feed
 ## Submitting ideas for product improvements
 {: #ideas}
 
-To submit ideas for {{site.data.keyword.Bluemix_notm}} and services improvements, go to [IBM Cloud Ideas ![External link icon](../icons/launch-glyph.svg)](https://ibmcloud.ideas.aha.io){: external}. For more information on how to use the idea portal, see [Think, write, submit: New ideas portal for IBM Cloud ![External link icon](../icons/launch-glyph.svg)](https://www.ibm.com/blogs/bluemix/2016/10/think-write-submit/){: external}.
+To submit ideas for {{site.data.keyword.Bluemix_notm}} and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.aha.io){: external}. For more information on how to use the idea portal, see [Think, write, submit: New ideas portal for IBM Cloud](https://www.ibm.com/blogs/bluemix/2016/10/think-write-submit/){: external}.
 
