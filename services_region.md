@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-07-16"
+lastupdated: "2020-07-20"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -53,6 +53,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
 | Cloudant | Hosted Globally | Hosted Globally | 
+| Code Engine | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Compare and Comply | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose Enterprise | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -123,7 +124,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Project Coligo | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Public Gateway for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Push Notifications | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Real-Time Payments | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -179,6 +179,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
 | Cloudant | Hosted Globally | Hosted Globally | 
+| Code Engine |  |  | 
 | Compare and Comply |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose Enterprise | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -249,7 +250,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios |  |  | 
-| Project Coligo |  |  | 
 | Public Gateway for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Push Notifications | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
@@ -305,6 +305,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloudant | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Code Engine |  |  |  |  | 
 | Compare and Comply |  |  |  |  | 
 | Compose Enterprise | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -375,7 +376,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization |  |  |  |  | 
 | Power Systems Virtual Server |  |  |  |  | 
 | Predictive Market Scenarios |  |  |  |  | 
-| Project Coligo |  |  |  |  | 
 | Public Gateway for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Push Notifications | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Real-Time Payments |  |  |  |  | 
