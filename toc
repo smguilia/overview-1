@@ -40,7 +40,6 @@ Getting started with IBM Cloud
     Product availability and locations
         services_region.md
         locations.md
-        services_availability.md
 
     certifications.md
     shared-responsibility.md
@@ -50,6 +49,7 @@ Getting started with IBM Cloud
         terms-of-use/termsofuse.md
         terms-of-use/notices.md
         slas.md
+        services_availability.md
 
     {: .topicgroup}
     General resources
