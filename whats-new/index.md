@@ -69,12 +69,6 @@ Four new Software Development Kits (SDKs) for the catalog management service, wh
 
 For more information, see the [Catalog Management API reference](https://cloud.ibm.com/apidocs/resource-catalog/private-catalog){: external}. 
 
-### OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
-{: #ova-vcenter-support}
-New as of: 07 July 2020
-
-With the deployment power of the {{site.data.keyword.Bluemix_notm}} Schematics service, support for third-party OVA images targeting VMware vCenter Server deployments is now available. To quickly find the available products in the [catalog](https://cloud.ibm.com/catalog){: external}, click **Software**, and select **OVA Images** from the **Software** list. 
-
 ### {{site.data.keyword.cloud-shell_notm}} is generally available
 {: #cloud-shell-ga}
 New as of: 24 June 2020
