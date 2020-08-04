@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-07-10"
+lastupdated: "2020-08-04"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -28,6 +28,12 @@ If you're looking for updates for the services that are available on {{site.data
 
 ## {{site.data.keyword.Bluemix_notm}} platform
 {: #platform_category}
+
+### OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
+{: #ova-vcenter-support}
+New as of: 04 August 2020
+
+With the deployment power of the {{site.data.keyword.Bluemix_notm}} Schematics service, support for third-party OVA images targeting VMware vCenter Server deployments is now available. To quickly find the available products in the [catalog](https://cloud.ibm.com/catalog){: external}, click **Software**, and select **OVA Images** from the **Software** list. 
 
 ### Notification distribution list
 {: #notification-distribution}
