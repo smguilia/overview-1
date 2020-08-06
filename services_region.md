@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-08-05"
+lastupdated: "2020-08-06"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -336,7 +336,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Discovery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Event Streams | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Floating IP for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Flow Logs for VPC |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Flow Logs for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Functions |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Globalization Pipeline | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Historical Instrument Analytics |  |  |  |  | 
@@ -371,7 +371,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Mobile Foundation | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Natural Language Classifier |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Network ACL |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Personality Insights | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Portfolio Optimization |  |  |  |  | 
 | Power Systems Virtual Server |  |  |  |  | 
