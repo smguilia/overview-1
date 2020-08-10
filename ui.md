@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-07-10"
+lastupdated: "2020-08-10"
 
 keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -40,7 +40,7 @@ After logging in, you're ready to start building right away! From your dashboard
 
 When you're ready to start adding resources to your account, go to the catalog [Click Catalog menu item]. Get started with some powerful services from Watson in the AI category. Check out our databases, IoT, networking, and storage offerings. And explore the variety of compute options from the IBM Cloud Kubernetes Service to bare metal servers to serverless. If you're just here to try us out, filter the catalog to view offerings with Lite plans, which are free to use [Click Filter to expand the options, and select Lite].
 
-After you start building, go to the My resources page [Click Menu icon > My resources] to get a quick and easy view of all of the resources that have been added to your account. This is where you can access quick options [Expand any category on the My resources page, and select the Actions menu icon for any row to display the options] for working with apps, and tag, rename, or delete resources.
+After you start building, go to your resource list [Click Menu icon > Resource list] to get a quick and easy view of all of the resources that have been added to your account. This is where you can access quick options [Expand any category on the resource list, and select the Actions menu icon for any row to display the options] for working with apps, and tag, rename, or delete resources.
 
 For any of the housekeeping items that you need to take care of as the account owner, such as creating and managing your resource groups, Cloud Foundry orgs and spaces, tags for resources, or account settings, go to Manage > Account [Click Manage menu option > Account].
 
@@ -52,7 +52,7 @@ If you run into any questions as you start building apps, working with users, or
 
 The docs [Click Docs menu items] are also a helpful guide for walking you through common tasks. You can enter any set of keywords in the docs search bar to help you quickly find the information that you're looking for. 
 
-Now that you know how to navigate through the IBM Cloud console to set up your account, create resources from the catalog, manage them from the My resources page, and find help through support and docs, it's time to get coding and building out your infrastructure!  
+Now that you know how to navigate through the IBM Cloud console to set up your account, create resources from the catalog, manage them from your resource list, and find help through support and docs, it's time to get coding and building out your infrastructure!  
 
 
 ## Using the console
@@ -71,20 +71,20 @@ When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed
 ## Searching for resources
 {: #search}
 
-You can search for resources by name or by tag from anywhere in the {{site.data.keyword.cloud_notm}} console for resources that you expect to find in the My resources page. Type the name of a resource or tag in the search field in the console menu bar.
+You can search for resources by name or by tag from anywhere in the {{site.data.keyword.cloud_notm}} console for resources that you expect to find in your resource list. Type the name of a resource or tag in the search field in the console menu bar.
 
 For more information, see [Searching for resources](/docs/resources?topic=resources-searching-for-resources). 
 
 ## Managing resources
 {: #dashboardview}
 
-Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) &gt; **Resource List** to access your list of account resources. You can use the My resources page to view and work with {{site.data.keyword.cloud_notm}} resources and Cloud Foundry service instances. See [What is a resource?](/docs/resources?topic=resources-resource) for more information about the different types of resources.
+Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) &gt; **Resource List** to access your list of account resources. You can use the Resource list page to view and work with {{site.data.keyword.cloud_notm}} resources and Cloud Foundry service instances. See [What is a resource?](/docs/resources?topic=resources-resource) for more information about the different types of resources.
 
 ### Viewing resources
-You can view all the resources in your account across all locations from the My resources page. To see the items that are important to you, filter your list with the filters for each column header. For example, if you want to view and work with resources in a specific location, expand the **Location** filter, and select a location from the list.
+You can view all the resources in your account across all locations from your resource list. To see the items that are important to you, filter your list with the filters for each column header. For example, if you want to view and work with resources in a specific location, expand the **Location** filter, and select a location from the list.
 
 ### Working with resources
-You can work with your resources in various ways from the My resources page:
+You can work with your resources in various ways from your resource list:
 
   * Each resource is displayed in its own row and an Actions icon ![More Actions icon](../icons/action-menu-icon.svg) is included at the end of the row. Click the Actions icon ![More Actions icon](../icons/action-menu-icon.svg) to start, stop, rename, or delete a resource.
   * To set up credentials or connections for a resource, click the name of the resource to navigate to the resource details page. Then, select **Service credentials** or **Connections**. For more information, see [Adding a credential](/docs/resources?topic=resources-service_credentials) and [Managing connections](/docs/resources?topic=resources-connect_app).
@@ -140,7 +140,7 @@ You can manage users in your account, classic infrastructure access for your use
 Use the catalog to place an order. You can navigate to the catalog in one of the following ways:
 
   * Click **Catalog** from the menu bar.
-  * Click the **Menu icon** ![Menu icon](../icons/icon_hamburger.svg) > **My resources**. Then, click **Create resource**.
+  * Click the **Menu icon** ![Menu icon](../icons/icon_hamburger.svg) > **Resource list**. Then, click **Create resource**.
 
 ![Location to place an order.](images/orders.png "Placing an order"){: caption="Figure 3. Placing an order in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
