@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-08-04"
+lastupdated: "2020-08-11"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -28,6 +28,13 @@ If you're looking for updates for the services that are available on {{site.data
 
 ## {{site.data.keyword.Bluemix_notm}} platform
 {: #platform_category}
+
+### Customizing scoped dashboards 
+{: #scoped-dash-aug2020}
+
+New as of: 10 August 2020
+
+Create and manage customized dashboards that can be used to offer an organized and relevant workspace. You can share the dashboards with different users in your account or as a way to group resources for specific projects or teams. When you create a new dashboard, you can start from scratch with a blank template or choose one of the other available template layouts. For more information, see [Working with scoped dashboards](https://test.cloud.ibm.com/docs/account?topic=account-custom-dashboard).
 
 ### OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
 {: #ova-vcenter-support}
