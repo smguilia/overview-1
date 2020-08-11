@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-06-17"
+lastupdated: "2020-08-11"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -1641,6 +1641,16 @@ A unique address that is used to identify content on the web. The most common fo
 {: #x2042491}
 
 The unique address of an information resource that is accessible in a network such as the Internet. The URL includes the abbreviated name of the protocol used to access the information resource and the information used by the protocol to locate the information resource. See also [custom domain](/docs/overview?topic=overview-glossary#x5728384), [domain](/docs/overview?topic=overview-glossary#x2021210), [host](/docs/overview?topic=overview-glossary#x2002243), [route](/docs/overview?topic=overview-glossary#x2037338), [subdomain](/docs/overview?topic=overview-glossary#x2040080).
+
+### unit of measure (UOM)
+{: #x4259569}
+
+A standardized unit that is used to measure a specified property of something.
+
+### UOM
+{: #x5783003}
+
+See [unit of measure](/docs/overview?topic=overview-glossary#x4259569).
 
 ### URI
 {: #x2116461}
