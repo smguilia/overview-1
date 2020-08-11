@@ -1255,6 +1255,13 @@ To send information from a server to a client. When a server pushes content, it 
 
 An alert indicating a change or update on a mobile app icon.
 
+## Q
+{: #glossq}
+
+### quota
+{: #x2437020}
+
+The number of resources that can be consumed at an account or service instance level.
 
 ## R
 {: #glossr}
