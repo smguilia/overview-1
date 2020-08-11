@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-08-10"
+lastupdated: "2020-08-11"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -43,7 +43,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Annotator for Clinical Data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Automated Accessibility Tester | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Availability Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -79,7 +78,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Db2 Hosted | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Db2 Warehouse | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Digital Content Checker | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Direct Link Dedicated | Hosted Globally | Hosted Globally | 
 | Discovery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Event Streams | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -169,7 +167,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Annotator for Clinical Data |  |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Automated Accessibility Tester | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Availability Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
@@ -205,7 +202,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Db2 Hosted | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Db2 Warehouse | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Digital Content Checker | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Direct Link Dedicated | Hosted Globally | Hosted Globally | 
 | Discovery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Event Streams | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -295,7 +291,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Annotator for Clinical Data |  |  |  |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Automated Accessibility Tester | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | Availability Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Blockchain | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
@@ -331,7 +326,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Db2 Hosted | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Db2 Warehouse | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Digital Content Checker | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | Direct Link Dedicated | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Discovery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Event Streams | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
