@@ -42,6 +42,13 @@ New as of: 04 August 2020
 
 With the deployment power of the {{site.data.keyword.Bluemix_notm}} Schematics service, support for third-party OVA images targeting VMware vCenter Server deployments is now available. To quickly find the available products in the [catalog](https://cloud.ibm.com/catalog){: external}, click **Software**, and select **OVA Images** from the **Software** list. 
 
+### Audit logs for private catalogs
+{: #audit-logs-catalogs}
+
+New as of: 04 August 2020
+
+View recorded changes to your private catalogs with the new audit logs feature. Audit logs are recorded when you create, delete, or update your private catalog. Visit your Audit logs page in the {{site.data.keyword.Bluemix_notm}} console by going to **Manage** > **Catalogs**, and selecting **Audit logs**. For more information, see [Viewing changes to your private catalogs](/docs/account?topic=account-catalog-audit-logs).
+
 ### Notification distribution list
 {: #notification-distribution}
 New as of: 07 July 2020
