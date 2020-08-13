@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-08-11"
+lastupdated: "2020-08-12"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -28,6 +28,15 @@ If you're looking for updates for the services that are available on {{site.data
 
 ## {{site.data.keyword.Bluemix_notm}} platform
 {: #platform_category}
+
+### Increased usage quota and other updates to {{site.data.keyword.cloud-shell_notm}}
+{: #cloud-shell-aug2020}
+
+New as of: 12 August 2020
+
+With this update to {{site.data.keyword.cloud-shell_notm}}, the weekly usage quota was increased from 30 hours a week to 50 hours a week so that you can use {{site.data.keyword.cloud-shell_short}} even more. Also, {{site.data.keyword.cloud-shell_short}} was changed to have separate workspaces for each user and account, whereas previously each user's workspace was shared across all of their accounts. In your sessions, you'll also now have access to more command-line tools with the addition of the Operator SDK for Kubernetes, the Mercurial source content management tool, and the Bazaar version control system, as well as updates to existing tools.
+
+For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
 
 ### Customizing scoped dashboards 
 {: #scoped-dash-aug2020}
