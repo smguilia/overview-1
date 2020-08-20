@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-08-12"
+lastupdated: "2020-08-20"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -28,6 +28,20 @@ If you're looking for updates for the services that are available on {{site.data
 
 ## {{site.data.keyword.Bluemix_notm}} platform
 {: #platform_category}
+
+### {{site.data.keyword.cloud_notm}} CLI Version 1.2.0 is now available
+{: #cli-120}
+
+New as of: 20 August 2020
+
+The 1.2.0 release of the {{site.data.keyword.cloud_notm}} CLI includes:
+ * New commands under `sl loadbal` namespace to support the {{site.data.keyword.loadbalancer_full}} service.
+ * Output CSV support for billing commands.
+ * Validation of service instance ID input in policy commands under `iam` namespace.
+ * Additional deployment capabilities with the `ibmcloud dev` command, including manual deployment to Knative and deployment to {{site.data.keyword.openshiftlong}} containers.
+ * Deprecation of the `cfee` namespace.
+
+For more information about the {{site.data.keyword.cloud_notm}} CLI, see [Getting started with the IBM Cloud CLI](/docs/cli?topic=cloud-cli-getting-started).
 
 ### Increased usage quota and other updates to {{site.data.keyword.cloud-shell_notm}}
 {: #cloud-shell-aug2020}
