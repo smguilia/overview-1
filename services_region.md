@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-08-19"
+lastupdated: "2020-08-20"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -76,7 +76,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Databases for PostgreSQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for Redis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Db2 | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Db2 | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Db2 Hosted | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Db2 Warehouse | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Direct Link Dedicated | Hosted Globally | Hosted Globally | 
@@ -85,7 +85,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Floating IP for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Flow Logs for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Functions | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Globalization Pipeline | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Historical Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -209,7 +208,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Floating IP for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Flow Logs for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Functions | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Globalization Pipeline | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Historical Instrument Analytics |  |  | 
 | Hyper Protect Crypto Services |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -324,7 +322,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Databases for PostgreSQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Databases for Redis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Databases for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Db2 | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| Db2 | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Db2 Hosted | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Db2 Warehouse | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Direct Link Dedicated | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
@@ -333,7 +331,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Floating IP for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Flow Logs for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Functions |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Globalization Pipeline | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Historical Instrument Analytics |  |  |  |  | 
 | Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
