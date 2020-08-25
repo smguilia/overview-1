@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-08-20"
+lastupdated: "2020-08-24"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -41,7 +41,7 @@ The 1.2.0 release of the {{site.data.keyword.cloud_notm}} CLI includes:
  * Additional deployment capabilities with the `ibmcloud dev` command, including manual deployment to Knative and deployment to {{site.data.keyword.openshiftlong}} containers.
  * Deprecation of the `cfee` namespace.
 
-For more information about the {{site.data.keyword.cloud_notm}} CLI, see [Getting started with the IBM Cloud CLI](/docs/cli?topic=cloud-cli-getting-started).
+For more information, see [Getting started with the {{site.data.keyword.cloud_notm}} CLI](/docs/cli?topic=cli-getting-started).
 
 ### Increased usage quota and other updates to {{site.data.keyword.cloud-shell_notm}}
 {: #cloud-shell-aug2020}
@@ -76,7 +76,7 @@ View recorded changes to your private catalogs with the new audit logs feature. 
 {: #notification-distribution}
 New as of: 07 July 2020
 
-You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](https://cloud.ibm.com/docs/account?topic=account-email-prefs#adding-users-to-a-distribution-list})
+You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](/docs/account?topic=account-email-prefs#adding-users-to-a-distribution-list).
 
 ### CLI support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 {: #enterprise-filter-cli}
@@ -126,7 +126,7 @@ New as of: 21 May 2020
 
 You can now connect your external identity provider to an {{site.data.keyword.appid_full_notm}} instance, and then configure that {{site.data.keyword.appid_short}} to connect directly to {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) to federate authentication for users in your enterprise to your {{site.data.keyword.Bluemix_notm}} account.
 
-By using this new integration between {{site.data.keyword.appid_short}} and {{site.data.keyword.Bluemix_notm}} IAM, you can simplify the log in experience for users in your enterprise and automatically add users to your account through their login, instead of having to invite or federate each user individually with IBMid. For more information, see [Enabling authentication from an external identity provider](/docs/iam?topic=iam-idp-integration).
+By using this new integration between {{site.data.keyword.appid_short}} and {{site.data.keyword.Bluemix_notm}} IAM, you can simplify the log in experience for users in your enterprise and automatically add users to your account through their login, instead of having to invite or federate each user individually with IBMid. For more information, see [Enabling authentication from an external identity provider](/docs/account?topic=account-idp-integration).
 
 ### Support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 {: #enterprise-catalog-filter}
@@ -163,7 +163,7 @@ For more information about the {{site.data.keyword.Bluemix_notm}} CLI, see [Gett
 ### Customizing how access is assigned by using custom roles
 New as of: 18 March 2020
 
-Until now, you assigned access by using the available platform and service roles that have specific actions that are mapped by individual services. Sometimes, you must assign multiple roles to achieve the required access for your users. With the latest {{site.data.keyword.Bluemix_notm}} Identity and Access Management feature, you can now customize how access is assigned within individual services by creating custom roles. You can choose to organize any number of actions available for a specific service into a new role with a name of your choosing. For more information, see [Creating custom roles](/docs/iam?topic=iam-custom-roles).
+Until now, you assigned access by using the available platform and service roles that have specific actions that are mapped by individual services. Sometimes, you must assign multiple roles to achieve the required access for your users. With the latest {{site.data.keyword.Bluemix_notm}} Identity and Access Management feature, you can now customize how access is assigned within individual services by creating custom roles. You can choose to organize any number of actions available for a specific service into a new role with a name of your choosing. For more information, see [Creating custom roles](/docs/account?topic=account-custom-roles).
 
 ### Updated handling of API keys for removed users
 {: #api-keys-removed-users}
@@ -187,13 +187,13 @@ The latest enhancement to the support center offers a personalized experience to
 {: #disable-public}
 New as of: 19 December 2019
 
-All users and service IDs are members of the Public Access group by default, which provides unauthenticated access to the resources that the group can access. You can now disable public access at the account level for cases in which you might want to prevent policies that could publicly expose resources from being created. For more information, see [Managing public access to resources](/docs/iam?topic=iam-public). 
+All users and service IDs are members of the Public Access group by default, which provides unauthenticated access to the resources that the group can access. You can now disable public access at the account level for cases in which you might want to prevent policies that could publicly expose resources from being created. For more information, see [Managing public access to resources](/docs/account?topic=account-public). 
 
 ### Delete resource groups
 {: #delete-rgs}
 New as of: 26 November 2019
 
-Besides the default resource group that's automatically created for you when create your {{site.data.keyword.Bluemix_notm}} account, you can now delete any resource group that doesn't contain any resources. For more information, see [Managing resource groups](/docs/resources?topic=resources-rgs).
+Besides the default resource group that's automatically created for you when create your {{site.data.keyword.Bluemix_notm}} account, you can now delete any resource group that doesn't contain any resources. For more information, see [Managing resource groups](/docs/account?topic=account-delete_rgs).
 
 
 ### Bitnami Helm charts now available on {{site.data.keyword.cloud_notm}}
@@ -213,7 +213,7 @@ New as of: 18 October 2019
 {: #access-report}
 New as of: 17 October 2019
 
-Have you ever wanted to get a quick view of all users, service IDs, access groups, and services that have access to a specific resource in your account? Well, now you can download a report that includes details about who can access your resource. From the My resources page in your account, you can select the **Export access report** option in the row for an IAM-enabled resource to get the report. For more information about the types of data available in the report and who has access to view the report, see [Exporting an access report](/docs/resources?topic=resources-access-report).
+Have you ever wanted to get a quick view of all users, service IDs, access groups, and services that have access to a specific resource in your account? Well, now you can download a report that includes details about who can access your resource. From the My resources page in your account, you can select the **Export access report** option in the row for an IAM-enabled resource to get the report. For more information about the types of data available in the report and who has access to view the report, see [Auditing access to resources](/docs/account?topic=account-access-report).
 
 ### Mapping actions to IAM roles 
 {: #actions-iam}
@@ -282,7 +282,7 @@ You can now utilize our newest tagging capabilities to manage resources, usage, 
 ### Access group for enabling public access to resources
 New as of: 25 March 2019
 
-You can now enable public access to objects in your {{site.data.keyword.cos_full}} buckets by using a new access group that is provided for you in your account. This new access group is called the `Public access` group, and all users and service IDs are added to it by default. You can update the policies for the access group to enable all users, even unauthenticated users, access to the resource that you specify in the policy. [Learn more about the public access group](/docs/iam?topic=iam-public#public).
+You can now enable public access to objects in your {{site.data.keyword.cos_full}} buckets by using a new access group that is provided for you in your account. This new access group is called the `Public access` group, and all users and service IDs are added to it by default. You can update the policies for the access group to enable all users, even unauthenticated users, access to the resource that you specify in the policy. See [Managing public access to resources](/docs/account?topic=account-public) for more information.
 
 ### Multifactor authentication for users with federated IDs
 New as of: 12 March 2019
@@ -367,7 +367,7 @@ Check out [Bringing It All Together: A Single Account and Billing Management Exp
 New as of: 30 November 2018
 {: #tag}
 
-Tags are now available for you to add to your resources, like Cloud Object Storage, to help you manage resources and find the resources that are the most relevant to you. For example, if you have hundreds of resources and you want to differentiate between ones that are paid the same way, you could tag them with `costcenter:location01`. Or, if you have a team that is working on a couple of resources repeatedly, you can use something like `team-blue`. You can also filter the My resources page by tags to quickly organize and find the resources that you need. For more information, see [Working with tags](/docs/resources?topic=resources-tag) and [Platform Tagging on the Enhanced {{site.data.keyword.Bluemix_notm}} Platform](https://www.ibm.com/cloud/blog/announcements/platform-tagging-on-the-enhanced-ibm-cloud-platform){: external} . 
+Tags are now available for you to add to your resources, like Cloud Object Storage, to help you manage resources and find the resources that are the most relevant to you. For example, if you have hundreds of resources and you want to differentiate between ones that are paid the same way, you could tag them with `costcenter:location01`. Or, if you have a team that is working on a couple of resources repeatedly, you can use something like `team-blue`. You can also filter the My resources page by tags to quickly organize and find the resources that you need. For more information, see [Working with tags](/docs/account?topic=account-tag) and [Platform Tagging on the Enhanced {{site.data.keyword.Bluemix_notm}} Platform](https://www.ibm.com/cloud/blog/announcements/platform-tagging-on-the-enhanced-ibm-cloud-platform){: external} . 
 
 ### Find accurate monthly costs with the cost estimator
 New as of: 30 November 2018
@@ -381,7 +381,7 @@ New as of: 1 November 2018
 
 As {{site.data.keyword.cloud_notm}} continues to expand our global availability footprint, we’re updating our location naming structure to better support an understandable, consistent hierarchy of geographies, regions, and data centers around the world. If you’re familiar with our current global regions, you’ll recognize names like US South and Sydney. We’re aligning these location names to the names of the city in which the data centers physically exist.
 
-For now, the programmatic IDs are not changing, so there’s no impact from an API perspective. The following table shows the old and new location names. For more information and a comprehensive list of data centers and regions, see [Service availability](/docs/resources?topic=resources-services_region).
+For now, the programmatic IDs are not changing, so there’s no impact from an API perspective. The following table shows the old and new location names. For more information and a comprehensive list of data centers and regions, see [Service availability](/docs/overview?topic=overview-services_region).
 
 | Previous Location Display Name | New Location Display Name | Code     |
 |--------------------------------|---------------------------|----------|
@@ -405,7 +405,7 @@ With {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM), you 
 * Global resource catalog for viewing private catalog offerings and updating the metadata and visibility for the offerings
 * All account management services for access to each of the individual account management service options based on the assigned role as well as access to billing and usage tracking.
 
-For more information on the tasks that a user can do based on which account management service they have a policy on and which role they are assigned, see [Example platform management roles and actions for account management services](/docs/iam?topic=iam-account-services#account-management-actions-roles). For more information about this new feature, see the [Introducing More Flexibility and Control for IBM Cloud Account Management Services Access](https://www.ibm.com/cloud/blog/announcements/introducing-more-flexibility-and-control-for-ibm-cloud-account-management-services-access){: external}  blog post. 
+For more information on the tasks that a user can do based on which account management service they have a policy on and which role they are assigned, see [Example platform management roles and actions for account management services](/docs/account?topic=account-account-services). For more information about this new feature, see [Introducing More Flexibility and Control for IBM Cloud Account Management Services Access](https://www.ibm.com/cloud/blog/announcements/introducing-more-flexibility-and-control-for-ibm-cloud-account-management-services-access){: external}. 
 
 ### Searching for resources
 New as of: 17 July 2018
@@ -417,13 +417,13 @@ You can search for resources from anywhere in the {{site.data.keyword.cloud_notm
 New as of: 12 July 2018
 {: #add-fed-users}
 
-You can create dynamic rules to automatically add federated users to access groups based on specific identity attributes. When your users log in with a federated ID, the data from the identity provider dynamically maps your users to an access group based on the rules that you set. For more information, see [Creating dynamic rules for access groups](/docs/iam?topic=iam-rules).
+You can create dynamic rules to automatically add federated users to access groups based on specific identity attributes. When your users log in with a federated ID, the data from the identity provider dynamically maps your users to an access group based on the rules that you set. For more information, see [Creating dynamic rules for access groups](/docs/account?topic=account-rules).
 
 ### Protect your service IDs and API keys
 New as of: 1 June 2018
 {: #protect-svcid-apikey}
 
-To avoid a situation where your service ID or API key is deleted causing an outage or disruption, you can lock service IDs and API keys by using the UI or CLI. Locking a service ID also prevents any access policies from being changed, deleted, or assigned as well as any API keys associated with the service ID from being created or deleted. For more information, see [Locking a service ID](/docs/iam?topic=iam-serviceidapikeys#lockkey) and [Locking an API key](/docs/iam?topic=iam-userapikey).
+To avoid a situation where your service ID or API key is deleted causing an outage or disruption, you can lock service IDs and API keys by using the UI or CLI. Locking a service ID also prevents any access policies from being changed, deleted, or assigned as well as any API keys associated with the service ID from being created or deleted. For more information, see [Locking a service ID](/docs/account?topic=account-serviceidapikeys#lockkey) and [Locking an API key](/docs/account?topic=account-userapikey#lock_user_key).
 
 ### Upgrade your Lite account to a Subscription account
 New as of: 31 May 2018
@@ -479,7 +479,7 @@ For users with a Pay-As-You-Go or Subscription account, you can create extra res
 New as of: 16 November 2017
 {: #iam-nov17}
 
-The introduction of resource groups within your {{site.data.keyword.Bluemix_notm}} account provides a new way for you to assign access. Users and service IDs can be assigned access to all services within a resource group, enabling you to quickly assign access to more than one resource at a time. You can also customize access for each user or service ID by assigning access to just some services within a resource group, or you choose to assign access to individual resources down to the service instance level. For more information about the features that you can take advantage of by using IAM, see [What features does IAM provide?](/docs/iam?topic=iam-iamoverview#features)
+The introduction of resource groups within your {{site.data.keyword.Bluemix_notm}} account provides a new way for you to assign access. Users and service IDs can be assigned access to all services within a resource group, enabling you to quickly assign access to more than one resource at a time. You can also customize access for each user or service ID by assigning access to just some services within a resource group, or you choose to assign access to individual resources down to the service instance level. See [What features does IAM provide?](/docs/account?topic=account-iamoverview#features) for more information about the features that you can take advantage of by using IAM.
 
 ### Customize your dashboard view
 New as of: 16 November 2017
