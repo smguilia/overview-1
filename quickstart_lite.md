@@ -36,7 +36,7 @@ Go to the [{{site.data.keyword.Bluemix_notm}} console](https://{DomainName}) and
 
 1. Explore the [catalog](https://cloud.ibm.com/catalog){: external} for offerings that include free Lite service plans by selecting the **Lite** pricing plan option.
 2. Create an instance of an offering that includes a free Lite plan.
-3. Check out our [solution tutorials](/docs/tutorials?topic=solution-tutorials-tutorials) for detailed steps about using {{site.data.keyword.Bluemix_notm}} to implement common patterns based on best practices and proven technologies. 
+3. Check out our [solution tutorials](/docs/solution-tutorials?topic=solution-tutorials-tutorials) for detailed steps about using {{site.data.keyword.Bluemix_notm}} to implement common patterns based on best practices and proven technologies. 
 
 
 ## Next steps
