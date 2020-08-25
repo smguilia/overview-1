@@ -4,7 +4,7 @@ copyright:
 
   years: 2018, 2020
 
-lastupdated: "2020-05-28"
+lastupdated: "2020-08-25"
 
 keywords: resource groups, platform CLI, platform API, CLI, API, cloud experience, platform service
 
@@ -28,7 +28,7 @@ Use the following table to get an at-a-glance view of the command-line interface
 
 | Platform service | CLI reference | API reference |
 | ----- | ----- | ----- |
-| [{{site.data.keyword.cloud_notm}} Identity and Access Management (IAM)](https://cloud.ibm.com/iam/){: external} | [Managing IAM access, API keys, service IDs, and access groups](/docs/cli?topic=cli-ibmcloud_commands_iam) | [IAM Identity Services API](https://cloud.ibm.com/apidocs/iam-identity-token-api){: external} <br><br>  [IAM Access Groups API](https://cloud.ibm.com/apidocs/iam-access-groups){: external} <br><br> [IAM Policy Management API](https://cloud.ibm.com/apidocs/iam-policy-management){: external} |
+| [{{site.data.keyword.cloud_notm}} Identity and Access Management (IAM)](https://cloud.ibm.com/iam/){: external} | [Managing IAM access, API keys, service IDs, and access groups](/docs/cli?topic=cli-ibmcloud_commands_iam) | [IAM Identity Services API](https://cloud.ibm.com/apidocs/iam-identity-token-api){: external} <br><br>  [IAM Access Groups API](https://cloud.ibm.com/apidocs/iam-access-groups){: external} <br><br> [IAM Policy Management API](https://cloud.ibm.com/apidocs/iam-policy-management){: external}<br><br> [User Management API](https://cloud.ibm.com/apidocs/user-management){: external} |
 | [Account management](https://cloud.ibm.com/account){: external} | [Managing accounts, users, and Cloud Foundry orgs](/docs/cli?topic=cli-ibmcloud_commands_account) |  |
 | [Enterprise management](https://cloud.ibm.com/enterprise){: external} | [Managing enterprises, account groups, and accounts](/docs/cli?topic=cli-ibmcloud_enterprise) | [Enterprise Management](https://cloud.ibm.com/apidocs/enterprise-apis/enterprise){: external} |
 | [Usage metering](https://cloud.ibm.com/billing/usage){: external} | [Viewing usage for accounts, orgs, resource groups, and resources](/docs/cli?topic=cli-ibmcloud_billing) |  [{{site.data.keyword.Bluemix_notm}} Usage Metering](https://cloud.ibm.com/apidocs/usage-metering){: external} |
