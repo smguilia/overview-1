@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018, 2019
+  years: 2018, 2020
 
-lastupdated: "2019-09-13"
+lastupdated: "2020-08-24"
 
 keywords: account quick start, account set up, quick start guide, account admins, environment
 
@@ -30,8 +30,8 @@ This quick start guide is intended to help account admins set up their {{site.da
   {:tip}
   
 2. Because not all services are managed by {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM), create your Cloud Foundry organization for organizing and granting access to those services. With a Lite account, you get one Cloud Foundry organization in one {{site.data.keyword.Bluemix_notm}} location. For more information, see [Adding orgs and spaces](/docs/account?topic=account-orgsspacesusers). 
-3. Create access groups for organizing users and service IDs into groups that require the same level of access assigned. For more information, see [Setting up access groups](/docs/iam?topic=iam-groups).
-4. Invite users to the account and add them to access groups to assign the necessary access to allow your account users to get building. For more information, see the [Getting started tutorial for IAM](/docs/iam?topic=iam-getstarted).
+3. Create access groups for organizing users and service IDs into groups that require the same level of access assigned. For more information, see [Setting up access groups](/docs/account?topic=account-groups).
+4. Invite users to the account and add them to access groups to assign the necessary access to allow your account users to get building. For more information, see the [Getting started tutorial for IAM](/docs/account?topic=account-access-getstarted).
 5. Set up notifications for events and account spending limits. For more information, see [Setting email preferences](/docs/account?topic=account-email-prefs) and [Setting spending notifications](/docs/billing-usage?topic=billing-usage-spending). 
 6. Use the cost estimator to get an idea of how much your environment might cost. Click the Cost estimator icon ![Estimator icon](../icons/Estimator.svg) in the console menu bar. 
 7. Use the cost estimator to get an idea of how much your infrastructure might cost. 
@@ -44,4 +44,4 @@ This quick start guide is intended to help account admins set up their {{site.da
 {: #next-steps-acc-ad}
 
 * Start creating services within the account to enable your organization and developers to build the solutions they need.  
-* Create tags and tag your resources to help organize how you view billing and usage. By doing so, you can easily identify chargebacks to different organizations. For more information, see [Best practices for tagging resources](/docs/account?topic=account-account_setup#tags). 
+* Tag your resources to help organize how you view billing and usage. By doing so, you can easily identify chargebacks to different organizations. For more information, see [Working with tags](/docs/account?topic=account-tag). 
