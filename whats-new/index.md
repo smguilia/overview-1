@@ -453,7 +453,7 @@ Do you want to be able to assign access quickly by using the least number of pol
 New as of: 15 December 2017
 {: #cf-useast}
 
-A new US East data center is now available in Washington, DC. You can reach this new region by using the `us-east.cloud.ibm.com` endpoint. For details about the services that are available for purchase in this new region, see [Services by region](/docs/resources?topic=resources-services_region).
+A new US East data center is now available in Washington, DC. You can reach this new region by using the `us-east.cloud.ibm.com` endpoint. For details about the services that are available for purchase in this new region, see [Services by region](/docs/overview?topic=overview-services_region).
 
 ### Support for resources in the European Union
 New as of: 14 December 2017
@@ -473,7 +473,7 @@ New as of: 16 November 2017
 
 Resource groups are a new way for you to create customizable groupings of account resources, and access to the group and the resources within it are managed by using Identity and Access Management (IAM). Everyone starts out with a default resource group. You can rename this resource group and add new service instances to it as you create them from the catalog.
 
-For users with a Pay-As-You-Go or Subscription account, you can create extra resource groups to make managing quota and viewing billing usage for a set of resources easier. You can also group resources to make it easier for you to assign users access to more than one service at a time. To learn more about working with resource groups for your account, see [Managing resource groups](/docs/resources?topic=resources-rgs).
+For users with a Pay-As-You-Go or Subscription account, you can create extra resource groups to make managing quota and viewing billing usage for a set of resources easier. You can also group resources to make it easier for you to assign users access to more than one service at a time. To learn more about working with resource groups for your account, see [Managing resource groups](/docs/account?topic=account-rgs).
 
 ### Updates for {{site.data.keyword.Bluemix_notm}} IAM
 New as of: 16 November 2017
