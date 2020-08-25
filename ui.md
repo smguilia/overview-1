@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-08-10"
+lastupdated: "2020-08-24"
 
 keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -73,12 +73,12 @@ When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed
 
 You can search for resources by name or by tag from anywhere in the {{site.data.keyword.cloud_notm}} console for resources that you expect to find in your resource list. Type the name of a resource or tag in the search field in the console menu bar.
 
-For more information, see [Searching for resources](/docs/resources?topic=resources-searching-for-resources). 
+For more information, see [Searching for resources](/docs/account?topic=account-searching-for-resources). 
 
 ## Managing resources
 {: #dashboardview}
 
-Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) &gt; **Resource List** to access your list of account resources. You can use the Resource list page to view and work with {{site.data.keyword.cloud_notm}} resources and Cloud Foundry service instances. See [What is a resource?](/docs/resources?topic=resources-resource) for more information about the different types of resources.
+Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) &gt; **Resource List** to access your list of account resources. You can use the Resource list page to view and work with {{site.data.keyword.cloud_notm}} resources and Cloud Foundry service instances. 
 
 ### Viewing resources
 You can view all the resources in your account across all locations from your resource list. To see the items that are important to you, filter your list with the filters for each column header. For example, if you want to view and work with resources in a specific location, expand the **Location** filter, and select a location from the list.
@@ -87,7 +87,7 @@ You can view all the resources in your account across all locations from your re
 You can work with your resources in various ways from your resource list:
 
   * Each resource is displayed in its own row and an Actions icon ![More Actions icon](../icons/action-menu-icon.svg) is included at the end of the row. Click the Actions icon ![More Actions icon](../icons/action-menu-icon.svg) to start, stop, rename, or delete a resource.
-  * To set up credentials or connections for a resource, click the name of the resource to navigate to the resource details page. Then, select **Service credentials** or **Connections**. For more information, see [Adding a credential](/docs/resources?topic=resources-service_credentials) and [Managing connections](/docs/resources?topic=resources-connect_app).
+  * To set up credentials or connections for a resource, click the name of the resource to navigate to the resource details page. Then, select **Service credentials** or **Connections**. For more information, see [Adding a credential](/docs/account?topic=account-service_credentials) and [Managing connections](/docs/account?topic=account-connect_app).
  
 
 ## Working in the catalog
@@ -129,8 +129,8 @@ You can also find your infrastructure resources by clicking any of the links tha
 You can manage users in your account, classic infrastructure access for your users, and your API keys from the Access (IAM) section of the console. 
 
 * To invite new users, remove users, or manage a specific user's login settings, IP restrictions, VPN password, and more, go to **Manage** > **Access (IAM)**, and select **Users**.
-* To start managing a user's classic infrastructure access, go to **Manage** > **Access (IAM)**, and select **Users**. For more details, see [Managing classic infrastructure access](/docs/iam?topic=iam-mngclassicinfra).
-* To create and manage {{site.data.keyword.cloud_notm}} API keys or a classic infrastructure API key, go to **Manage** > **Access (IAM)**, and select **API keys**. For more information, see [Understanding API keys](/docs/iam?topic=iam-manapikey).
+* To start managing a user's classic infrastructure access, go to **Manage** > **Access (IAM)**, and select **Users**. For more details, see [Managing classic infrastructure access](/docs/account?topic=account-mngclassicinfra).
+* To create and manage {{site.data.keyword.cloud_notm}} API keys or a classic infrastructure API key, go to **Manage** > **Access (IAM)**, and select **API keys**. For more information, see [Understanding API keys](/docs/account?topic=account-manapikey).
 
 ![Location to manage IAM items.](images/users-access.png "Managing users, access, and API keys"){: caption="Figure 2. Managing IAM items in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
