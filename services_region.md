@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-08-27"
+lastupdated: "2020-08-28"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -104,7 +104,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Internet of Things Platform | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Investment Portfolio | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Key Protect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Kubernetes Service | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -148,6 +147,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Visual Recognition | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Voice Agent with Watson | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Watson Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Watson Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Watson OpenScale | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Watson Studio | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | WebSphere Application Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -228,7 +228,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Internet of Things Platform | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Investment Portfolio |  |  | 
 | Key Protect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Kubernetes Service | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -272,6 +271,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Visual Recognition |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Voice Agent with Watson |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Watson Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Watson Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Watson OpenScale |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Watson Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | WebSphere Application Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -352,7 +352,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Internet of Things Platform |  |  |  |  | 
 | Investment Portfolio |  |  |  |  | 
 | Key Protect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Knowledge Catalog |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Kubernetes Service | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -396,6 +395,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Visual Recognition |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Voice Agent with Watson |  |  |  |  | 
 | Watson Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Watson Knowledge Catalog |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Watson OpenScale |  |  |  |  | 
 | Watson Studio |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | WebSphere Application Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
