@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-08-11"
+lastupdated: "2020-08-31"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -344,6 +344,16 @@ In source control management, a grouping of related artifacts in a stream or rep
 
 Infrastructure or resources that serve as the basis for building apps in the cloud.
 
+### config rule
+{: #x9963852}
+
+See [configuration rule](/docs/overview?topic=overview-glossary#x3084914).
+
+### configuration rule (config rule)
+{: #x3084914}
+
+A JSON document that defines the configuration of resources and validates the compliance based on security requirements when a resource is created or modified.
+
 ### confusion matrix
 {: #x2916277}
 
@@ -549,6 +559,11 @@ The type of entity that a mention represents without consideration for context. 
 
 The process of encrypting data with a data encryption key and then encrypting the key with a root key that can be fully managed.
 
+### evidence
+{: #x5633626}
+
+The collected raw data to support an assessment for auditing purposes.
+
 ### experimental offering
 {: #x9774278}
 
@@ -655,6 +670,11 @@ The configuration block that initializes a blockchain network or channel, and al
 {: #x2390455}
 
 An algorithmically determined number that uniquely identifies an entity within a system.
+
+### goal
+{: #x2117978}
+
+The verification of the way in which a control is met through hardware, software, or a service; or by a policy, process, procedure, or compliance artifact.
 
 ### gossip
 {: #x9825999}
@@ -853,6 +873,11 @@ A model that consolidates typed entities, their relationships, their properties,
 
 ## L
 {: #glossl}
+
+### label
+{: #x2028176}
+
+A user-defined identifier attached to a grouping of resources that are contained in an instance. Labels are visible only at an instance.
 
 ### layer
 {: #x2028320}
@@ -1213,7 +1238,8 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
+- A collection of controls used to evaluate whether technology and services are configured in compliance with security policies. See also [config rule](/docs/overview?topic=overview-glossary#x9963852), [scope](/docs/overview?topic=overview-glossary#x2037763).
+- A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
 
 ### promo code
 {: #x8440874}
@@ -1370,6 +1396,11 @@ A catalog in which approvals for publishing and lifecycle actions are bypassed s
 {: #x2004442}
 
 To increase platform (or system) capacity by adding more application or service instances.
+
+### scope
+{: #x2037763}
+
+A grouping of resources that can be validated or evaluated for security and compliance. See also [profile](/docs/overview?topic=overview-glossary#x2034950), [config rule](/docs/overview?topic=overview-glossary#x9963852).
 
 ### Secure Shell (SSH)
 {: #x3574365}
@@ -1569,6 +1600,11 @@ See [single-zone region](/docs/overview?topic=overview-glossary#x9774825).
 
 ## T
 {: #glosst}
+
+### tag
+{: #x2040924}
+
+A user-defined identifier attached to a grouping of resources that are contained in an account. Tags are visible account-wide.
 
 ### target
 {: #x2262507}
