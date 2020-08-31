@@ -3,9 +3,9 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-08-24"
+lastupdated: "2020-08-31"
 
-keywords: console, platform overview, overview, data center 
+keywords: console, platform overview, overview, data center, security, compliance
 
 subcollection: overview
 
@@ -190,6 +190,13 @@ A collection of resources is managed by [resource groups](/docs/account?topic=ac
 The search service is a global and shared resource properties repository that is integrated within the {{site.data.keyword.Bluemix_notm}} platform. It is used for storing and searching a cloud resource's attributes, and it categorizes and classifies resources. Resources are uniquely identified by a [Cloud Resource Name (CRN)](/docs/account?topic=account-crn) identifier. The properties of a resource include tags and system properties. Both properties are defined within an {{site.data.keyword.Bluemix_notm}} billing account, and span across many regions.
 
 This service also manages tags that are associated with a resource. You can create, delete, search, attach, or detach tags with the Tagging API. Tags are uniquely identified by a CRN identifier. Tags have a name, which must be unique within a billing account. You can create tags in key:value pairs or label format.
+
+## Managing security and compliance
+{: #account-security-compliance}
+
+The {{site.data.keyword.compliance_full}} offers a single location where you can validate that your resources are meeting continuous security and compliance.
+
+With the {{site.data.keyword.compliance_short}}, you can create profiles and config rules to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.compliance_short}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.compliance_short}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-getting-started). 
 
 ## Monitoring your resources
 {: #resources_observability}
