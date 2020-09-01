@@ -877,7 +877,7 @@ A model that consolidates typed entities, their relationships, their properties,
 ### label
 {: #x2028176}
 
-A user-defined identifier attached to a grouping of resources that are contained in an instance. Labels are visible only at an instance.
+A user-defined identifier attached to a grouping of resources that are contained in an instance. Labels are visible only at an instance level.
 
 ### layer
 {: #x2028320}
