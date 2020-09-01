@@ -13,14 +13,12 @@ subcollection: overview
 {:shortdesc: .shortdesc}
 {:tip: .tip}
 {:note: .note}
-
-
+{:important: .important}
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:external: target="_blank" .external}
 {:pre: .pre}
 {:table: .aria-labeledby="caption"}
-{:note: .note}
 {:term: .term}
 
 # How {{site.data.keyword.cloud_notm}} ensures high availability and disaster recovery
