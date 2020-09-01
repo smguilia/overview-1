@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-08-31"
+lastupdated: "2020-09-01"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -367,7 +367,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Personality Insights | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Portfolio Optimization |  |  |  |  | 
-| Power Systems Virtual Server |  |  |  |  | 
+| Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Predictive Market Scenarios |  |  |  |  | 
 | Public Gateway for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Push Notifications | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -432,7 +432,6 @@ The following infrastructure resources are available in North and South America.
 | Direct Link Exchange on Classic |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -464,7 +463,6 @@ The following infrastructure resources are available in North and South America.
 | Direct Link Exchange on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -496,7 +494,6 @@ The following infrastructure resources are available in North and South America.
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -528,7 +525,6 @@ The following infrastructure resources are available in North and South America.
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -565,7 +561,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Direct Link Exchange on Classic |  |  | 
 | File Storage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  |  | 
-| FortiGate Security Appliance 1Gbps |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -597,7 +592,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Direct Link Exchange on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -629,7 +623,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Direct Link Exchange on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -661,7 +654,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -693,7 +685,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -725,7 +716,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -762,7 +752,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Direct Link Exchange on Classic |  |  |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -794,7 +783,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -826,7 +814,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -858,7 +845,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Direct Link Exchange on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -890,7 +876,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -922,7 +907,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Direct Link Exchange on Classic |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 1Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
