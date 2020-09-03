@@ -25,6 +25,7 @@ The platform is built to support your needs whether it's working only in the pub
 Whether you need to migrate apps to the cloud, modernize your existing apps by using cloud services, ensure data resiliency against regional failure, or leverage new paradigms and deployment topologies to innovate and build your cloud-native apps, the platform's open architecture is built to accommodate your use case.
 
 ## What's built into the platform?
+{: #built-into-platform}
 
 As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} platform is composed of multiple components that work together to provide a consistent and dependable cloud experience. 
 
