@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-09-02"
+lastupdated: "2020-09-18"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -25,6 +25,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates for the services that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external}  on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Managing {{site.data.keyword.cloud-shell_notm}} settings and other updates to {{site.data.keyword.cloud-shell_notm}}
+{: #cloud-shell-sept2020}
+
+New as of: 18 September 2020
+
+Account owners or users with {{site.data.keyword.cloud-shell_short}} administrator access can manage {{site.data.keyword.cloud-shell_short}} settings from the {{site.data.keyword.cloud_notm}} console. For more information, see [Updating {{site.data.keyword.cloud-shell_short}} settings](/docs/account?topic=account-shell-settings).
+
+For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
 
 ## Introducing {{site.data.keyword.compliance_short}}
 {: #scc-aug2020}
