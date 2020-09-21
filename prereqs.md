@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-06-18"
+lastupdated: "2020-09-21"
 
 keywords: prereqs, platform prereqs, platform prerequisites, supported browsers, browsers
 
@@ -26,11 +26,11 @@ The prerequisites for using the {{site.data.keyword.Bluemix}} platform are limit
 
 The following list specifies the minimum required browser software for {{site.data.keyword.Bluemix_notm}}:
 
- * Chrome: Latest version for your operating system
- * Firefox: Latest regular and ESR versions for your operating system, see [Mozilla Firefox
+ * Chrome: Latest version -1 for your operating system
+ * Firefox: Latest regular -1 and ESR versions for your operating system, see [Mozilla Firefox
 Extended Support Release](https://www.mozilla.org/en-US/firefox/organizations/){: external}  for more details
- * Edge: Latest version for Windows
- * Safari: Latest version for Mac
+ * Edge: Latest version -1 for Windows
+ * Safari: Latest version -1 for Mac
  
 ## Command-line interface
 {: #cli-platform}
