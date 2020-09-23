@@ -41,7 +41,7 @@ Products are available in the {{site.data.keyword.cloud_notm}} catalog at variou
 
 * GA products are widely available for sale and delivery to customers or channels, usually across multiple geographies.
 * Beta products are made solely available for evaluation and testing purposes. There are no warranties, SLAs or support provided and beta products are not intended for production use.
-* Experiemental products are made solely available for evaluation and testing purposes, and might be unstable or not compatible with previous versions. An experimental product can be discontinued with short notice. There are no warranties, SLAs or support provided, and experimental products are not intended for production use.
+* Experimental products are made solely available for evaluation and testing purposes, and might be unstable or not compatible with previous versions. An experimental product can be discontinued with short notice. There are no warranties, SLAs or support provided, and experimental products are not intended for production use.
 
 ## Product deprecation
 {: #service_deprecation}
