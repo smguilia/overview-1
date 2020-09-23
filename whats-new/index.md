@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-09-21"
+lastupdated: "2020-09-23"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -25,6 +25,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates for the services that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external}  on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Restricting account access by using IAM account settings
+{: #iam-acct-settings}
+
+To have greater control over who can access your account and what they can do with API keys and service IDs, there are three new settings available on the Settings page in the Manage > Access (IAM) section of the console. 
+
+* Restrict access to your account to only users coming from a specified IP address or range that you set. For more information, see [Allowing specific IP addresses](/docs/account?topic=account-ips).
+* Block all users from creating API keys in the account except for those that you give explicit access. For more information, see [Restricting users from creating API keys](/docs/account?topic=account-allow-api-create).
+* Block all users from creating service IDs in the account except for those that you give explicit access. For more information, see [Restricting users from creating service IDs](/docs/account?topic=account-restrict-service-id-create).
 
 ## Managing {{site.data.keyword.cloud-shell_notm}} settings and other updates to {{site.data.keyword.cloud-shell_notm}}
 {: #cloud-shell-sept2020}
