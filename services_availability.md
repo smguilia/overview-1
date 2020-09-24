@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-09-23"
+lastupdated: "2020-09-24"
 
 keywords: lifecycle, end of support, service availability, deprecation, product availability, product release level
 
@@ -37,11 +37,13 @@ To read more about terms of use for products, see [{{site.data.keyword.Bluemix_n
 ## Product release levels
 {: #release-levels}
 
-Products are available in the {{site.data.keyword.cloud_notm}} catalog at various release levels, including general availability (GA), beta, or experimental. Depending on a product's release level different levels of [support](/docs/get-support?topic=get-support-using-avatar), committed warranties, or service level agreements (SLAs) are offered.
+Products are available in the {{site.data.keyword.cloud_notm}} catalog at various release levels, including general availability (GA), select availability, beta, or experimental. Depending on a product's release level, various levels of [support](/docs/get-support?topic=get-support-using-avatar), committed warranties, or service level agreements (SLAs) are available.
 
 * GA products are widely available for sale and delivery to customers or channels, usually across multiple geographies.
-* Beta products are made solely available for evaluation and testing purposes. There are no warranties, SLAs or support provided and beta products are not intended for production use.
-* Experimental products are made solely available for evaluation and testing purposes, and might be unstable or not compatible with previous versions. An experimental product can be discontinued with short notice. There are no warranties, SLAs or support provided, and experimental products are not intended for production use.
+* Select availability products are production-ready, available for sale, and accessible to select customers.
+* Beta products are made solely available for evaluation and testing purposes. There are no warranties, SLAs, or support provided and beta products are not intended for production use.
+* Experimental products are made solely available for evaluation and testing purposes, and might be unstable or not compatible with previous versions. An experimental product can be discontinued with short notice. There are no warranties, SLAs, or support provided, and experimental products are not intended for production use.
+
 
 ## Product deprecation
 {: #service_deprecation}
