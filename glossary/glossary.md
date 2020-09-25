@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-08-31"
+lastupdated: "2020-09-25"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -508,6 +508,10 @@ An archive within Cloud Foundry that contains an application and its runtime and
 
 The Cloud Foundry component that is responsible for deploying applications.
 
+### dynamic secret
+{: #x9968958}
+
+A unique value, such as a password or an API key, that is created dynamically and leased to an application that requires access to a protected resource. After a dynamic secret reaches the end of its lease, access to the protected resource is revoked and the secret is deleted automatically. See also [secret](/docs/overview?topic=overview-glossary#x2789492), [secret engine](/docs/overview?topic=overview-glossary#x9968967).
 
 ## E
 {: #glosse}
@@ -1401,6 +1405,21 @@ To increase platform (or system) capacity by adding more application or service 
 {: #x2037763}
 
 A grouping of resources that can be validated or evaluated for security and compliance. See also [profile](/docs/overview?topic=overview-glossary#x2034950), [config rule](/docs/overview?topic=overview-glossary#x9963852).
+
+### secret
+{: #x2789492}
+
+A type of sensitive information, such as a password or an API key, that is used by an application to access a protected resource. See also [dynamic secret](/docs/overview?topic=overview-glossary#x9968958).
+
+### secret engine
+{: #x9968967}
+
+A component that enables a connection between a secrets management instance and another service. The connection grants authorization between the services and allows the secrets management instance to create time-based secrets for the target service on demand. See also [dynamic secret](/docs/overview?topic=overview-glossary##x9968958).
+
+### secret group
+{: #x9968962}
+
+The environment and constraints that contained secrets in an instance must adhere to. A user can be associated with a secret group to enable access and collaboration.
 
 ### Secure Shell (SSH)
 {: #x3574365}
