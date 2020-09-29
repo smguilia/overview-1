@@ -1414,7 +1414,7 @@ A type of sensitive information, such as a password or an API key, that is used 
 ### secret engine
 {: #x9968967}
 
-A component that enables a connection between a secrets management instance and another service. The connection grants authorization between the services and allows the secrets management instance to create time-based secrets for the target service on demand. See also [dynamic secret](/docs/overview?topic=overview-glossary##x9968958).
+A component that enables a connection between a secrets management instance and another service. The connection grants authorization between the services and allows the secrets management instance to create time-based secrets for the target service on demand. See also [dynamic secret](/docs/overview?topic=overview-glossary#x9968958).
 
 ### secret group
 {: #x9968962}
