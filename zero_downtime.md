@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2020
-lastupdated: "2020-09-02"
+lastupdated: "2020-10-05"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design
 
@@ -36,17 +36,19 @@ Other platform services, including catalogs, global search and tagging, identity
 
 Each platform service is categorized as a general availability service with a [Service Level Agreement](/docs/overview?topic=overview-slas) of 99.99% availability. While each platform service might be available from various regions, each region in which the service is deployed has multiple data centers for redundancy.
 
-| Platform Service | Details |
+| Platform service | Details |
 |------------------|----------------|
-| Console | [Navigating the console](/docs/overview?topic=overview-ui) |
-| Catalogs    |     [Managing catalog settings](/docs/account?topic=account-filter-account)         |
-|      Global search and tagging         |    [Searching for resources](/docs/account?topic=account-searching-for-resources) and [Working with tags](/docs/account?topic=account-tag)        |
-|        IAM       |      [What is IBM Cloud Identity and Access Management?](/docs/account?topic=account-iamoverview)             |
 |  Account management  |    [Best practices for setting up your account](/docs/account?topic=account-account_setup) and [Best practices for billing and usage](/docs/billing-usage?topic=billing-usage-best-practices)     |
+| Catalogs    |    [Managing catalog settings](/docs/account?topic=account-filter-account)               |
+| Console | [Navigating the console](/docs/overview?topic=overview-ui) |
+|      Global search and tagging         |    [Searching for resources](/docs/account?topic=account-searching-for-resources) and [Working with tags](/docs/account?topic=account-tag)        |
+| IAM       |      [What is IBM Cloud Identity and Access Management?](/docs/account?topic=account-iamoverview)  |
+| {{site.data.keyword.cloud_notm}} CLI | [Understanding high availability and disaster recovery for the {{site.data.keyword.cloud_notm}} CLI](/docs/cli?topic=cli-ha-dr) |
 | {{site.data.keyword.cloud-shell_short}} | [Understanding high availability and disaster recovery for Cloud Shell](/docs/cloud-shell?topic=cloud-shell-ha-dr) |
+| {{site.data.keyword.compliance_short}} | [Understanding high availability and disaster recovery for {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-ha-dr) |
 {: caption="Table 1. Platform services" caption-side="top"}
 
-{{site.data.keyword.cloud-shell_short}} is [regionally available](/docs/cloud-shell?topic=cloud-shell-ha-dr) in the Dallas, Frankfurt, and Tokyo regions, which means that automated global failover isn't supported. If a region is unavailable, {{site.data.keyword.cloud-shell_short}} also becomes unavailable in that region.
+Some platform services are regionally available, which means that automated global failover isn’t supported. If a region is unavailable, the service also becomes unavailable in that region. Be sure to review the “Understanding high availability and disaster recovery” topics to learn about where those services are run.
 {: note}
 
 ## High availability for resources
