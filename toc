@@ -40,7 +40,8 @@ Getting started with IBM Cloud
     Product availability and locations
         services_region.md
         locations.md
-
+    
+    peering_policy.md
     certifications.md
     shared-responsibility.md
 
