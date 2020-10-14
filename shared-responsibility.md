@@ -4,7 +4,7 @@ copyright:
 
   years: 2020
 
-lastupdated: "2020-06-02"
+lastupdated: "2020-10-14"
 
 keywords: roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 
@@ -19,12 +19,12 @@ subcollection: overview
 {:tip: .tip}
 {:note: .note}
 
-# Shared responsibilities for using {{site.data.keyword.cloud_notm}} offerings
+# Shared responsibilities for using {{site.data.keyword.cloud_notm}} products
 {: #shared-responsibilities}
 
-In {{site.data.keyword.cloud}}, as is the case for other cloud service providers, the responsibilities for managing the lifecycle of, operating, and securing offerings are shared between {{site.data.keyword.IBM}} and the customer.
+In {{site.data.keyword.cloud}}, as is the case for other cloud service providers, the responsibilities for managing the lifecycle of, operating, and securing products are shared between {{site.data.keyword.IBM}} and the customer.
 
-The responsibility of completing the following types of tasks on various offerings can be exclusive to {{site.data.keyword.IBM_notm}}, the customer, or shared between the two. The tasks for each type of offering are grouped in the following categories:
+The responsibility of completing the following types of tasks on various products can be exclusive to {{site.data.keyword.IBM_notm}}, the customer, or shared between the two. The tasks for each type of product are grouped in the following categories:
 
 * Incident and operations management: Includes tasks such as monitoring, event management, high availability, problem determination, recovery, and full state backup and recovery.
 * Change management: Includes tasks such as deployment, configuration, upgrades, patching, configuration changes, and deletion.
@@ -37,14 +37,14 @@ When you're reviewing the following sections, the tables list resources for each
 
 <dl>
   <dt>Data</dt>
-  <dd>Customer-owned content that includes all data managed and controlled by the customer, such as information stored into volumes, files, and databases hosted on IBM cloud resources and data processed, stored and logged by the client applications hosted on IBM cloud. It doesn't include client metadata, the information used by IBM to provide services to the customer and support and operate the client account, services, and resources that are always considered to be shared responsibility between client and IBM.
+  <dd>Customer-owned content that includes all data managed and controlled by the customer, such as information stored into volumes, files, and databases hosted on {{site.data.keyword.cloud_notm}} resources and data processed, stored and logged by the client applications hosted on {{site.data.keyword.cloud_notm}}. It doesn't include client metadata, the information used by {{site.data.keyword.IBM_notm}} to provide services to the customer and support and operate the client account, services, and resources that are always considered to be shared responsibility between client and {{site.data.keyword.IBM_notm}}.
 </dd>
   <dt>Applications</dt>
   <dd>Customer-owned software components, such as executables, web applications, middleware, frameworks, libraries, and any other software packages deployed by the clients that they developed or acquired by third parties and they deploy in {{site.data.keyword.cloud_notm}}.</dd>
   <dt>Operating systems</dt>
   <dd>The operating system software and configuration deployed in virtual or bare metal servers, such as Linux, Windows, or similar to the ones provided in [stock images](/docs/vpc-on-classic-vsi?topic=vpc-on-classic-vsi-images)</dd>
 <dt>Virtual and bare metal servers</dt>
-  <dd>The virtual or bare metal servers ordered and managed through IBM Cloud services     </dd>  
+  <dd>The virtual or bare metal servers ordered and managed through {{site.data.keyword.cloud_notm}} services     </dd>  
  <dt>Virtual storage</dt>
   <dd>The block, file or Object Storage buckets ordered and managed through {{site.data.keyword.cloud_notm}}.</dd>   
  <dt>Virtual network</dt>
@@ -62,12 +62,12 @@ When you're reviewing the following sections, the tables list resources for each
 </dl>
 
 
-{{site.data.keyword.cloud_notm}} supports the following types of offerings and the corresponding shared responsibility models. For more information about each specific service, refer to the documentation for that service.
+{{site.data.keyword.cloud_notm}} supports the following types of products and the corresponding shared responsibility models. For more information about each specific service, refer to the documentation for that service.
 
 ## Infrastructure-as-a-service 
 {: #iaas-services-responsibilities}
 
-Infrastructure-as-a-service (IaaS) offerings that are managed by {{site.data.keyword.IBM_notm}} are fully multi-tenant, accessed remotely, hosted on {{site.data.keyword.IBM_notm}} physical infrastructure, created in customer-owned accounts, and have control plane and data plane security that is owned by {{site.data.keyword.IBM_notm}}. Examples of this offering type are Virtual Servers and Bare Metal Servers with the related block volumes connected to the customer account private subnets. You can find a list of these types of offerings in the {{site.data.keyword.cloud_notm}} catalog on the Services tab, and each offering is in an infrastructure sub-category within the Compute or VPC infrastructure categories.
+Infrastructure-as-a-service (IaaS) products that are managed by {{site.data.keyword.IBM_notm}} are fully multi-tenant, accessed remotely, hosted on {{site.data.keyword.IBM_notm}} physical infrastructure, created in customer-owned accounts, and have control plane and data plane security that is owned by {{site.data.keyword.IBM_notm}}. Examples of this product type are Virtual Servers and Bare Metal Servers with the related block volumes connected to the customer account private subnets. You can find a list of these types of products in the {{site.data.keyword.cloud_notm}} catalog on the Services tab, and each product is in an infrastructure sub-category within the Compute or VPC infrastructure categories.
 
 
 | Resource | Incident and Operations Management | Change Management | Identity and Access Management | Security and Regulation Compliance | Disaster Recovery |
@@ -83,12 +83,12 @@ Infrastructure-as-a-service (IaaS) offerings that are managed by {{site.data.key
 | Physical storage | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Physical network and devices | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
-{:caption="Table 1. Shared responsibilities for IaaS offerings" caption-side="top"}
+{:caption="Table 1. Shared responsibilities for IaaS products" caption-side="top"}
 
-## Managed offerings
+## Managed products
 {: #managed-responsibilities}
 
-Offerings that are managed by {{site.data.keyword.IBM_notm}} require customer responsibilities only for the data or applications that customers add to the service. They are multi-tenant, accessed remotely, hosted on {{site.data.keyword.IBM_notm}} virtual resources, created in IBM-owned accounts, and have control plane and data plane security that is owned by {{site.data.keyword.IBM_notm}}. Examples of this offering type are {{site.data.keyword.cloud_notm}} databases or {{site.data.keyword.cloudant_short_notm}} database instances. You can find a list of these types of offerings in the {{site.data.keyword.cloud_notm}} catalog on the Services tab. However, any offerings listed in an infrastructure sub-category are infrastructure-as-a-service type offerings. 
+Products that are managed by {{site.data.keyword.IBM_notm}} require customer responsibilities only for the data or applications that customers add to the service. They are multi-tenant, accessed remotely, hosted on {{site.data.keyword.IBM_notm}} virtual resources, created in IBM-owned accounts, and have control plane and data plane security that is owned by {{site.data.keyword.IBM_notm}}. Examples of this product type are {{site.data.keyword.cloud_notm}} databases or {{site.data.keyword.cloudant_short_notm}} database instances. You can find a list of these types of products in the {{site.data.keyword.cloud_notm}} catalog on the Services tab. However, any products listed in an infrastructure sub-category are infrastructure-as-a-service type products. 
 
 | Resource | Incident and Operations Management | Change Management | Identity and Access Management | Security and Regulation Compliance | Disaster Recovery |
 | - | - | - | - | - | - |
@@ -103,12 +103,12 @@ Offerings that are managed by {{site.data.keyword.IBM_notm}} require customer re
 | Physical storage | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Physical network and devices | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
-{:caption="Table 2. Shared responsibilities for fully-managed offerings" caption-side="top"}
+{:caption="Table 2. Shared responsibilities for fully-managed products" caption-side="top"}
 
-## Managed offerings on customer's resources
+## Managed products on customer's resources
 {: #managed-offerings-on-customers-resources-responsibilities}
 
-Managed offerings on customer's resources are orchestrated by {{site.data.keyword.IBM_notm}}, meaning they are single-tenant and data plane offerings. In addition, they are accessed locally in customer accounts, data plane hosted on virtual resources in the customer's account, control plane security owned by {{site.data.keyword.IBM_notm}}, and data plane security owned by the customer. {{site.data.keyword.cloud_notm}} offerings of this type include {{site.data.keyword.containerlong_notm}} on classic infrastructure and {{site.data.keyword.openshiftlong}} on classic infrastructure.
+Managed products on customer's resources are orchestrated by {{site.data.keyword.IBM_notm}}, meaning they are single-tenant and data plane products. In addition, they are accessed locally in customer accounts, data plane hosted on virtual resources in the customer's account, control plane security owned by {{site.data.keyword.IBM_notm}}, and data plane security owned by the customer. {{site.data.keyword.cloud_notm}} products of this type include {{site.data.keyword.containerlong_notm}} on classic infrastructure and {{site.data.keyword.openshiftlong}} on classic infrastructure.
 
 | Resource | Incident and Operations Management | Change Management | Identity and Access Management | Security and Regulation Compliance | Disaster Recovery |
 | - | - | - | - | - | - |
@@ -124,7 +124,7 @@ Managed offerings on customer's resources are orchestrated by {{site.data.keywor
 | Physical storage | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Physical network and devices | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
-{:caption="Table 3. Shared responsibilities for self-managed offerings" caption-side="top"}
+{:caption="Table 3. Shared responsibilities for self-managed products" caption-side="top"}
 
 ## Software packages
 
@@ -132,7 +132,7 @@ Software packages are deployed by {{site.data.keyword.IBM_notm}} as single tenan
 
 There is a generic software deployment control plane that manages the lifecycle of deployed software package instances. At a minimum, it manages the deployment, upgrade, and delete actions. As the packages become smarter, the generic control plane might also manage the start, stop, migration, scaling, monitoring, backup, and restore tasks.
 
-You can find a list of software type offerings in the {{site.data.keyword.cloud_notm}} catalog on the Software tab.
+You can find a list of software in the {{site.data.keyword.cloud_notm}} catalog on the Software tab.
 
 | Resource | Incident and Operations Management | Change Management | Identity and Access Management | Security and Regulation Compliance | Disaster Recovery |
 | - | - | - | - | - | - |
@@ -147,5 +147,5 @@ You can find a list of software type offerings in the {{site.data.keyword.cloud_
 | Physical servers and memory | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Physical storage | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 | Physical network and devices | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
-| Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | IBM |
+| Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 {:caption="Table 4. Shared responsiblities for software packages" caption-side="top"}
