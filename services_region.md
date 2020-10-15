@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-10-14"
+lastupdated: "2020-10-15"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -287,7 +287,7 @@ Services that are hosted globally create resources that operate across multiple 
 
 | Service | Sydney | Tokyo | Seoul | Singapore | 
 |-----|-----|-----|-----|-----|
-| API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | API Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Analytics Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Annotator for Clinical Data |  |  |  |  | 
