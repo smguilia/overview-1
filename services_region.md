@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-10-15"
+lastupdated: "2020-10-16"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -44,6 +44,7 @@ Services that are hosted globally create resources that operate across multiple 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Auto Scale for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Availability Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Blockchain Platform | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -169,6 +170,7 @@ Services that are hosted globally create resources that operate across multiple 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Auto Scale for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Availability Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
 | Blockchain Platform | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -294,6 +296,7 @@ Services that are hosted globally create resources that operate across multiple 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Auto Scale for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Availability Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Block Storage for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Blockchain | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | Blockchain Platform | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
