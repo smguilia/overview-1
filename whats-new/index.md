@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-09-23"
+lastupdated: "2020-10-29"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -29,7 +29,7 @@ If you're looking for updates for the services that are available on {{site.data
 ## Restricting account access by using IAM account settings
 {: #iam-acct-settings}
 
-To have greater control over who can access your account and what they can do with API keys and service IDs, there are three new settings available on the Settings page in the Manage > Access (IAM) section of the console. 
+For increased control over which users can access your account and work with API keys and service IDs, leverage the three new settings that are available on the **Manage** > **Access (IAM)** > **Settings** page in the console.
 
 * Restrict access to your account to only users coming from a specified IP address or range that you set. For more information, see [Allowing specific IP addresses](/docs/account?topic=account-ips).
 * Block all users from creating API keys in the account except for those that you give explicit access. For more information, see [Restricting users from creating API keys](/docs/account?topic=account-allow-api-create).
@@ -115,7 +115,7 @@ You can now use the following commands to set and manage filters in accounts wit
 * **`ibmcloud catalog filter offering`**
 * **`ibmcloud catalog filter delete`**
 
-Each command operates the same at the enteprise level by default. You can also apply the commands to specific account groups in an enterprise. For more information, see the [Catalogs management CLI plug-in](/docs/cli?topic=cli-manage-catalogs-plugin).
+Each command operates the same at the enterprise level by default. You can also apply the commands to specific account groups in an enterprise. For more information, see the [Catalogs management CLI plug-in](/docs/cli?topic=cli-manage-catalogs-plugin).
 
 ## Consulting services are available in the {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog-consulting-svcs}
@@ -182,7 +182,7 @@ For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}}
 ## {{site.data.keyword.Bluemix_notm}} CLI Version 1.0.0 is now available
 New as of: 31 March 2020
 
-The 1.0.0 release of the {{site.data.keyword.Bluemix_notm}} CLI includes two new global options to help you more easily automate command-line scripting tasks. The new `--output json` option provides command output in a parsable JSON format, and the `--quiet` option surpresses some extra messages such as progress indicators simplify automated processing. The {{site.data.keyword.Bluemix_notm}} CLI now also includes the {{site.data.keyword.dev_cli_notm}} (`ibmcloud dev`) commands, so you can work with apps, pipelines, toolchains, and more without needing to install a separate plug-in. The Cloud Foundry CLI (`ibmcloud cf`) is no longer bundled but can still be installed separately.
+The 1.0.0 release of the {{site.data.keyword.Bluemix_notm}} CLI includes two new global options to help you more easily automate command-line scripting tasks. The new `--output json` option provides command output in a parsable JSON format, and the `--quiet` option suppresses some extra messages such as progress indicators simplify automated processing. The {{site.data.keyword.Bluemix_notm}} CLI now also includes the {{site.data.keyword.dev_cli_notm}} (`ibmcloud dev`) commands, so you can work with apps, pipelines, toolchains, and more without needing to install a separate plug-in. The Cloud Foundry CLI (`ibmcloud cf`) is no longer bundled but can still be installed separately.
 
 For more information about the {{site.data.keyword.Bluemix_notm}} CLI, see [Getting started with the IBM Cloud CLI and Developer Tools](/docs/cli?topic=cli-getting-started).
 
@@ -303,7 +303,7 @@ You can now control what's displayed on your dashboard. Customizing your dashboa
 ## Export usage data with associated tags
 New as of: 4 April 2019 
 
-You can now utilize our newest tagging capabilities to manage resources, usage, and costs in the exported usage report. When you add a tag to a resource, you can view the tag that is associated with the resource. In the {{site.data.keyword.cloud_notm}} console, go to **Manage**> **Billing and Usage**> **Usage**> **Export CSV**>  **Instances** to download your usage report. For more information on exporting tags, check out the [Export tags within your usage data to help with cost allocation](https://www.ibm.com/cloud/blog/export-your-tagged-usage-data-within-the-enhanced-ibm-cloud){: external}  blog post.
+You can now use our newest tagging capabilities to manage resources, usage, and costs in the exported usage report. When you add a tag to a resource, you can view the tag that is associated with the resource. In the {{site.data.keyword.cloud_notm}} console, go to **Manage**> **Billing and Usage**> **Usage**> **Export CSV**>  **Instances** to download your usage report. For more information on exporting tags, check out the [Export tags within your usage data to help with cost allocation](https://www.ibm.com/cloud/blog/export-your-tagged-usage-data-within-the-enhanced-ibm-cloud){: external}  blog post.
 
 ## Enabling public access to resources
 New as of: 25 March 2019
@@ -330,7 +330,7 @@ The subdomain for Cloud Foundry apps is `cf.appdomain.cloud`. The subdomain for 
 New as of: 30 November 2018
 {: #cf-api-endpoints}
 
-The legacy `api.*.bluemix.net` Cloud Foundry API endpoints are still available for backward compatibility. However, you can update scripts and infrastructure automation to use the following new Cloud Foundry API endpoints for your region:
+The legacy `api.*.bluemix.net` Cloud Foundry API endpoints are still available for compatibility with earlier versions. However, you can update scripts and infrastructure automation to use the following new Cloud Foundry API endpoints for your region:
 
 * api.us-south.cf.cloud.ibm.com (previously api.ng.bluemix.net)
 * api.eu-gb.cf.cloud.ibm.com (previously api.eu-gb.bluemix.net)

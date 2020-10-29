@@ -4,7 +4,7 @@ copyright:
 
   years: 2020
 
-lastupdated: "2020-10-14"
+lastupdated: "2020-10-29"
 
 keywords: roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 
@@ -37,14 +37,15 @@ When you're reviewing the following sections, the tables list resources for each
 
 <dl>
   <dt>Data</dt>
-  <dd>Customer-owned content that includes all data managed and controlled by the customer, such as information stored into volumes, files, and databases hosted on {{site.data.keyword.cloud_notm}} resources and data processed, stored and logged by the client applications hosted on {{site.data.keyword.cloud_notm}}. It doesn't include client metadata, the information used by {{site.data.keyword.IBM_notm}} to provide services to the customer and support and operate the client account, services, and resources that are always considered to be shared responsibility between client and {{site.data.keyword.IBM_notm}}.
+  <dd>Customer-owned content that includes all data that is managed and controlled by the customer, such as information stored into volumes, files, and databases hosted on {{site.data.keyword.cloud_notm}} resources and data processed, stored, and logged by the client applications hosted on {{site.data.keyword.cloud_notm}}. It doesn't include client metadata, the information that is used by {{site.data.keyword.IBM_notm}} to provide services to the customer and support and operate the client account, services, and resources that are always considered to be shared responsibility between client and {{site.data.keyword.IBM_notm}}.
 </dd>
   <dt>Applications</dt>
-  <dd>Customer-owned software components, such as executables, web applications, middleware, frameworks, libraries, and any other software packages deployed by the clients that they developed or acquired by third parties and they deploy in {{site.data.keyword.cloud_notm}}.</dd>
+  <dd>Customer-owned software components, such as executables, web applications, middleware, frameworks, libraries, and any other software packages that are deployed by the clients that they developed or acquired by third parties and they deploy in {{site.data.keyword.cloud_notm}}.
+  </dd>
   <dt>Operating systems</dt>
-  <dd>The operating system software and configuration deployed in virtual or bare metal servers, such as Linux, Windows, or similar to the ones provided in [stock images](/docs/vpc-on-classic-vsi?topic=vpc-on-classic-vsi-images)</dd>
+  <dd>The operating system software and configuration that are deployed in virtual or bare metal servers, such as Linux, Windows, or similar to the ones provided in [stock images](/docs/vpc-on-classic-vsi?topic=vpc-on-classic-vsi-images)</dd>
 <dt>Virtual and bare metal servers</dt>
-  <dd>The virtual or bare metal servers ordered and managed through {{site.data.keyword.cloud_notm}} services     </dd>  
+  <dd>The virtual or bare metal servers that are ordered and managed through {{site.data.keyword.cloud_notm}} services.</dd>  
  <dt>Virtual storage</dt>
   <dd>The block, file or Object Storage buckets ordered and managed through {{site.data.keyword.cloud_notm}}.</dd>   
  <dt>Virtual network</dt>
@@ -67,7 +68,7 @@ When you're reviewing the following sections, the tables list resources for each
 ## Infrastructure-as-a-service 
 {: #iaas-services-responsibilities}
 
-Infrastructure-as-a-service (IaaS) products that are managed by {{site.data.keyword.IBM_notm}} are fully multi-tenant, accessed remotely, hosted on {{site.data.keyword.IBM_notm}} physical infrastructure, created in customer-owned accounts, and have control plane and data plane security that is owned by {{site.data.keyword.IBM_notm}}. Examples of this product type are Virtual Servers and Bare Metal Servers with the related block volumes connected to the customer account private subnets. You can find a list of these types of products in the {{site.data.keyword.cloud_notm}} catalog on the Services tab, and each product is in an infrastructure sub-category within the Compute or VPC infrastructure categories.
+Infrastructure-as-a-service (IaaS) products that are managed by {{site.data.keyword.IBM_notm}} are fully multi-tenant, accessed remotely, hosted on {{site.data.keyword.IBM_notm}} physical infrastructure, created in customer-owned accounts, and have control plane and data plane security that is owned by {{site.data.keyword.IBM_notm}}. Examples of this product type are Virtual Servers and Bare Metal Servers with the related block volumes that are connected to the customer account private subnets. You can find a list of these types of products in the {{site.data.keyword.cloud_notm}} catalog on the Services tab, and each product is in an infrastructure sub-category within the Compute or VPC infrastructure categories.
 
 
 | Resource | Incident and Operations Management | Change Management | Identity and Access Management | Security and Regulation Compliance | Disaster Recovery |

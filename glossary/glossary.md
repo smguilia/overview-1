@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-09-25"
+lastupdated: "2020-10-29"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -975,7 +975,7 @@ A participant that is enrolled in a blockchain network. A member can be as large
 ### mention
 {: #x6834461}
 
-A span of text that is considered relevant ina domain data. For example, in a type system about automotive vehicles, occurrences of terms like "airbag", "Ford Explorer", and "child restraint system" might be relevant mentions.
+A span of text that is considered relevant in a domain data. For example, in a type system about automotive vehicles, occurrences of terms like "airbag", "Ford Explorer", and "child restraint system" might be relevant mentions.
 
 ### ML
 {: #x9766880}

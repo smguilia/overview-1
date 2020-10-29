@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-10-06"
+lastupdated: "2020-10-29"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -21,11 +21,11 @@ subcollection: overview
 # {{site.data.keyword.Bluemix_notm}} Notices
 {: #notices}
 
-This information was developed for products and services offered in the US. This material might be available from {{site.data.keyword.IBM_notm}} in other languages. However, you might be required to own a copy of the product or product version in that language in order to access it.
+This information was developed for products and services that are offered in the US. This material might be available from {{site.data.keyword.IBM_notm}} in other languages. However, you might be required to own a copy of the product or product version in that language to access it.
 
 {{site.data.keyword.IBM_notm}} may not offer the products, services, or features discussed in this document in other countries. Consult your local {{site.data.keyword.IBM_notm}} representative for information on the products and services currently available in your area. Any reference to an {{site.data.keyword.IBM_notm}} product, program, or service is not intended to state or imply that only that {{site.data.keyword.IBM_notm}} product, program, or service may be used. Any functionally equivalent product, program, or service that does not infringe any {{site.data.keyword.IBM_notm}} intellectual property right may be used instead. However, it is the user's responsibility to evaluate and verify the operation of any non-IBM product, program, or service.
 
-{{site.data.keyword.IBM_notm}} may have patents or pending patent applications covering subject matter described in this document. The furnishing of this document does not grant you any license to these patents. You can send license inquiries, in writing, to:
+{{site.data.keyword.IBM_notm}} may have patents or pending patent applications covering subject matter that is described in this document. The furnishing of this document does not grant you any license to these patents. You can send license inquiries, in writing, to:
 
   *IBM Director of Licensing*
   *IBM Corporation*
@@ -43,13 +43,13 @@ For license inquiries regarding double-byte character set (DBCS) information, co
 
 INTERNATIONAL BUSINESS MACHINES CORPORATION PROVIDES THIS PUBLICATION "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Some jurisdictions do not allow disclaimer of express or implied warranties in certain transactions, therefore, this statement may not apply to you.
 
-This information could include technical inaccuracies or typographical errors. Changes are periodically made to the information herein; these changes will be incorporated in new editions of the publication. {{site.data.keyword.IBM_notm}} may make improvements and/or changes in the product(s) and/or the program(s) described in this publication at any time without notice.
+This information might include technical inaccuracies or typographical errors. Changes are periodically made to the information herein; these changes will be incorporated in new editions of the publication. {{site.data.keyword.IBM_notm}} may make improvements and/or changes in the product(s) and/or the program(s) described in this publication at any time without notice.
 
 Any references in this information to non-{{site.data.keyword.IBM_notm}} websites are provided for convenience only and do not in any manner serve as an endorsement of those websites. The materials at those websites are not part of the materials for this {{site.data.keyword.IBM_notm}} product and use of those websites is at your own risk.
 
 {{site.data.keyword.IBM_notm}} may use or distribute any of the information you provide in any way it believes appropriate without incurring any obligation to you.
 
-Licensees of this program who wish to have information about it for the purpose of enabling: (i) the exchange of information between independently created programs and other programs (including this one) and (ii) the mutual use of the information which has been exchanged, should contact:
+Licensees of this program who wish to have information about it for the purpose of enabling: (i) the exchange of information between independently created programs and other programs (including this one) and (ii) the mutual use of the information, which has been exchanged, should contact:
 
   *IBM Director of Licensing*
   *IBM Corporation*
@@ -280,7 +280,7 @@ SIL Open Font License 1.1
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
 
-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+The OFL allows the licensed fonts to be used, studied, modified, and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
 
 DEFINITIONS
 "Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
@@ -425,7 +425,7 @@ The Program includes some or all of the following works licensed under the SIL O
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
 
-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+The OFL allows the licensed fonts to be used, studied, modified, and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
 
 DEFINITIONS
 "Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
@@ -436,7 +436,7 @@ DEFINITIONS
 
 "Modified Version" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
 
-"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+"Author" refers to any designer, engineer, programmer, technical writer, or other person who contributed to the Font Software.
 
 PERMISSION AND CONDITIONS
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify,

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2020
-lastupdated: "2020-10-21"
+lastupdated: "2020-10-29"
 
 keywords: personalized onboarding, onboarding program, Global Client Success, getting started, how to, get help, new user, first time, personal, dedicated assistance, cloud onboarding, account setup, first time, how to use cloud, new to cloud, initial setup, sales, direct assignment, onboard, ready to start, help, initial deployment
 
@@ -50,13 +50,13 @@ We're here to help to you get started with any area of {{site.data.keyword.cloud
 ### Want to get started on your own?
 {: #self-onboard}
 
-Whether you’re new to IBM Cloud, or an existing user that is looking to expand your understanding, [register](https://register.gotowebinar.com/rt/8851117388988841483){: external} for one of our Getting Started webinars to learn about managing your account, understanding billing, inviting account users, and more. This webinar series is monthly, so you can pick the date that works best for you! 
+If you're looking to expand your understanding of {{site.data.keyword.cloud_notm}}, [register](https://register.gotowebinar.com/rt/8851117388988841483){: external} for one of our Getting Started webinars and learn about managing your account and billing, inviting users to your account, and more. This webinar series is monthly, so you can pick the date that works best for you!
 
-In addition, we have many ways that you can learn about {{site.data.keyword.cloud_notm}} on your own. As a first-time user, check out the [Getting started with IBM Cloud](https://www.ibm.com/cloud/get-started){: external}. This site provides key content and links to help you get started with {{site.data.keyword.cloud_notm}}, and a range of support options, including technical support forums. 
+In addition, you can take advantage of other ways to learn about {{site.data.keyword.cloud_notm}} on your own. As a first-time user, check out [Getting started with IBM Cloud](https://www.ibm.com/cloud/get-started){: external}. This site provides key content and links to help you get started with {{site.data.keyword.cloud_notm}}, and a range of support options, including technical support forums. 
 
 ### Questions about the onboarding process?
 {: #contact-client-success}
 
-If you have a general question, an issue, or feedback about the onboarding process into {{site.data.keyword.cloud_notm}}, email us through the Let's Talk dialog by clicking the chat icon at the bottom of the page. 
+If you have a general question, an issue, or feedback about the onboarding process into {{site.data.keyword.cloud_notm}}, email us through the Let's Talk dialog by clicking the chat icon. 
 
 

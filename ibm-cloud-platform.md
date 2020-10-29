@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-08-31"
+lastupdated: "2020-10-29"
 
 keywords: console, platform overview, overview, data center, security, compliance
 
@@ -61,7 +61,7 @@ For more information, see the [best practices for setting up an enterprise](/doc
 ## {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
-{{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with a variety of products in the catalog, including compute, storage, and networking options, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open-source databases, and cloud-native services. You can find all of these services on the Services tab in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
+{{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with a variety of products in the catalog, including options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. You can find all of these services on the Services tab in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
 The Software tab includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, and [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud){: external}. Even though you're responsible for the lifecycle management, deployment, and configuration of these software products on your own compute resources, you can take advantage of a simplified installation process that helps you to get up and running quickly.
 

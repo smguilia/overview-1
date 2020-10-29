@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020
-lastupdated: "2020-10-06"
+lastupdated: "2020-10-29"
 
 keywords: public peering
 
@@ -90,7 +90,7 @@ The following table shows the current public peer exchanges.
 
 | Country       | City        | State or Province | Exchange            |
 |---------------|-------------|-------------------|---------------------|
-| Canada	      | Tortonto	  | Ontario	          | TorIX               |
+| Canada	      | Toronto	    | Ontario	          | TorIX               |
 | United States | Denver	    | Colorado	        | ANY2 Denver         |
 | United States	| Denver	    | Colorado	        | IX Denver           |
 | United States	| Miami	      | Florida	          | FL-IX               |
