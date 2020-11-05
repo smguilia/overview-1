@@ -26,7 +26,7 @@ The {{site.data.keyword.cloud}} console is a user interface that helps you manag
 {: #video-ui}
 
 <div class="embed-responsive embed-responsive-16by9" data-hd-video="video">
-  <iframe class="embed-responsive-item" id="youtubeplayer" title="Welcome to IBM Cloud" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/VXqbRNwXC2A" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+  <iframe class="embed-responsive-item" id="youtubeplayer" title="Welcome to IBM Cloud" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/HzugDzl2cfg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 </div>
 
 ## Video transcript
