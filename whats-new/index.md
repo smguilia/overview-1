@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-10-29"
+lastupdated: "2020-11-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -197,7 +197,7 @@ New as of: 26 February 2020
 
 When you remove a user from your account, {{site.data.keyword.cloud_notm}} automatically cleans up the API keys associated with that user's identity, so you don't have to. For more information, see the [Updated handling of IBM Cloud API keys for users removed from accounts](https://www.ibm.com/cloud/blog/announcements/updated-handling-of-ibm-cloud-api-keys-for-users-removed-from-accounts){: external} blog post.
 
-## {{site.data.keyword.cloud-shell_full}} (Beta) is now available
+## {{site.data.keyword.cloud-shell_notm}} (Beta) is now available
 {: #cloud-shell-beta}
 New as of: 21 January 2020
 
