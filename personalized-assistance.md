@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2020
-lastupdated: "2020-10-29"
+lastupdated: "2020-11-06"
 
 keywords: personalized onboarding, onboarding program, Global Client Success, getting started, how to, get help, new user, first time, personal, dedicated assistance, cloud onboarding, account setup, first time, how to use cloud, new to cloud, initial setup, sales, direct assignment, onboard, ready to start, help, initial deployment
 
@@ -57,6 +57,6 @@ In addition, you can take advantage of other ways to learn about {{site.data.key
 ### Questions about the onboarding process?
 {: #contact-client-success}
 
-If you have a general question, an issue, or feedback about the onboarding process into {{site.data.keyword.cloud_notm}}, email us through the Let's Talk dialog by clicking the chat icon. 
+If you have a general question, an issue, or feedback about the onboarding process, [email us](https://www.ibm.com/account/reg/us-en/signup?formid=MAIL-wcponboard){: external}.
 
 
