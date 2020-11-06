@@ -23,8 +23,15 @@ subcollection: overview
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience. 
 {:shortdesc}
 
-If you're looking for updates for the services that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external}  on the {{site.data.keyword.Bluemix_notm}} blog.
+If you're looking for updates for the services that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Enhanced Support Center
+{: #support-center-enhance-oct2020}
+
+New as of: 28 October 2020
+
+The [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} is now updated to help improve your experience with creating and managing your support cases. You can refine the scope of your cases by routing them to a specfic resource and provide feedback on your cases. You will also find popular FAQs that are featured based on your specific issue. For more details, see [Announcing the Release of Our New Support Center Enhancements](https://www.ibm.com/cloud/blog/announcements/new-support-center-enhancements){: external}.
 
 ## Restricting account access by using IAM account settings
 {: #iam-acct-settings}
