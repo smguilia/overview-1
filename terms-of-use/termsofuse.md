@@ -21,7 +21,7 @@ subcollection: overview
 # {{site.data.keyword.Bluemix_notm}} Terms of Use 
 {: #terms}
 
-Your {{site.data.keyword.cloud}} account and any services that are ordered from the {{site.data.keyword.cloud_notm}} are provided under the terms of the Service Description for {{site.data.keyword.cloud_notm}} available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: external} ; and one of the following base agreements:
+Your {{site.data.keyword.cloud}} account and any services that are ordered from the {{site.data.keyword.cloud_notm}} are provided under the terms of the Service Description for {{site.data.keyword.cloud_notm}} available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: external} and one of the following base agreements:
 
 * {{site.data.keyword.cloud_notm}} Services Agreement (local country version*) for Lite accounts, non-US Dollar credit card billing, or if you select invoicing from {{site.data.keyword.IBM_notm}}, available at [https://www.ibm.com/terms](https://www.ibm.com/terms){: external}  (select your country);
 * SoftLayer Cloud Service Agreement for US Dollar credit card billing, available at [https://www.ibm.com/support/customer/zz/en/softlayer.html](https://www.ibm.com/support/customer/zz/en/softlayer.html){: external} 
