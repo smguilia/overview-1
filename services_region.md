@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-11-12"
+lastupdated: "2020-11-13"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -437,6 +437,7 @@ The following infrastructure resources are available in North and South America.
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  | 
 | Direct Link Dedicated Hosting on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -447,7 +448,6 @@ The following infrastructure resources are available in North and South America.
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -468,6 +468,7 @@ The following infrastructure resources are available in North and South America.
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Direct Link Dedicated Hosting on Classic |  |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -478,7 +479,6 @@ The following infrastructure resources are available in North and South America.
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -499,6 +499,7 @@ The following infrastructure resources are available in North and South America.
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -509,7 +510,6 @@ The following infrastructure resources are available in North and South America.
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -530,6 +530,7 @@ The following infrastructure resources are available in North and South America.
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -540,7 +541,6 @@ The following infrastructure resources are available in North and South America.
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -566,6 +566,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  | 
 | Direct Link Dedicated Hosting on Classic |  |  | 
@@ -576,7 +577,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Gateway Appliance |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -597,6 +597,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Direct Link Dedicated Hosting on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -607,7 +608,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -628,6 +628,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Direct Link Dedicated Hosting on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -638,7 +639,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -659,6 +659,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -669,7 +670,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -690,6 +690,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -700,7 +701,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -721,6 +721,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -731,7 +732,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -757,6 +757,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  |  |  |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -767,7 +768,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -788,6 +788,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -798,7 +799,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -819,6 +819,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -829,7 +830,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -850,6 +850,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Direct Link Dedicated Hosting on Classic |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -860,7 +861,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -881,6 +881,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -891,7 +892,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -912,6 +912,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
+| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -922,7 +923,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
