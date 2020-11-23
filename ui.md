@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-08-24"
+lastupdated: "2020-11-23"
 
 keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -14,7 +14,6 @@ subcollection: overview
 {:tip: .tip}
 {:note: .note}
 {:external: target="_blank" .external}
-{:script: data-hd-video='script'}
 
 # Navigating the {{site.data.keyword.cloud_notm}} console 
 {: #ui}
@@ -22,38 +21,42 @@ subcollection: overview
 The {{site.data.keyword.cloud}} console is a user interface that helps you manage all your {{site.data.keyword.cloud_notm}} resources. When you access the [console](https://cloud.ibm.com){: external} , you can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a Menu icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
 {: shortdesc}
 
-## Watch a tour
+## Watch and learn
 {: #video-ui}
 
-<div class="embed-responsive embed-responsive-16by9" data-hd-video="video">
-  <iframe class="embed-responsive-item" id="youtubeplayer" title="Welcome to IBM Cloud" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/HzugDzl2cfg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
-</div>
+![Introducing {{site.data.keyword.cloud_notm}}](https://www.youtube.com/embed/HzugDzl2cfg){: video output="iframe" data-script="#video-transcript-ui" id="youtubeplayer" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen}
 
-## Video transcript
+### Video transcript
 {: #video-transcript-ui}
-{: script}
 {: notoc}
 
-Welcome to IBM Cloud, the home of over 190 unique services that are available for you to start customizing and building the solutions that you need for your business today! [Upbeat music]
+Welcome to {{site.data.keyword.cloud_notm}}, your open, secure, and enterprise-ready cloud platform with over 350 unique products for you to start building the solutions that you need today! Just log in, and you're ready to start building in the cloud.
 
-After logging in, you're ready to start building right away! From your dashboard, pick the journey that best fits your needs [Click Menu icon > Dashboard]. Start creating apps, add users to your account, or if you wanted to learn about some of our common patterns based on best practices and proven technologies, check out the solution tutorials in the Learn widget. Your dashboard is the place to view a high-level overview of your account usage, support cases, apps, and resources with quick links out to each area.
+From the global navigation, you can explore how to get started with key technologies in {{site.data.keyword.cloud_notm}}. Choose from technologies including serverless computing with Functions [Click Menu icon > Functions], container-based deployments on Kubernetes [Click Kubernetes to expand the options] or Red Hat OpenShift [Click OpenShift to expand the options], and VPC infrastructure [Click VPC Infrastructure to expand the options]. Developers can start with API management tools, app development starter kits, DevOps toolchains, and more to expedite and automate your app development. 
 
-When you're ready to start adding resources to your account, go to the catalog [Click Catalog menu item]. Get started with some powerful services from Watson in the AI category. Check out our databases, IoT, networking, and storage offerings. And explore the variety of compute options from the IBM Cloud Kubernetes Service to bare metal servers to serverless. If you're just here to try us out, filter the catalog to view offerings with Lite plans, which are free to use [Click Filter to expand the options, and select Lite].
+You can get started creating resources through any of these guided journeys [Click Kubernetes > Clusters]. 
 
-After you start building, go to your resource list [Click Menu icon > Resource list] to get a quick and easy view of all of the resources that have been added to your account. This is where you can access quick options [Expand any category on the resource list, and select the Actions menu icon for any row to display the options] for working with apps, and tag, rename, or delete resources.
+Or, if you want to explore everything that {{site.data.keyword.cloud_notm}} has to offer, go to the catalog to browse over 350 unique products [Click Catalog menu item]. Choose from our broad portfolio of managed services [Click Services], explore software products to take advantage of simplified installation [Click Software], or consult with {{site.data.keyword.cloud_notm}} experts [Click Consulting]. If you're just here to try it out, filter the catalog by products that offer Lite plans, which are free to use [Click Services, and select the Lite pricing plan option]. 
 
-For any of the housekeeping items that you need to take care of as the account owner, such as creating and managing your resource groups, Cloud Foundry orgs and spaces, tags for resources, or account settings, go to Manage > Account [Click Manage menu option > Account].
+When you're working in {{site.data.keyword.cloud_notm}} [Click IBM Cloud menu option], check out your dashboard to get a high-level overview of your account's resources, users, support cases, compliance monitoring, and usage, with quick links out to each area. You can tailor the information that's displayed to only what you need by creating custom dashboards and adding widgets for specific resources, team notes, management tasks, and more [Click the Actions menu icon > Create dashboard > Management > Create]. 
 
-From the same Manage menu, you can access the Billing and usage area of your account too [Click Manage menu option > Billing and usage]. 
+For any account management tasks that you need to take care of, go to Manage > Account [Click Manage menu option > Account]. Here you can create and manage your resource groups, Cloud Foundry orgs, create tags to organize resources, manage your account settings, and more. 
 
-Through the Manage > Access (IAM) option [Click Manage menu item > Access (IAM)], you can invite users to your account and manage their access to account resources including IAM-enabled resources, Cloud Foundry resources, and classic infrastructure resources.
+From the same Manage menu, you can go to Billing and usage [Click Manage menu option > Billing and usage] to view your usage, view invoices, and set spending notifications to help keep track of your costs.
 
-If you run into any questions as you start building apps, working with users, or building your infrastructure, you can visit the Support page [Click Support menu option] where you'll find common FAQs that can help you to resolve your issue quickly without even having to contact IBM Cloud. However, if you do find the need to get in touch with us or open a support case, those options are also available to you.
+Then, through the Manage > Access (IAM) option [Click Manage menu item > Access (IAM)], you can invite users to your account and manage their access to account resources including IAM-enabled, Cloud Foundry, and classic infrastructure resources. 
 
-The docs [Click Docs menu items] are also a helpful guide for walking you through common tasks. You can enter any set of keywords in the docs search bar to help you quickly find the information that you're looking for. 
+In a connected world, security is more important than ever, and we've built it right into the platform [Click Menu icon > Security and Compliance]. With the {{site.data.keyword.cloud_notm}} Security and Compliance Center [Click Dashboard], you can set up a unified dashboard to monitor security and compliance, govern configuration, and gain insights into threats. 
 
-Now that you know how to navigate through the IBM Cloud console to set up your account, create resources from the catalog, manage them from your resource list, and find help through support and docs, it's time to get coding and building out your infrastructure!  
+If you prefer to work from the command line [Click IBM Cloud Shell menu item], you can manage your {{site.data.keyword.cloud_notm}} account and resources right from your browser with {{site.data.keyword.cloud-shell_notm}}. Just open {{site.data.keyword.cloud-shell_short}} to start using the {{site.data.keyword.cloud_notm}} CLI and tons of other plug-ins, tools, and runtimes with no installation needed. 
 
+If you run into any questions as you're working in {{site.data.keyword.cloud_notm}}, visit the Support Center [Click Support menu option], where you'll find FAQs and common tasks that can help you to resolve your issue quickly without even having to contact {{site.data.keyword.cloud_notm}}. However, if you do need to get in touch with us or open a support case, those options are also available to you. 
+
+For in-depth information about how to get up and running in {{site.data.keyword.cloud_notm}}, visit the docs [Click Docs menu item > Develop tab]. Explore key topics by use case or browse through our library of tutorials that range from quick start guides to advanced solution tutorials [Click Deploy tab > Tutorials tab].
+
+For more guidance, check out the full product docs [Click All product docs tab] or API & SDK reference libraries [Click API & SDK reference tab]. Or, browse our FAQ library to get answers to common questions about {{site.data.keyword.cloud_notm}}'s products and services [Click FAQs tab, and expand the What is Master Data Management? entry]. 
+
+Now that you know how to navigate through the {{site.data.keyword.cloud_notm}} user interface to get your account set up, create resources from the catalog, and find help through support and docs, it's time get coding or building your infrastructure!
 
 ## Using the console
 {: #consoleoptions}
