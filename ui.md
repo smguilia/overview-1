@@ -21,7 +21,7 @@ subcollection: overview
 The {{site.data.keyword.cloud}} console is a user interface that helps you manage all your {{site.data.keyword.cloud_notm}} resources. When you access the [console](https://cloud.ibm.com){: external} , you can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a Menu icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
 {: shortdesc}
 
-## Watch and learn
+## Watch a tour
 {: #video-ui}
 
 ![Introducing {{site.data.keyword.cloud_notm}}](https://www.youtube.com/embed/HzugDzl2cfg){: video output="iframe" data-script="#video-transcript-ui" id="youtubeplayer" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen}
