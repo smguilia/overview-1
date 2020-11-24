@@ -14,6 +14,7 @@ subcollection: overview
 {:tip: .tip}
 {:note: .note}
 {:external: target="_blank" .external}
+{:video: .video}
 
 # Navigating the {{site.data.keyword.cloud_notm}} console 
 {: #ui}
