@@ -161,7 +161,7 @@ Services that are hosted globally create resources that operate across multiple 
 {: tab-title="Americas"}
 {: tab-group="PaaS"}
 {: class="simple-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 | Service | London | Frankfurt | 
 |-----|-----|-----|
@@ -289,7 +289,7 @@ Services that are hosted globally create resources that operate across multiple 
 {: tab-title="Europe"}
 {: tab-group="PaaS"}
 {: class="simple-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 | Service | Sydney | Tokyo | Seoul | Singapore | 
 |-----|-----|-----|-----|-----|
@@ -417,7 +417,7 @@ Services that are hosted globally create resources that operate across multiple 
 {: tab-title="Asia Pacific"}
 {: tab-group="PaaS"}
 {: class="simple-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 
@@ -429,7 +429,7 @@ Infrastructure services are available to be deployed in data centers. Each colum
 ### Americas
 {: #iaas-service-americas}
 
-The following infrastructure resources are available in North and South America. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The Dallas (MZR) and Washington DC (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in North and South America. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates that the resource is available in that location. The Dallas (MZR) and Washington DC (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
 
 | Service | Montreal 01 | Toronto 01 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -459,7 +459,7 @@ The following infrastructure resources are available in North and South America.
 {: tab-title="Canada"}
 {: tab-group="Americas"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Dallas (MZR) | Dallas 01 | Dallas 05 | Dallas 06 | Dallas 07 | Dallas 09 | Dallas 10 | Dallas 12 | Dallas 13 | Houston 01 | Houston 02 | Seattle 01 | San Jose 01 | San Jose 03 | San Jose 04 | Washington DC (MZR) | Washington DC 01 | Washington DC 04 | Washington DC 06 | Washington DC 07 | 
@@ -490,7 +490,7 @@ The following infrastructure resources are available in North and South America.
 {: tab-title="United States"}
 {: tab-group="Americas"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Mexico 01 | 
@@ -521,7 +521,7 @@ The following infrastructure resources are available in North and South America.
 {: tab-title="Mexico"}
 {: tab-group="Americas"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Sao Paulo 01 | 
@@ -552,13 +552,13 @@ The following infrastructure resources are available in North and South America.
 {: tab-title="Brazil"}
 {: tab-group="Americas"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 ### Europe
 {: #iaas-service-europe}
 
-The following infrastructure resources are available in Europe. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The London (MZR) and Frankfurt (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in Europe. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates that the resource is available in that location. The London (MZR) and Frankfurt (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
 
 | Service | Amsterdam 01 | Amsterdam 03 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -588,7 +588,7 @@ The following infrastructure resources are available in Europe. Match the resour
 {: tab-title="Netherlands"}
 {: tab-group="Europe"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Frankfurt (MZR) | Frankfurt 02 | Frankfurt 04 | Frankfurt 05 | 
@@ -619,7 +619,7 @@ The following infrastructure resources are available in Europe. Match the resour
 {: tab-title="Germany"}
 {: tab-group="Europe"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | London (MZR) | London 02 | London 04 | London 05 | London 06 | 
@@ -650,7 +650,7 @@ The following infrastructure resources are available in Europe. Match the resour
 {: tab-title="United Kingdom"}
 {: tab-group="Europe"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Milan 01 | 
@@ -681,7 +681,7 @@ The following infrastructure resources are available in Europe. Match the resour
 {: tab-title="Italy"}
 {: tab-group="Europe"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Oslo 01 | 
@@ -712,7 +712,7 @@ The following infrastructure resources are available in Europe. Match the resour
 {: tab-title="Norway"}
 {: tab-group="Europe"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. The row headers identify the service,   To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Paris 01 | 
@@ -743,13 +743,13 @@ The following infrastructure resources are available in Europe. Match the resour
 {: tab-title="France"}
 {: tab-group="Europe"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 ### Asia Pacific
 {: #iaas-service-asia}
 
-The following infrastructure resources are available in Asia and the Pacific region. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The Sydney (MZR) and Tokyo (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in Asia and the Pacific region. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates that the resource is available in that location. The Sydney (MZR) and Tokyo (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
 
 | Service | Melbourne 01 | Sydney (MZR) | Sydney 01 | Sydney 04 | Sydney 05 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -779,7 +779,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 {: tab-title="Australia"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Hong Kong 02 | 
@@ -810,7 +810,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 {: tab-title="Hong Kong"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Chennai 01 | 
@@ -841,7 +841,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 {: tab-title="India"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Tokyo (MZR) | Tokyo 01 | Tokyo 02 | Tokyo 04 | Tokyo 05 | 
@@ -872,7 +872,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 {: tab-title="Japan"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Seoul 01 | 
@@ -903,7 +903,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 {: tab-title="Korea"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
 | Service | Singapore 01 | 
@@ -934,6 +934,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 {: tab-title="Singapore"}
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
-{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+{: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service, the column headers identify where that service is located. To understand where a service is located in the table, navigate to the row, and find the location that you are interested in."}
 
 
