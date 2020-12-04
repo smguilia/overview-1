@@ -1,10 +1,9 @@
 ---
 
 copyright:
-
   years: 2015, 2020
 
-lastupdated: "2020-11-25"
+lastupdated: "2020-12-04"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -13,8 +12,10 @@ subcollection: overview
 ---
 
 {:shortdesc: .shortdesc}
-{:external: target="_blank" .external}
+{:codeblock: .codeblock}
+{:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:external: target="_blank" .external}
 
 # What's new in {{site.data.keyword.Bluemix_notm}}?
@@ -25,6 +26,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates for the services that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Introducing Status 2.0
+{: #status-page-enhance}
+
+New as of: 4 December 2020
+
+IBM Cloud users now can visit a brand-new simplified [Status page](https://cloud.ibm.com/status?selected=status), where they can find relevant information easier. Customers will notice enhanced feedback loops, deeper customization, clear availability status, and more timely notifications about any occurring issues. For more information about the page, see the [Viewing cloud status page](https://cloud.ibm.com/docs/get-support?topic=get-support-viewing-cloud-status). 
 
 ## Support for U2F MFA and other MFA methods
 {: #mfa-hardware}
@@ -45,15 +53,6 @@ New as of: 28 October 2020
 
 The [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} is now updated to help improve your experience with creating and managing your support cases. You can refine the scope of your cases by routing them to a specfic resource and provide feedback on your cases. You will also find popular FAQs that are featured based on your specific issue. For more details, see [Announcing the Release of Our New Support Center Enhancements](https://www.ibm.com/cloud/blog/announcements/new-support-center-enhancements){: external}.
 
-## Restricting account access by using IAM account settings
-{: #iam-acct-settings}
-
-For increased control over which users can access your account and work with API keys and service IDs, leverage the three new settings that are available on the **Manage** > **Access (IAM)** > **Settings** page in the console.
-
-* Restrict access to your account to only users coming from a specified IP address or range that you set. For more information, see [Allowing specific IP addresses](/docs/account?topic=account-ips).
-* Block all users from creating API keys in the account except for those that you give explicit access. For more information, see [Restricting users from creating API keys](/docs/account?topic=account-allow-api-create).
-* Block all users from creating service IDs in the account except for those that you give explicit access. For more information, see [Restricting users from creating service IDs](/docs/account?topic=account-restrict-service-id-create).
-
 ## Managing {{site.data.keyword.cloud-shell_notm}} settings and other updates to {{site.data.keyword.cloud-shell_notm}}
 {: #cloud-shell-sept2020}
 
@@ -63,12 +62,21 @@ Account owners or users with {{site.data.keyword.cloud-shell_short}} administrat
 
 For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
 
+## Restricting account access by using IAM account settings
+{: #iam-acct-settings}
+
+For increased control over which users can access your account and work with API keys and service IDs, leverage the three new settings that are available on the **Manage** > **Access (IAM)** > **Settings** page in the console.
+
+* Restrict access to your account to only users coming from a specified IP address or range that you set. For more information, see [Allowing specific IP addresses](/docs/account?topic=account-ips).
+* Block all users from creating API keys in the account except for those that you give explicit access. For more information, see [Restricting users from creating API keys](/docs/account?topic=account-allow-api-create).
+* Block all users from creating service IDs in the account except for those that you give explicit access. For more information, see [Restricting users from creating service IDs](/docs/account?topic=account-restrict-service-id-create).
+
 ## Introducing {{site.data.keyword.compliance_short}}
 {: #scc-aug2020}
 
 New as of: 31 August 2020
 
-For highly regulated industries, such as financial or health-care services, achieving a continuously secure and compliant cloud environment is an important first step toward protecting customer and application data. But, we understand that historically this has been a difficult and manual process, potentially placing your organization at risk, which is why, we're excited to introduce the {{site.data.keyword.compliance_short}} - built directly into the {{site.data.keyword.cloud_notm}} platform.
+For highly regulated industries, such as financial or healthcare services, achieving a continuously secure and compliant cloud environment is an important first step toward protecting customer and application data. But, we understand that historically this has been a difficult and manual process, potentially placing your organization at risk, which is why, we're excited to introduce the {{site.data.keyword.compliance_short}} - built directly into the {{site.data.keyword.cloud_notm}} platform.
 
 With the {{site.data.keyword.compliance_short}}, you can embed checkpoints into your everyday workflows that not only help to monitor for security and compliance but enforce configuration standardization across your accounts. By ensuring you have automation in place that monitors for risk, you can identify security vulnerabilities quickly and work to mitigate the impact that they have to your business.
 
@@ -86,7 +94,7 @@ The 1.2.0 release of the {{site.data.keyword.cloud_notm}} CLI includes:
  * Additional deployment capabilities with the `ibmcloud dev` command, including manual deployment to Knative and deployment to {{site.data.keyword.openshiftlong}} containers.
  * Deprecation of the `cfee` namespace.
 
-For more information, see [Getting started with the {{site.data.keyword.cloud_notm}} CLI](/docs/cli?topic=cli-getting-started).
+For more information about the {{site.data.keyword.cloud_notm}} CLI, see [Getting started with the IBM Cloud CLI](/docs/cli?topic=cli-getting-started).
 
 ## Increased usage quota and other updates to {{site.data.keyword.cloud-shell_notm}}
 {: #cloud-shell-aug2020}
@@ -102,13 +110,7 @@ For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}}
 
 New as of: 10 August 2020
 
-Create and manage customized dashboards that can be used to offer an organized and relevant workspace. You can share the dashboards with different users in your account or as a way to group resources for specific projects or teams. When you create a new dashboard, you can start from scratch with a blank template or choose one of the other available template layouts. For more information, see [Working with scoped dashboards](https://test.cloud.ibm.com/docs/account?topic=account-custom-dashboard).
-
-## OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
-{: #ova-vcenter-support}
-New as of: 04 August 2020
-
-With the deployment power of the {{site.data.keyword.Bluemix_notm}} Schematics service, support for third-party OVA images targeting VMware vCenter Server deployments is now available. To quickly find the available products in the [catalog](https://cloud.ibm.com/catalog){: external}, click **Software**, and select **OVA Images** from the **Software** list. 
+Create and manage customized dashboards that can be used to offer an organized and relevant workspace. You can share the dashboards with different users in your account or as a way to group resources for specific projects or teams. When you create a new dashboard, you can start from scratch with a blank template or choose one of the other available templates. For more information, see [Working with scoped dashboards](https://test.cloud.ibm.com/docs/account?topic=account-custom-dashboard).
 
 ## Audit logs for private catalogs
 {: #audit-logs-catalogs}
@@ -121,7 +123,7 @@ View recorded changes to your private catalogs with the new audit logs feature. 
 {: #notification-distribution}
 New as of: 07 July 2020
 
-You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](/docs/account?topic=account-email-prefs#adding-users-to-a-distribution-list).
+You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](https://cloud.ibm.com/docs/account?topic=account-email-prefs#adding-users-to-a-distribution-list)
 
 ## CLI support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 {: #enterprise-filter-cli}
@@ -157,6 +159,12 @@ Four new Software Development Kits (SDKs) for the catalog management service, wh
 
 For more information, see the [Catalog Management API reference](https://cloud.ibm.com/apidocs/resource-catalog/private-catalog){: external}. 
 
+## OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
+{: #ova-vcenter-support}
+New as of: 07 July 2020
+
+With the deployment power of the {{site.data.keyword.Bluemix_notm}} Schematics service, support for third-party OVA images targeting VMware vCenter Server deployments is now available. To quickly find the available products in the [catalog](https://cloud.ibm.com/catalog){: external}, click **Software**, and select **OVA Images** from the **Software** list. 
+
 ## {{site.data.keyword.cloud-shell_notm}} is generally available
 {: #cloud-shell-ga}
 New as of: 24 June 2020
@@ -177,13 +185,13 @@ By using this new integration between {{site.data.keyword.appid_short}} and {{si
 {: #enterprise-catalog-filter}
 New as of: 01 May 2020
 
-You can now use filters to customize which products in the {{site.data.keyword.Bluemix_notm}} catalog are available in accounts within an enterprise hierarchy. Filters that are set at a parent account level apply to all child account groups and accounts. For more information, see [Managing products for an {{site.data.keyword.Bluemix_notm}} enterprise](/docs/account?topic=account-catalog-enterprise-restrict).    
+You can now use filters to customize which products in the {{site.data.keyword.Bluemix_notm}} catalog are available in accounts within an enterprise hierarchy. Filters that are set at a parent account level apply to all child account groups and accounts. For more information, see [Managing products for an {{site.data.keyword.Bluemix_notm}} enterprise](/docs/account?topic=account-catalog-enterprise-restrict).   
 
 ## Unified notifications experience
 {: #unified-notifications-experience}
 New as of: 21 April 2020
 
-Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notification icon](../icons/Notification.svg) on the console menu bar to view your notifications.
+Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notification icon](../../icons/Notification.svg) on the console menu bar to view your notifications.
 
 Additionally, you can find all infrastructure notifications on the new notifications page. To learn more about the new notifications experience, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
 
@@ -198,7 +206,9 @@ This update to {{site.data.keyword.cloud-shell_notm}} (Beta) includes several ne
 
 For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
 
-## {{site.data.keyword.Bluemix_notm}} CLI Version 1.0.0 is now available
+## {{site.data.keyword.cloud_notm}} CLI Version 1.0.0 is now available
+(: #cli-100}
+
 New as of: 31 March 2020
 
 The 1.0.0 release of the {{site.data.keyword.Bluemix_notm}} CLI includes two new global options to help you more easily automate command-line scripting tasks. The new `--output json` option provides command output in a parsable JSON format, and the `--quiet` option suppresses some extra messages such as progress indicators simplify automated processing. The {{site.data.keyword.Bluemix_notm}} CLI now also includes the {{site.data.keyword.dev_cli_notm}} (`ibmcloud dev`) commands, so you can work with apps, pipelines, toolchains, and more without needing to install a separate plug-in. The Cloud Foundry CLI (`ibmcloud cf`) is no longer bundled but can still be installed separately.
@@ -220,7 +230,7 @@ When you remove a user from your account, {{site.data.keyword.cloud_notm}} autom
 {: #cloud-shell-beta}
 New as of: 21 January 2020
 
-We're introducing a new way to access {{site.data.keyword.cloud_notm}} from the command line with no installation needed - {{site.data.keyword.cloud-shell_notm}}! {{site.data.keyword.cloud-shell_notm}} is a cloud-based shell environment that gives you instant command-line access through your web browser. It's preconfigured with the full {{site.data.keyword.cloud_notm}} CLI, all CLI plug-ins, and tons of tools so you have everything that you need to manage apps, resources, and infrastructure. To try out this beta release, see [Getting started with {{site.data.keyword.cloud-shell_notm}}](/docs/cloud-shell?topic=cloud-shell-getting-started).
+We're introducing a new way to access {{site.data.keyword.cloud_notm}} from the command line with no installation needed - {{site.data.keyword.cloud-shell_full}}! {{site.data.keyword.cloud-shell_notm}} is a cloud-based shell environment that gives you instant command-line access through your web browser. It's preconfigured with the full {{site.data.keyword.cloud_notm}} CLI, all CLI plug-ins, and tons of tools so you have everything that you need to manage apps, resources, and infrastructure. To try out this beta release, see [Getting started with {{site.data.keyword.cloud-shell_notm}}](/docs/cloud-shell?topic=cloud-shell-getting-started).
 
 ## Improved Support Center 
 {: #improved-support}
@@ -238,7 +248,7 @@ All users and service IDs are members of the Public Access group by default, whi
 {: #delete-rgs}
 New as of: 26 November 2019
 
-Besides the default resource group that's automatically created for you when create your {{site.data.keyword.Bluemix_notm}} account, you can now delete any resource group that doesn't contain any resources. For more information, see [Managing resource groups](/docs/account?topic=account-delete_rgs).
+Besides the default resource group that's automatically created for you when create your {{site.data.keyword.Bluemix_notm}} account, you can now delete any resource group that doesn't contain any resources. For more information, see [Managing resource groups](/docs/account?topic=account-rgs).
 
 
 ## Bitnami Helm charts
@@ -258,7 +268,7 @@ New as of: 18 October 2019
 {: #access-report}
 New as of: 17 October 2019
 
-Have you ever wanted to get a quick view of all users, service IDs, access groups, and services that have access to a specific resource in your account? Well, now you can download a report that includes details about who can access your resource. From the My resources page in your account, you can select the **Export access report** option in the row for an IAM-enabled resource to get the report. For more information about the types of data available in the report and who has access to view the report, see [Auditing access to resources](/docs/account?topic=account-access-report).
+Have you ever wanted to get a quick view of all users, service IDs, access groups, and services that have access to a specific resource in your account? Well, now you can download a report that includes details about who can access your resource. From the My resources page in your account, you can select the **Export access report** option in the row for an IAM-enabled resource to get the report. For more information about the types of data available in the report and who has access to view the report, see [Exporting an access report](/docs/account?topic=account-access-report).
 
 ## Mapping actions to IAM roles 
 {: #actions-iam}
@@ -297,7 +307,7 @@ You can now centrally manage billing and usage for multiple accounts by creating
    * Subscription credit is aggregated into a credit pool and shared with all accounts in the enterprise. Not only is tracking your subscriptions easier, but you can get fewer, larger subscriptions for a better discount because the credit is shared. 
    * Top-down usage reporting gives you a unified view of usage costs from all accounts, organized according to your enterprise hierarchy. 
 
-If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/account?topic=account-what-is-enterprise) and [Introducing {{site.data.keyword.Bluemix_notm}} Enterprises](http://www.ibm.com/cloud/blog/announcements/Introducing-IBM-Cloud-Enterprises){: external}  for more information.
+If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/account?topic=account-enterprise) and [Introducing IBM Cloud Enterprises](http://www.ibm.com/cloud/blog/announcements/Introducing-IBM-Cloud-Enterprises){: external}  for more information.
 
 ## Subscriptions page for tracking subscription credit spending
 {: #subscriptions-page}
@@ -327,7 +337,7 @@ You can now use our newest tagging capabilities to manage resources, usage, and 
 ## Enabling public access to resources
 New as of: 25 March 2019
 
-You can now enable public access to objects in your {{site.data.keyword.cos_full}} buckets by using a new access group that is provided for you in your account. This new access group is called the `Public access` group, and all users and service IDs are added to it by default. You can update the policies for the access group to enable all users, even unauthenticated users, access to the resource that you specify in the policy. See [Managing public access to resources](/docs/account?topic=account-public) for more information.
+You can now enable public access to objects in your {{site.data.keyword.cos_full}} buckets by using a new access group that is provided for you in your account. This new access group is called the `Public access` group, and all users and service IDs are added to it by default. You can update the policies for the access group to enable all users, even unauthenticated users, access to the resource that you specify in the policy. [Learn more about the public access group](/docs/account?topic=account-public#public).
 
 ## Multifactor authentication for users with federated IDs
 New as of: 12 March 2019
@@ -383,7 +393,7 @@ New as of: 30 November 2018
 
 You can now access all of the {{site.data.keyword.Bluemix_notm}} CLI plug-in documentation in one location, making it easier for you to find any CLI command that you are looking for. Check out the References section in the [CLI documentation](/docs/cli?topic=cli-ibmcloud_cli).
 
-## New dashboard and the Resource list page
+## New dashboard and Resource list page
 New as of: 30 November 2018
 {: #dash}
 
@@ -420,7 +430,7 @@ New as of: 30 November 2018
 
 To help you decide and analyze what services you'd like to purchase, you can use the cost estimator. Now, you can go through the console and select each service you'd like to have, and add all of the costs in an easy to use tool. You can even enter projected data usages, lookups per second, writes per second, and queries per second to get a more accurate estimation of your monthly expenditures. You can use the cost estimator with each catalog service you select, or you can click the cost estimator icon ![Estimator icon](../icons/Estimator.svg) in the console menu to get a summary of your estimated costs. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
 
-## Updated global location names for {{site.data.keyword.cloud_notm}}
+## Updated global location names
 New as of: 1 November 2018
 {: #location-name-updates}
 
@@ -450,7 +460,7 @@ With {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM), you 
 * Global resource catalog for viewing private catalog offerings and updating the metadata and visibility for the offerings
 * All account management services for access to each of the individual account management service options based on the assigned role as well as access to billing and usage tracking.
 
-For more information on the tasks that a user can do based on which account management service they have a policy on and which role they are assigned, see [Example platform management roles and actions for account management services](/docs/account?topic=account-account-services). For more information about this new feature, see [Introducing More Flexibility and Control for IBM Cloud Account Management Services Access](https://www.ibm.com/cloud/blog/announcements/introducing-more-flexibility-and-control-for-ibm-cloud-account-management-services-access){: external}. 
+For more information on the tasks that a user can do based on which account management service they have a policy on and which role they are assigned, see [Example platform management roles and actions for account management services](/docs/account?topic=account-account-services#account-management-actions-roles). For more information about this new feature, see the [Introducing More Flexibility and Control for IBM Cloud Account Management Services Access](https://www.ibm.com/cloud/blog/announcements/introducing-more-flexibility-and-control-for-ibm-cloud-account-management-services-access){: external}  blog post. 
 
 ## Searching for resources
 New as of: 17 July 2018
@@ -468,7 +478,7 @@ You can create dynamic rules to automatically add federated users to access grou
 New as of: 1 June 2018
 {: #protect-svcid-apikey}
 
-To avoid a situation where your service ID or API key is deleted causing an outage or disruption, you can lock service IDs and API keys by using the UI or CLI. Locking a service ID also prevents any access policies from being changed, deleted, or assigned as well as any API keys associated with the service ID from being created or deleted. For more information, see [Locking a service ID](/docs/account?topic=account-serviceidapikeys#lockkey) and [Locking an API key](/docs/account?topic=account-userapikey#lock_user_key).
+To avoid a situation where your service ID or API key is deleted causing an outage or disruption, you can lock service IDs and API keys by using the UI or CLI. Locking a service ID also prevents any access policies from being changed, deleted, or assigned as well as any API keys associated with the service ID from being created or deleted. For more information, see [Locking a service ID](/docs/account?topic=account-serviceidapikeys#lockkey) and [Locking an API key](/docs/account?topic=account-userapikey).
 
 ## Upgrade your Lite account to a Subscription account
 New as of: 31 May 2018
@@ -524,7 +534,7 @@ For users with a Pay-As-You-Go or Subscription account, you can create extra res
 New as of: 16 November 2017
 {: #iam-nov17}
 
-The introduction of resource groups within your {{site.data.keyword.Bluemix_notm}} account provides a new way for you to assign access. Users and service IDs can be assigned access to all services within a resource group, enabling you to quickly assign access to more than one resource at a time. You can also customize access for each user or service ID by assigning access to just some services within a resource group, or you choose to assign access to individual resources down to the service instance level. See [What features does IAM provide?](/docs/account?topic=account-iamoverview#features) for more information about the features that you can take advantage of by using IAM.
+The introduction of resource groups within your {{site.data.keyword.Bluemix_notm}} account provides a new way for you to assign access. Users and service IDs can be assigned access to all services within a resource group, enabling you to quickly assign access to more than one resource at a time. You can also customize access for each user or service ID by assigning access to just some services within a resource group, or you choose to assign access to individual resources down to the service instance level. For more information about the features that you can take advantage of by using IAM, see [What features does IAM provide?](/docs/account?topic=account-iamoverview#features)
 
 ## Customize your dashboard view
 New as of: 16 November 2017
