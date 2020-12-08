@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-12-04"
+lastupdated: "2020-12-08"
 
 keywords: console, platform overview, overview, data center, security, compliance 
 
@@ -22,7 +22,7 @@ The {{site.data.keyword.IBM}} cloud platform combines platform as a service (Paa
 
 The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. With our open source technologies, such as Kubernetes, Red Hat OpenShift, and a full range of compute options, including virtual machines, containers, bare metal, and serverless, you have the control and flexibility that's required to support workloads in your hybrid environment. You can deploy cloud-native apps while also ensuring workload portability.
 
-Whether you need to migrate apps to the cloud, ensure data resiliency against regional failure, or leverage new paradigms and deployment topologies to build your cloud-native apps, the platform's open architecture is built to accommodate your use case.
+Whether you need to migrate apps to the cloud, modernize your existing apps by using cloud services, ensure data resiliency against regional failure, or leverage new paradigms and deployment topologies to innovate and build your cloud-native apps, the platform's open architecture is built to accommodate your use case.
 
 ## What's built into the platform?
 {: #built-into-platform}
@@ -48,7 +48,7 @@ If you're a developer and you're just trying out {{site.data.keyword.Bluemix_not
 * Resource groups for organizing your resources to make assigning access to a set of resources quick and easy.
 * Access policies for your access groups or individual developers who need IAM access policies or Cloud Foundry org and space roles.
 
-For more information, see the [best practices for setting up your account](/docs/account?topic=account-account_setup) and [best practices for assigning access](/docs/account?topic=account-account_setup). 
+For more information, see the [best practices for organizing your resources and assigning access](/docs/account?topic=account-account_setup).
 
 As a financial officer for your company, you might be interested in simplifying how you manage billing and usage across multiple teams and departments. With a Subscription account, you can create an {{site.data.keyword.Bluemix_notm}} enterprise, which offers centralized account management, consolidated billing, and top-down usage reporting. An enterprise consists of an enterprise account, account groups, and individual accounts. 
 
@@ -217,7 +217,7 @@ Use the {{site.data.keyword.at_full}} service to monitor the activity of your {{
 ## Viewing status
 {: #status-service}
 
-The {{site.data.keyword.Bluemix_notm}} status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform, infrastructure, and major services. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more details, see [Viewing cloud status](https://cloud.ibm.com/docs/get-support?topic=get-support-viewing-cloud-status).
+The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more details, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
 
 
 
