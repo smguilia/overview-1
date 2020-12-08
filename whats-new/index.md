@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2020
 
-lastupdated: "2020-12-04"
+lastupdated: "2020-12-08"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -27,12 +27,12 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates for the services that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
-## Introducing Status 2.0
+## Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
 {: #status-page-enhance}
 
 New as of: 4 December 2020
 
-IBM Cloud users now can visit a brand-new simplified [Status page](https://cloud.ibm.com/status?selected=status), where they can find relevant information easier. Customers will notice enhanced feedback loops, deeper customization, clear availability status, and more timely notifications about any occurring issues. For more information about the page, see the [Viewing cloud status page](https://cloud.ibm.com/docs/get-support?topic=get-support-viewing-cloud-status). 
+You can now experience an enhanced version of the Status page in the {{site.data.keyword.Bluemix_notm}} console that offers reduced time to visibility of issues, as well as more detailed and up-to-date status information. For more information, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status). 
 
 ## Support for U2F MFA and other MFA methods
 {: #mfa-hardware}
