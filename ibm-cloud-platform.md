@@ -3,9 +3,9 @@
 
 copyright:
   years: 2016, 2020
-lastupdated: "2020-10-29"
+lastupdated: "2020-12-08"
 
-keywords: console, platform overview, overview, data center, security, compliance
+keywords: console, platform overview, overview, data center, security, compliance 
 
 subcollection: overview
 
@@ -17,10 +17,10 @@ subcollection: overview
 # What is the {{site.data.keyword.Bluemix_notm}} platform?
 {: #whatis-platform}
 
-The {{site.data.keyword.IBM}} cloud platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust.
+The {{site.data.keyword.IBM}} cloud platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
 {: .shortdesc}
 
-The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. With our open-source technologies, such as Kubernetes, Red Hat OpenShift, and a full range of compute options, including virtual machines, containers, bare metal, and serverless, you have as much control and flexibility as you need to support workloads in your hybrid environment. You can deploy cloud-native apps while also ensuring workload portability.
+The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. With our open source technologies, such as Kubernetes, Red Hat OpenShift, and a full range of compute options, including virtual machines, containers, bare metal, and serverless, you have the control and flexibility that's required to support workloads in your hybrid environment. You can deploy cloud-native apps while also ensuring workload portability.
 
 Whether you need to migrate apps to the cloud, modernize your existing apps by using cloud services, ensure data resiliency against regional failure, or leverage new paradigms and deployment topologies to innovate and build your cloud-native apps, the platform's open architecture is built to accommodate your use case.
 
@@ -29,13 +29,13 @@ Whether you need to migrate apps to the cloud, modernize your existing apps by u
 
 As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} platform is composed of multiple components that work together to provide a consistent and dependable cloud experience. 
 
-  * A robust console that serves as the front end for creating, viewing, managing your cloud resources
+  * A robust console that serves as the front end for creating, viewing, managing your cloud resources{: #test-bullet}
   * An identity and access management component that securely authenticates users for both platform services and controls access to resources consistently across {{site.data.keyword.Bluemix_notm}}
   * A catalog that consists of hundreds of supported products 
   * A search and tagging mechanism for filtering and identifying your resources
   * An account and billing management system that provides exact usage for pricing plans and secure credit card fraud protection
   
-![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showiing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Figure 1. Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
+![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Figure 1. Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
 Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-byoc) that you want to modernize and bring to the cloud or you're developing a [brand new application](/docs/apps?topic=apps-tutorial-starterkit), your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
 
@@ -63,7 +63,7 @@ For more information, see the [best practices for setting up an enterprise](/doc
 
 {{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with a variety of products in the catalog, including options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. You can find all of these services on the Services tab in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-The Software tab includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, and [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud){: external}. Even though you're responsible for the lifecycle management, deployment, and configuration of these software products on your own compute resources, you can take advantage of a simplified installation process that helps you to get up and running quickly.
+The Software tab includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs), [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, and [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud). Even though you're responsible for the lifecycle management, deployment, and configuration of these software products on your own compute resources, you can take advantage of a simplified installation process that helps you to get up and running quickly.
 
 The catalog supports command-line interfaces (CLIs) and a RESTful API for users to retrieve information about existing products, and create, manage, and delete their resources. 
 
@@ -119,7 +119,7 @@ The following table lists the filter options you can use when searching the cata
 
 | Option | Description |
 |--------------|-------|
-| EU Supported | Support for the service is specifically provided by {{site.data.keyword.cloud_notm}} support team members located in the European Union (EU) region. |
+| EU Supported | Support for the service is provided by {{site.data.keyword.cloud_notm}} support team members located in the European Union (EU) region. |
 | HIPAA Enabled | The service is designated as HIPAA ready, meaning processing, storing, and handling Protected Health Information (PHI) in the service is supported. |
 | IAM-enabled | The service is enabled to use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
 | Service Endpoint Supported | The service can be connected to over the {{site.data.keyword.cloud_notm}} private network instead of the public network. Connecting directly to service endpoints doesn't require internet access, providing increased security. |
@@ -214,7 +214,10 @@ The {{site.data.keyword.mon_full_notm}} service, allows you to gain operational 
 Use the {{site.data.keyword.at_full}} service to monitor the activity of your {{site.data.keyword.Bluemix_notm}} account, investigate abnormal activity and critical actions, and comply with regulatory audit requirements. In addition, you can be alerted on actions as they happen. The events that are collected comply with the Cloud Auditing Data Federation (CADF) standard. For more information, see [Getting started with {{site.data.keyword.at_full_notm}}](/docs/Activity-Tracker-with-LogDNA?topic=Activity-Tracker-with-LogDNA-getting-started).
 
 
+## Viewing status
+{: #status-service}
 
+The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more details, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
 
 
 
