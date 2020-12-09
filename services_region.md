@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-12-08"
+lastupdated: "2020-12-09"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
