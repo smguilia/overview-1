@@ -36,7 +36,7 @@ Applicable Additional SDs for any service ordered using your {{site.data.keyword
 ## All other accounts 
 {: #other}
 
-As of 10 December 2020, this section describes the Terms of Use for the following types of accounts:
+As of 10 December 2020, this section describes the Terms of Use for the following types of {{site.data.keyword.cloud_notm}} accounts:
 
  * New and existing Pay-As-You-Go accounts based in the US with any payment method other than credit card
  * New and existing Pay-As-You-Go accounts not based in the US
