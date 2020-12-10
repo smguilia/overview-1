@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2020
 
-lastupdated: "2020-12-08"
+lastupdated: "2020-12-10"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -24,8 +24,20 @@ subcollection: overview
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience. 
 {:shortdesc}
 
-If you're looking for updates for the services that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
+If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Unified payments & invoicing for new US-based Pay-As-You-Go accounts with credit card billing
+{: #sltob}
+
+New as of: 10 December 2020
+
+We are excited to announce our latest unification project for new US-based {{site.data.keyword.Bluemix_notm}} Pay-As-You-Go accounts with credit card billing. For increased clarification and consistency, the unified experience includes the following enhancements:
+ 
+* A single invoice that includes comprehensive usage details for all your products
+* The ability to download the invoice directly from the console
+* The ability to update a credit card in the console without being redirected to a different website
+* A one-to-one mapping between your invoice and your usage dashboard in the console 
 
 ## Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
 {: #status-page-enhance}
