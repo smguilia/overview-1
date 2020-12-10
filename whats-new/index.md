@@ -27,7 +27,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
-## Unified payments & invoicing for new US-based Pay-As-You-Go accounts with credit card billing
+## Enhanced payments & invoicing for new US-based Pay-As-You-Go accounts with credit card billing
 {: #sltob}
 
 New as of: 10 December 2020
