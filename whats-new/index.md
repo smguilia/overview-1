@@ -39,6 +39,8 @@ We are excited to announce our latest unification project for new US-based {{sit
 * The ability to update a credit card in the console without being redirected to a different website
 * A one-to-one mapping between your invoice and your usage dashboard in the console 
 
+For more details, including a video walk-through of the enhancements, see [The Enhanced Unified Billing and Payment Experience in {{site.data.keyword.Bluemix_notm}}](https://www.ibm.com/cloud/blog/announcements/enhanced-unified-billing-and-payment-experience-in-ibm-cloud){: external}. 
+
 ## Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
 {: #status-page-enhance}
 
