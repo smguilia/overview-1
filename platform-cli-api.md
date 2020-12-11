@@ -4,7 +4,7 @@ copyright:
 
   years: 2018, 2020
 
-lastupdated: "2020-08-25"
+lastupdated: "2020-12-11"
 
 keywords: resource groups, platform CLI, platform API, CLI, API, cloud experience, platform service
 
@@ -23,6 +23,8 @@ subcollection: overview
 
 The {{site.data.keyword.cloud}} platform is composed of multiple services that work together to provide you with a consistent cloud experience.
 {: shortdesc}
+
+All platform components available in the {{site.data.keyword.cloud_notm}} console are also available through APIs and CLI. Any new capabilities that are initially released as APIs only will be represented in the {{site.data.keyword.cloud_notm}} console and CLI within 180 days of GA release.
 
 Use the following table to get an at-a-glance view of the command-line interface (CLI) commands and APIs that are associated with each platform service.
 
