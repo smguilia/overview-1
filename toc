@@ -27,6 +27,7 @@ Getting started with IBM Cloud
         quickstart_ea.md
         quickstart_lite.md
 
+    manage-scc.md
     feedback.md
     {: .navgroup-end}
 
