@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-12-14"
+lastupdated: "2020-12-15"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -380,7 +380,7 @@ Services that are hosted globally create resources that operate across multiple 
 | SQL Query |  |  |  |  | 
 | SSH Key for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Schematics |  |  |  |  | 
-| Secrets Manager |  |  |  |  | 
+| Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Secure Gateway | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | Security Advisor |  |  |  |  | 
 | Security Group for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
