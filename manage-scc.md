@@ -75,7 +75,9 @@ To start monitoring your resources, see [Getting started with {{site.data.keywor
 ## Governing resource configuration for platform servcies
 {: #govern-platform}
 
-As a security or compliance focal, you can use the {{site.data.keyword.compliance_short}} to define configuration rules for the platform services that you use. [Config rules](#x3084914){: term} are used to enforce the configuration standards that you want to implement across your accounts. For more details about the data that you can use to create a rule, review the following table.
+As a security or compliance focal, you can use the {{site.data.keyword.compliance_short}} to define configuration rules for the platform services that you're working with in {{site.data.keyword.cloud_notm}}.
+
+[Config rules](#x3084914){: term} are used to enforce the configuration standards that you want to implement across your accounts. For more details about the data that you can use to create a rule, review the following table.
 
 | Platform service | Resource kind | Property | Operator | Value | Description |
 |---------------|---------------|----------|---------------|-------|-------------|
