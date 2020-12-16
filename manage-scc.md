@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020
-lastupdated: "2020-12-11"
+lastupdated: "2020-12-16"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -71,11 +71,12 @@ To start monitoring your resources, see [Getting started with {{site.data.keywor
 * Check whether user list visibility restrictions are configured
 * Check whether API key creation is limited and configured
 * Check whether service ID creation is limited and configured
+* Ensure no more than 3 user administrators are defined for IAM
 
 ## Governing resource configuration for platform servcies
 {: #govern-platform}
 
-As a security or compliance focal, you can use the {{site.data.keyword.compliance_short}} to define configuration rules for the platform services that you're working with in {{site.data.keyword.cloud_notm}}.
+As a security or compliance focal, you can use the {{site.data.keyword.compliance_short}} to define configuration rules for the platform services that you're working with in {{site.data.keyword.cloud_notm}}. 
 
 [Config rules](#x3084914){: term} are used to enforce the configuration standards that you want to implement across your accounts. For more details about the data that you can use to create a rule, review the following table.
 
@@ -84,6 +85,9 @@ As a security or compliance focal, you can use the {{site.data.keyword.complianc
 | Billing | account-trait | eu_supported | is_false | - | Indicates whether the account has the eu_supported flag enabled. |
 | Billing | account-trait | hipaa_accepted | is_false | - | Indicates whether the account has the hipaa_accepted flag enabled. |
 | IAM Access Groups Service | service | public_access_enabled | is_false | - | Indicates whether the public access feature is enabled. |
+| IAM Identity Service | accountsettings | restrict_create_service_id | is_false | - | Indicates whether the restriction on service ID creation is enabled. |
+| IAM Identity Service | accountsettings | restrict_create_platform_apikey | is_false | - | Indicates whether the restriction on platform API key creation is enabled. |
+| IAM Identity Service | accountsettings | mfa | is_false | - | Indicates the level of MFA that is required. |
 {: caption="Table 1. Rule properties for platform services caption-side="top"}
 
 See [What is a config rule?](/docs/security-compliance?topic=security-compliance-what-is-rule) for more information. 
