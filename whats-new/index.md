@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2020
 
-lastupdated: "2020-12-10"
+lastupdated: "2020-12-17"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,24 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## {{site.data.keyword.cloud_notm}} CLI Version 1.3.0 is now available
+{: #cli-130}
+
+New as of: 17 December 2020
+
+The 1.3.0 release of the {{site.data.keyword.cloud_notm}} CLI includes:
+* Initial support of private endpoints in two regions: `us-east` and `us-south`.
+* Anonymous usage statistics are no longer collected for those that had previously opted in to usage statistics collection. The `--usage-stats-collect` flag is removed from the `config` command.
+* Improved performance of several commands involving resource groups.
+* New command to toggle the Intelligent Platform Management Interface (IPMI) on and off: `sl hardware toggle-ipmi`.
+* The add `--output` flag is added to the `resource service-key-create` command.
+* For the `iam access-groups` command, `Public Access` is included in the output.
+* Upgrade to Go language `1.5.5`.
+
+For more details about Version 1.3.0, see the [{{site.data.keyword.cloud_notm}} CLI release notes](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases/){: external}.
+
+For more information about the CLI, see [Getting started with the {{site.data.keyword.cloud_notm}} CLI](/docs/cli?topic=cli-getting-started).
 
 ## Enhanced payments & invoicing for new US-based Pay-As-You-Go accounts with credit card billing
 {: #sltob}
