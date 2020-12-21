@@ -56,7 +56,7 @@ The 1.3.0 release of the {{site.data.keyword.cloud_notm}} CLI includes:
 * New command to toggle the Intelligent Platform Management Interface (IPMI) on and off: `sl hardware toggle-ipmi`.
 * The add `--output` flag is added to the `resource service-key-create` command.
 * For the `iam access-groups` command, `Public Access` is included in the output.
-* Upgrade to Go language `1.5.5`.
+* Upgrade to Go language `Golang 1.15.5`.
 
 For more details about Version 1.3.0, see the [{{site.data.keyword.cloud_notm}} CLI release notes](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases/){: external}.
 
