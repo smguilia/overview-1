@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019, 2020
-lastupdated: "2020-11-24"
+  years: 2019, 2021
+lastupdated: "2021-01-04"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -159,6 +159,9 @@ See the following table for the specific code for each data center.
 |Hong Kong 02 | HKG02|
 |Melbourne 01 | MEL01|
 |Melbourne 02 | MEL02|
+|Osaka 21 | OSA21|
+|Osaka 22 | OSA22|
+|Osaka 23 | OSA23|
 |Perth 01 | PER01|
 |Seoul 01 | SEO01|
 |Singapore 01 | SNG01|
@@ -180,7 +183,7 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-The table includes certain data centers that are set to close in 2020, and support for existing workloads is still available until the closing date. For the list of data centers that are closing, see [Withdrawal of support for some data centers](/docs/get-support?topic=get-support-dc-migrate).
+The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Withdrawal of support for some data centers](/docs/get-support?topic=get-support-dc-migrate).
 {: note}
 
 ## Viewing resources by location
