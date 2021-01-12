@@ -7,7 +7,6 @@ Getting started with IBM Cloud
 
     {: .navgroup id="learn"}
     ibm-cloud-platform.md
-    personalized-assistance.md
     whats-new/index.md
 
     {: .topicgroup}
