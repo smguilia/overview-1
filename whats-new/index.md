@@ -1,9 +1,9 @@
 ---
 
 copyright:
-  years: 2015, 2020
+  years: 2015, 2021
 
-lastupdated: "2020-12-17"
+lastupdated: "2021-01-12"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Pay as you go with Committed Use pricing model
+{: #paygo-commit-jan2021}
+
+New as of: 12 January 2021
+
+Customers with a Subscription account can use the new pricing model, IBM Cloud Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on IBM Cloud.
+
+With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-accounts#commitment-model).
 
 ## Managing features and other updates to {{site.data.keyword.cloud-shell_notm}}
 {: #cloud-shell-dec2020}
