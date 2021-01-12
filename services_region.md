@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2021-01-10"
+lastupdated: "2021-01-12"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -929,4 +929,5 @@ The following infrastructure resources are available in Asia and the Pacific reg
 {: tab-group="Asia Pacific"}
 {: class="comparison-tab-table"}
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
+
 
