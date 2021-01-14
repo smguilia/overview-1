@@ -29,7 +29,7 @@ Whether you need to migrate apps to the cloud, modernize your existing apps by u
 
 As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} platform is composed of multiple components that work together to provide a consistent and dependable cloud experience. 
 
-  * A robust console that serves as the front end for creating, viewing, managing your cloud resources{: #test-bullet}
+  * A robust console that serves as the front end for creating, viewing, managing your cloud resources
   * An identity and access management component that securely authenticates users for both platform services and controls access to resources consistently across {{site.data.keyword.Bluemix_notm}}
   * A catalog that consists of hundreds of supported products 
   * A search and tagging mechanism for filtering and identifying your resources
