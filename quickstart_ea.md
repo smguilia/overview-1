@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018, 2020
+  years: 2018, 2021
 
-lastupdated: "2020-07-10"
+lastupdated: "2021-01-21"
 
 keywords: cloud architect quick start, quick start guide, designing, cloud architecture, enterprise architects
 
@@ -32,7 +32,7 @@ Create a Pay-As-You-Go or Subscription account to get full access to all offerin
 ## Quick start steps
 {: #steps-ea}
 
-1. Review what {{site.data.keyword.Bluemix_notm}} has to offer to see how it fits into your company's requirements and roadmap. 
+1. Review what {{site.data.keyword.Bluemix_notm}} offers to see how it fits into your company's requirements and roadmap. 
     * See [What is the {{site.data.keyword.Bluemix_notm}} platform?](/docs/overview?topic=overview-whatis-platform) for more information about the platform.
     * {{site.data.keyword.Bluemix_notm}} offers end-to-end continuous security for cloud-native and enterprise applications and data. See [How do I know that my data is safe?](/docs/overview?topic=overview-security) for more information. 
     * Learn about disaster recovery and high availability in {{site.data.keyword.Bluemix_notm}}. See [How do I ensure zero downtime?](/docs/overview?topic=overview-zero-downtime) for more information.
@@ -44,5 +44,5 @@ Create a Pay-As-You-Go or Subscription account to get full access to all offerin
 ## Next steps
 {: #next-steps-ea}
 
-Start building an app! We have starter kits and options for you to bring your own code. Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) **> Dashboard > Apps** widget, and click **Create an app**.
+Build an app! We have starter kits and options for you to bring your own code. Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) **> Dashboard > Apps** widget, and click **Create an app**.
 
