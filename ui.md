@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-01-22"
+lastupdated: "2021-01-25"
 
 keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -64,13 +64,28 @@ Now that you know how to navigate through the {{site.data.keyword.cloud_notm}} u
 
 When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed, which shows widgets that summarize the status of your account. If you're interested in customizing your dashboard, see [Working with scoped dashboards](/docs/account?topic=account-custom-dashboard).
 
-  * Use the **Catalog** link to create new resources.
+  * Use the **Catalog** link to explore over 350 products that offer options for compute, networking, security management, end-to-end developer solutions, and more.
   * Use the **Docs** link to access the product documentation. 
   * Use the **Support** link to access the Support Center.  
   * From the **Manage** menu, you can access your account, billing and usage, and Identity and Access Management options.
   * Click the {{site.data.keyword.cloud-shell_notm}} icon ![{{site.data.keyword.cloud-shell_notm}} icon](../icons/terminal-cloud-shell.svg) to open a browser-based shell environment that you can use to work with your {{site.data.keyword.cloud_notm}} resources.
   * Click the Cost estimator icon ![Cost estimator icon](../icons/Estimator.svg) to open the cost estimator.
   * Click the Notifications icon ![Notifications icon](../icons/Notification.svg) to view and control all incidents, maintenance, and announcements that are likely to affect your account.
+  
+## Working in the catalog
+{: #catalogcreate}
+
+Click **Catalog** from the console menu bar to explore the available offerings, which are organized in the following categories: 
+
+* From the Services tab, you can explore the {{site.data.keyword.cloud_notm}} services for infrastructure, developer tools, compute, AI, and more for building your apps on the public cloud. The lifecycle and operations of these services are managed by {{site.data.keyword.IBM_notm}}.
+* From the Software tab, you can find Cloud Paks, Bitnami Helm charts, and Terraform templates. The preconfigured software solutions help you to build faster, and each offering is installed by using a simplified installation process to help you get started quickly. You manage the deployment and configuration of these offerings on your own compute resources.
+
+You can quickly search for any specific offering by entering keywords, or you can use the categories and filters to explore the different types of offerings. You can filter by category, offering type, deployment target, or the offering provider. For example, if you want to deploy an analytics offering to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and then filter the results by selecting **Red Hat OpenShift** as the deployment target.
+
+After you select the offering that you want to create, you can define the deployment location.
+
+  * For Cloud Foundry resources, you can select a specific region and then select the org and space for the service instance to be assigned to.
+  * For resources managed by {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM), you select a location to deploy in. Then, you select a resource group to assign the service instance to.
 
 ## Searching for resources
 {: #search}
@@ -92,22 +107,6 @@ You can work with your resources in various ways from your resource list:
 
   * Each resource is displayed in its own row and an Actions icon ![More Actions icon](../icons/action-menu-icon.svg) is included at the end of the row. Click the Actions icon ![More Actions icon](../icons/action-menu-icon.svg) to start, stop, rename, or delete a resource.
   * To set up credentials or connections for a resource, click the name of the resource to go to the resource details page. Then, select **Service credentials** or **Connections**. For more information, see [Adding a credential](/docs/account?topic=account-service_credentials) and [Managing connections](/docs/account?topic=account-connect_app).
- 
-
-## Working in the catalog
-{: #catalogcreate}
-
-Click **Catalog** from the console menu bar to explore the available offerings, which are organized in the following categories: 
-
-* From the Services tab, you can explore the {{site.data.keyword.cloud_notm}} services for infrastructure, developer tools, compute, AI, and more for building your apps on the public cloud. The lifecycle and operations of these services are managed by {{site.data.keyword.IBM_notm}}.
-* From the Software tab, you can find Cloud Paks, Bitnami Helm charts, and Terraform templates. The preconfigured software solutions help you to build faster, and each offering is installed by using a simplified installation process to help you get started quickly. You manage the deployment and configuration of these offerings on your own compute resources.
-
-You can quickly search for any specific offering by entering keywords, or you can use the categories and filters to explore the different types of offerings. You can filter by category, offering type, deployment target, or the offering provider. For example, if you want to deploy an analytics offering to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and then filter the results by selecting **Red Hat OpenShift** as the deployment target.
-
-After you select the offering that you want to create, you can define the deployment location.
-
-  * For Cloud Foundry resources, you can select a specific region and then select the org and space for the service instance to be assigned to.
-  * For resources managed by {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM), you select a location to deploy in. Then, you select a resource group to assign the service instance to.
 
 ## Transitioning to the {{site.data.keyword.cloud_notm}} experience
 {: #redirect-cloud}
