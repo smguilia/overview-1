@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-01-12"
+lastupdated: "2021-01-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -101,6 +101,9 @@ By default, users in your account authenticate themselves by logging in with a u
 
   * MFA for users with an IBMid: Users authenticate by using an IBMid, password, and time-based one-time passcode (TOTP). This option applies to all users or just non-federated users.
   * MFA for all users (IBMid & supported IdPs): Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. This option applies to users who are using either an IBMid or an external identity provider (IdP). 
+  
+  The U2F MFA method is based on the FIDO U2F standard, and it offers the highest level of security.
+  {: tip}
 
 For more details, see [Enabling MFA for your account](/docs/account?topic=account-enablemfa).
 
