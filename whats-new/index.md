@@ -100,10 +100,7 @@ New as of: 25 November 2020
 By default, users in your account authenticate themselves by logging in with a username and password. To require users to use more secure authentication methods, the following MFA options are now available.
 
   * MFA for users with an IBMid: Users authenticate by using an IBMid, password, and time-based one-time passcode (TOTP). This option applies to all users or just non-federated users.
-  * MFA for all users (IBMid & supported IdPs): Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. This option applies to users who are using either an IBMid or an external identity provider (IdP). 
-  
-  The U2F MFA method is based on the FIDO U2F standard, and it offers the highest level of security.
-  {: tip}
+  * MFA for all users (IBMid & supported IdPs): This option applies to users who are using either an IBMid or an external identity provider (IdP). Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. The U2F MFA method is based on the FIDO U2F standard, and it offers the highest level of security.
 
 For more details, see [Enabling MFA for your account](/docs/account?topic=account-enablemfa).
 
