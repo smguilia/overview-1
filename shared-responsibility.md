@@ -42,7 +42,7 @@ When you're reviewing the following sections, the tables list resources for each
   <dt>Applications</dt>
   <dd>Customer-owned software components, such as executables, web applications, middleware, frameworks, libraries, and other software packages that the client developed or acquired by third parties and deployed in {{site.data.keyword.cloud_notm}}.</dd>
   <dt>Operating systems</dt>
-  <dd>The operating system software and configuration that are deployed in virtual or bare metal servers, such as Linux, Windows, or similar to the ones provided in [stock images](/docs/vpc-on-classic-vsi?topic=vpc-on-classic-vsi-images.</dd>
+  <dd>The operating system software and configuration that are deployed in virtual or bare metal servers, such as Linux, Windows, or similar to the ones provided in [stock images](/docs/vpc-on-classic-vsi?topic=vpc-on-classic-vsi-images).</dd>
 <dt>Virtual and bare metal servers</dt>
   <dd>The virtual or bare metal servers that are ordered and managed through {{site.data.keyword.cloud_notm}} services.</dd>  
  <dt>Virtual storage</dt>
