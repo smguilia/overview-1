@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 2020
-lastupdated: "2020-12-16"
+  years: 2020, 2021
+lastupdated: "2021-01-27"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -48,8 +48,8 @@ To start monitoring your resources, see [Getting started with {{site.data.keywor
 * Check whether password policy requires at least one number
 * Check whether password policy requires minimum length of 8 chars that meets expectation
 * Check whether password policy prevents password reuse
-* Check whether the password may only contain printable ASCII characters (in the range 33 -126)
-* Check whether passwod policy cannot contain: spaces, or any of \;:("?)<>
+* Check whether the password can contain only printable ASCII characters (in the range 33 -126)
+* Check whether password policy cannot contain: spaces, or any of \;:("?)<>
 * Check whether the usage of a password meter coaches user to create a stronger password than the minimum
 * Check whether IAM instance roles are used for {{site.data.keyword.IBM_notm}} resource access from instances
 * Check whether a support role has been created to manage incidents with {{site.data.keyword.cloud_notm}} support
@@ -73,7 +73,7 @@ To start monitoring your resources, see [Getting started with {{site.data.keywor
 * Check whether service ID creation is limited and configured
 * Ensure no more than 3 user administrators are defined for IAM
 
-## Governing resource configuration for platform servcies
+## Governing resource configuration for platform services
 {: #govern-platform}
 
 As a security or compliance focal, you can use the {{site.data.keyword.compliance_short}} to define configuration rules for the platform services that you're working with in {{site.data.keyword.cloud_notm}}. 
