@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-01-21"
+lastupdated: "2021-01-29"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -57,6 +57,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 
 | Location      | Region   | Zone | Data Center |
 |-----------|----------|------|----|
+| Osaka         | jp-osa   |jp-osa-1<br>jp-osa-2<br>jp-osa-3 | OSA21<br>OSA22<br>OSA23|
 | Sydney        | au-syd   |au-syd-1<br>au-syd-2<br>au-syd-3 | SYD01<br>SYD04<br>SYD05|
 | Tokyo         | jp-tok   |jp-tok-1<br>jp-tok-2<br>jp-tok-3 | TOK02<br>TOK04<br>TOK05|
 {: caption="Table 1. Multizone regions in Asia Pacific" caption-side="top"}
@@ -65,6 +66,9 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 {: tab-group="mzr"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
+
+Osaka is a single-site MZR. In a single-site MZR, the three data centers that support the three zones are running in the same building. The underlying infrastructure in the Osaka MZR zone has the same SLA as other individual zones in a multi-site MZR. Osaka MZR resiliency to failures in local city and location infrastructures is reduced because of being located in a single building. 
+{: note}
 
 ## Single-zone regions
 {: #szr-table}
