@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-01-26"
+lastupdated: "2021-02-03"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -27,12 +27,19 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
+## Manage product availability by location
+{: #catalog-location-feb2021}
+
+New as of: 1 February 2021
+
+As the account owner or administrator, you can manage access to products in both the {{site.data.keyword.Bluemix_notm}} catalog and the private catalogs in your account based on the location in which the products are deployed. For instance, if you want to limit access to products that are deployed in the Dallas 1 (us-south-1) zone, you can set a filter to include only those products. For more information, see [Managing catalog settings](/docs/account?topic=account-filter-account).
+
 ## Pay as you go with Committed Use pricing model
 {: #paygo-commit-jan2021}
 
 New as of: 12 January 2021
 
-Customers with a Subscription account can use the new pricing model, IBM Cloud Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on IBM Cloud.
+Customers with a Subscription account can use the new pricing model, {{site.data.keyword.Bluemix_notm}} Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on {{site.data.keyword.Bluemix_notm}}.
 
 With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-accounts#commitment-model).
 
