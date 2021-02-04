@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-01-25"
+lastupdated: "2021-02-04"
 
 keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -19,7 +19,7 @@ subcollection: overview
 # Navigating the {{site.data.keyword.cloud_notm}} console 
 {: #ui}
 
-The {{site.data.keyword.cloud}} console is a user interface that helps you manage all your {{site.data.keyword.cloud_notm}} resources. When you access the [console](https://cloud.ibm.com){: external}, you can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
+The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is a user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
 {: shortdesc}
 
 ## Watch a tour
