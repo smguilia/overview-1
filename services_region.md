@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-02-05"
+lastupdated: "2021-02-06"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -150,7 +150,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Watson OpenScale | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Watson Studio | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| WebSphere Application Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 {: row-headers}
 {: caption="Table 1. Service availability - Americas" caption-side="top"}
 {: #paas-table1}
@@ -274,7 +273,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Knowledge Catalog | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Watson OpenScale |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Watson Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| WebSphere Application Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 2. Service availability - Europe" caption-side="top"}
 {: #paas-table2}
@@ -398,7 +396,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Knowledge Catalog |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Watson OpenScale |  |  |  |  | 
 | Watson Studio |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| WebSphere Application Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 {: row-headers}
 {: caption="Table 3. Service availability - Asia Pacific" caption-side="top"}
 {: #paas-table3}
