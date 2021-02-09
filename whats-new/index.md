@@ -27,14 +27,14 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
-## Improved notifications
+## New notifications experience
 {: #notification-preferences}
 
 New as of: 8 February 2021
 
-Along with Status 2.0, IBM Cloud users can also discern an improved notification experience. A more detailed [Notification preferences page](https://cloud.ibm.com/user/notifications) is now available for users to customize their preferences on a greater level. Users will receive only one email per event unless they subscribe to them, or they can subscribe to specific incidents from the Status page on an ad hoc basis. To get more information about how to set email preferences, visit [Setting email preferences for notifications](https://cloud.ibm.com/docs/account?topic=account-email-prefs).
+A more detailed [Notification preferences page](https://cloud.ibm.com/user/notifications){: external} is now available for you to customize your preferences for receiving email notifications. You receive only one email per event unless you subscribe to them, or you can subscribe to specific incidents from the Status page on an ad hoc basis. For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs).
 
-After updating the preferences, users can view and control all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications). They can filter the list by selecting a specific type of event, or by using keyword searches. To get more information on notifications, see the [Viewing notifications page](https://cloud.ibm.com/docs/get-support?topic=get-support-viewing-notifications).
+Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
 
 ## Manage product availability by location
 {: #catalog-location-feb2021}
