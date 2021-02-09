@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-02-04"
+lastupdated: "2021-02-09"
 
 keywords: console, platform overview, overview, data center, security, compliance 
 
@@ -219,5 +219,10 @@ Use the {{site.data.keyword.at_full}} service to monitor the activity of your {{
 
 The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix_notm}} platform. You can filter these categories by selecting specific locations, components, types of ongoing events, or by using keyword searches. For more information, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
 
+
+## Notification preferences
+{: #notification-preferences}
+
+Depending on your {{site.data.keyword.Bluemix_notm}} account type, you can choose to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform-related items, such as announcements, billing and usage, additional notification preferences and ordering. Or, you can also update your preferences on resource-related items, such as incidents, maintenance, security bulletins, or resource activity on the [Notification preferences page](https://cloud.ibm.com/user/notifications). These notifications are for only the services you use or the devices that you provisioned. For more information, see [Setting email preferences for notifications](https://cloud.ibm.com/docs/account?topic=account-email-prefs) and [Viewing notifications](https://cloud.ibm.com/docs/get-support?topic=get-support-viewing-notifications).
 
 
