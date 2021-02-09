@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-02-03"
+lastupdated: "2021-02-09"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## New notifications experience
+{: #notification-preferences}
+
+New as of: 8 February 2021
+
+A more detailed [Notification preferences page](https://cloud.ibm.com/user/notifications){: external} is now available for you to customize your preferences for receiving email notifications. You receive only one email per event unless you subscribe to them, or you can subscribe to specific incidents from the Status page on an ad hoc basis. For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs).
+
+Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
 
 ## Manage product availability by location
 {: #catalog-location-feb2021}
