@@ -28,7 +28,7 @@ If you're looking for updates about products that are available on {{site.data.k
 {: tip}
 
 
-## Manage user log in sessions
+## Manage user login sessions
 {: #user-session-settings}
 
 New as of: 26 February 2021
