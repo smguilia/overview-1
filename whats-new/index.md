@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-02-09"
+lastupdated: "2021-02-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+
+## Manage user log in sessions
+{: #user-session-settings}
+
+New as of: 26 February 2021
+
+You can customize the duration of working sessions for user's on your account. Customize the duration of users active settings and select the amount of time a user can be inactive before they are signed out and need to enter their credentials again. Update your accounts Identity and Access (IAM) log in sessions from [Settings page](https://cloud.ibm.com/iam/settings){: external}. For more information, see [Managing user's log in session durations](https://test.cloud.ibm.com/docs/account?topic=account-iam-work-sessions).
+
 
 ## New notifications experience
 {: #notification-preferences}
