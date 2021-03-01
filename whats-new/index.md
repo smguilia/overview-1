@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-02-26"
+lastupdated: "2021-03-01"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -34,6 +34,14 @@ If you're looking for updates about products that are available on {{site.data.k
 New as of: 26 February 2021
 
 You can customize the duration of working sessions for user's on your account. Customize the duration of users active settings and select the amount of time a user can be inactive before they are signed out and need to enter their credentials again. Update your accounts Identity and Access (IAM) log in sessions from [Settings page](https://cloud.ibm.com/iam/settings){: external}. For more information, see [Managing user's log in session durations](https://test.cloud.ibm.com/docs/account?topic=account-iam-work-sessions).
+
+
+## Controlling access to resources by using tags
+{: #controlling-access-using-tags-febr2021}
+
+New as of: 25 February 2021
+
+You can now create tags to control access to your resources and your team's projects can grow without requiring updates to your IAM policies. Incorporating tags into access policies gives you the ability to share a resource across multiple projects and you can change access by simply changing the tags on a resource. For more information, see [Controlling access to resources by using tags](/docs/account?topic=account-access-tags-tutorial).
 
 
 ## New notifications experience
