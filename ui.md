@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-02-04"
+lastupdated: "2021-03-12"
 
 keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -69,7 +69,7 @@ When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed
   * Use the **Support** link to access the Support Center.  
   * From the **Manage** menu, you can access your account, billing and usage, and Identity and Access Management options.
   * Click the {{site.data.keyword.cloud-shell_notm}} icon ![{{site.data.keyword.cloud-shell_notm}} icon](../icons/terminal-cloud-shell.svg) to open a browser-based shell environment that you can use to work with your {{site.data.keyword.cloud_notm}} resources.
-  * Click the Cost estimator icon ![Cost estimator icon](../icons/Estimator.svg) to open the cost estimator.
+  * Click the Cost estimator icon ![Estimator icon](../icons/calculator.svg) to open the cost estimator.
   * Click the Notifications icon ![Notifications icon](../icons/Notification.svg) to view and control all incidents, maintenance, and announcements that are likely to affect your account.
   
 ## Working in the catalog
