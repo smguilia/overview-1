@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-03-18"
+lastupdated: "2021-03-19"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -113,6 +113,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Natural Language Classifier | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Personality Insights | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Portfolio Optimization | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -122,7 +123,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SQL Query | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | SSH Key for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Satellite |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Satellite | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Schematics | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Secure Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -234,6 +235,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Natural Language Classifier |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Personality Insights | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios |  |  | 
@@ -243,7 +245,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SQL Query |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSH Key for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Satellite | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Satellite | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Schematics |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secrets Manager |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secure Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
@@ -283,7 +285,7 @@ Services that are hosted globally create resources that operate across multiple 
 | API Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Analytics Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Annotator for Clinical Data |  |  |  |  | 
-| App Configuration |  |  |  |  | 
+| App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Auto Scale for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -355,6 +357,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Natural Language Classifier |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Network ACL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Personality Insights | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Portfolio Optimization |  |  |  |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Predictive Market Scenarios |  |  |  |  | 
@@ -364,7 +367,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SQL Query |  |  |  |  | 
 | SSH Key for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Satellite |  |  |  |  | 
+| Satellite | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Schematics |  |  |  |  | 
 | Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Secure Gateway | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
