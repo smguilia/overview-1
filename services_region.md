@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-03-22"
+lastupdated: "2021-03-23"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -39,7 +39,7 @@ Services that are hosted globally create resources that operate across multiple 
 |-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | API Gateway | Hosted Globally | Hosted Globally | 
-| Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Annotator for Clinical Data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -281,7 +281,7 @@ Services that are hosted globally create resources that operate across multiple 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | API Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Analytics Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Annotator for Clinical Data |  |  |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
@@ -293,7 +293,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloudant | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Code Engine |  |  |  |  | 
+| Code Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Compose Enterprise | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for JanusGraph | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
