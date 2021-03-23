@@ -27,11 +27,6 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
-<!--#platform-analytics is currently staging only. Go live is scheduled for April 20. -Kent Hall-->
-## Analyzing your account usage with Platform Analytics
-{: #platform-analytics}
-
-If you're an account owner or administrator, you can use Platform Analytics on {{site.data.keyword.Bluemix_notm}} to gain insight about the usage of your account. Create queries and to explore and compare data for users, services, and more from the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Using a data chart to view monthly usage by a service](https://test.cloud.ibm.com/docs/billing-usage?topic=billing-usage-data-create-tutorial). 
 
 ## Manage user login sessions
 {: #user-session-settings}
