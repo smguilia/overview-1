@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-01-29"
+lastupdated: "2021-03-23"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -96,7 +96,6 @@ See the following table for the specific code for each data center.
 
 | Data Center      | Code  |
 |------------------|-------|
-| Dallas 01        | DAL01 |
 | Dallas 05        | DAL05 |
 | Dallas 06        | DAL06 |
 | Dallas 07        | DAL07 |
