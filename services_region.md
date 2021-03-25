@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-03-24"
+lastupdated: "2021-03-25"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -311,7 +311,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Compose for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Consult with IBM Garage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Continuous Delivery |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Cost and Asset Management |  |  |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Databases for DataStax | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
