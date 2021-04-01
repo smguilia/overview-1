@@ -4,7 +4,7 @@ copyright:
 
   years: 2021
 
-lastupdated: "2021-03-30"
+lastupdated: "2021-04-01"
 
 keywords: SLO, service level objectives
 
@@ -147,9 +147,9 @@ High impact services are not vital, but have great influence over the rest of th
 
 | Logging and Monitoring service | Availability target | Data durability target | High availability guidance |
 |----------|---------|---------|---------|
-| {{site.data.keyword.monitoringlong_notm}} | 99.999% | | [High availability and disaster recovery](/docs/Monitoring-with-Sysdig?topic=Monitoring-with-Sysdig-ha-dr) |
-| {{site.data.keyword.at_full_notm}} | 99.999% | | [Incident and operations management](/docs/Activity-Tracker-with-LogDNA?topic=Activity-Tracker-with-LogDNA-shared-responsibilities#incident-and-ops) |
-| {{site.data.keyword.la_full_notm}} | 99.999% | | [Adoption guidelines for regulated and highly available workloads](/docs/Log-Analysis-with-LogDNA?topic=Log-Analysis-with-LogDNA-adoption) |
+| {{site.data.keyword.monitoringlong_notm}} | 99.999% | | [High availability and disaster recovery](/docs/monitoring?topic=monitoring-ha-dr) |
+| {{site.data.keyword.at_full_notm}} | 99.999% | | [Incident and operations management](/docs/activity-tracker?topic=activity-tracker-shared-responsibilities#incident-and-ops) |
+| {{site.data.keyword.la_full_notm}} | 99.999% | | [Adoption guidelines for regulated and highly available workloads](/docs/log-analysis?topic=log-analysis-adoption) |
 {: caption="Table 15. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} logging and monitoring services" caption-side="bottom"}
 
 | Integration service | Availability target | Data durability target | High availability guidance |
