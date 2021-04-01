@@ -207,7 +207,7 @@ Observability offers a single location where you can monitor and observe your ap
 
 With the {{site.data.keyword.la_full}} service, you can add log management capabilities to your {{site.data.keyword.Bluemix_notm}} architecture and you can manage system and application logs. It offers advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with {{site.data.keyword.la_full_notm}}](/docs/log-analysis?topic=log-analysis-getting-started).
 
-You can gain operational visibility into the performance and health of your applications, services, and platforms with the {{site.data.keyword.mon_full_notm}} service. It offers a full stack telemetry with advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with {{site.data.keyword.monitoringlong_notm}}](/docs/Monitoring-with-Sysdig?topic=Monitoring-with-Sysdig-getting-started#getting-started).
+You can gain operational visibility into the performance and health of your applications, services, and platforms with the {{site.data.keyword.mon_full_notm}} service. It offers a full stack telemetry with advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with {{site.data.keyword.monitoringlong_notm}}](/docs/monitoring?topic=monitoring-getting-started#getting-started).
 
 ## Monitoring your account 
 {: #account_observability}
