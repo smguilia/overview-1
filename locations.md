@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-03-23"
+lastupdated: "2021-03-29"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -186,7 +186,7 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Withdrawal of support for some data centers](/docs/get-support?topic=get-support-dc-migrate).
+The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Data center closures in 2021](/docs/get-support?topic=get-support-dc-closure).
 {: note}
 
 ## Viewing resources by location
