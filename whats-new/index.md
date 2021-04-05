@@ -62,7 +62,7 @@ A more detailed [Notification preferences page](https://cloud.ibm.com/user/notif
 
 Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
 
-## Managing product availability by location
+## Managing product availability in catalogs by location
 {: #catalog-location-feb2021}
 
 New as of: 1 February 2021
