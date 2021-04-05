@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-03-01"
+lastupdated: "2021-03-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -27,8 +27,17 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
+## {{site.data.keyword.codeenginefull_notm}} is supported as an app deployment type
+{: #codeengine-deploy-mar2021}
 
-## Manage user login sessions
+New as of: 26 March 2021
+
+{{site.data.keyword.codeenginefull}} is now supported as a application deployment type when you use a starter kit in the [{{site.data.keyword.cloud_notm}} console](https://{DomainName}/developer/appservice/starter-kits). For more information, see the [Creating apps tutorial](/docs/apps?topic=apps-tutorial-starterkit).
+
+[{{site.data.keyword.codeengineshort}}](/docs/codeengine?topic=codeengine-getting-started) is a fully managed, serverless platform that runs your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs. {{site.data.keyword.codeengineshort}} even builds container images for you from your source code. Because these workloads are all hosted within the same Kubernetes infrastructure, all of them can seamlessly work together. The {{site.data.keyword.codeengineshort}} experience is designed so that you can focus on writing code and not on the infrastructure that is needed to host it.
+
+
+## Managing user login sessions
 {: #user-session-settings}
 
 New as of: 26 February 2021
@@ -53,7 +62,7 @@ A more detailed [Notification preferences page](https://cloud.ibm.com/user/notif
 
 Based on which preferences the account owner or administrator sets, users in the account can view all {{site.data.keyword.Bluemix_notm}} incidents, maintenance, announcements, and security bulletins on the [Notifications page](https://cloud.ibm.com/notifications){: external}. They can filter the list by selecting a specific type of event, or by using keyword searches. For more information, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
 
-## Manage product availability by location
+## Managing product availability by location
 {: #catalog-location-feb2021}
 
 New as of: 1 February 2021
