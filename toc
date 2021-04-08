@@ -8,6 +8,7 @@ Getting started with IBM Cloud
     {: .navgroup id="learn"}
     ibm-cloud-platform.md
     whats-new/index.md
+    fscloud.md
 
     {: .topicgroup}
     Related links
