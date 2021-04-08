@@ -20,7 +20,7 @@ subcollection: overview
 # Getting certified in {{site.data.keyword.cloud_notm}}
 {: #cloud-certifications}
 
-Are you looking to get certified in {{site.data.keyword.cloud}}? Whether you're a developer or architect, you can certify your cloud skills.
+Are you looking to get certified in {{site.data.keyword.cloud}}? Whether you're a developer or architect, you can certify your cloud skills. To view a full list of available certifications, see [Role-Based Certifications](https://www.ibm.com/training/cloud/jobroles){: external}.
 {: shortdesc}
 
 ## Foundations certification
@@ -37,5 +37,6 @@ As an [{{site.data.keyword.IBM_notm}} Certified Professional Developer - Cloud S
 {: #cloud-solutions-architect-certification}
 
 As an [{{site.data.keyword.IBM_notm}} Certified Solution Architect - Cloud Solutions v4](https://www.ibm.com/certify/cert?id=C0001402){: external} technical professional, you can design, plan, and architect a cloud solution with limited help from product documentation, support, or subject matter experts. 
+
 
  
