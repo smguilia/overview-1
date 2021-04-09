@@ -36,6 +36,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 | Location | Region | Zone | Data Center |
 |-----------|----------|------|----|
 | Dallas | us-south | us-south-1<br>us-south-2<br>us-south-3 | DAL10<br>DAL12<br>DAL13 |
+| Toronto | ca-tor | ca-tor-1<br>ca-tor-2<br>ca-tor-3 | TOR01<br>TOR04<br>TOR05 |
 | Washington DC | us-east | us-east-1<br>us-east-2<br>us-east-3 | WDC04<br>WDC06<br>WDC07 |
 {: caption="Table 1. MZRs in North and South America" caption-side="top"}
 {: #americas-mzr}
