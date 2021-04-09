@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-04-08"
+lastupdated: "2021-04-09"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -94,6 +94,7 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IBM Match 360 with Watson | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Informix | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -109,7 +110,6 @@ Services that are hosted globally create resources that operate across multiple 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Machine Learning | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | 
-| Master Data Management | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Classifier | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -217,6 +217,7 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IBM Match 360 with Watson |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Informix | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in London* |  | 
 | Instrument Analytics |  |  | 
@@ -232,7 +233,6 @@ Services that are hosted globally create resources that operate across multiple 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Machine Learning | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | 
-| Master Data Management |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Classifier |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -340,6 +340,7 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | IBM Cognos Dashboard Embedded |  |  |  |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| IBM Match 360 with Watson |  |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Informix | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | Instrument Analytics |  |  |  |  | 
@@ -355,7 +356,6 @@ Services that are hosted globally create resources that operate across multiple 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Machine Learning |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Master Data Management |  |  |  |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Natural Language Classifier |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
