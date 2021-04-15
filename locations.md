@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-03-29"
+lastupdated: "2021-04-15"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -88,9 +88,7 @@ In addition to selecting a region for your resource, you can select from a list 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
-The following graphic illustrates the available {{site.data.keyword.Bluemix_notm}} data centers.
-
-![Map of available data centers](images/Global-View.svg){: caption="Figure 2. Data center locations" caption-side="bottom"}
+See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map showing the available data centers, MZRs, Network PoP, and federal data centers.
 
 See the following table for the specific code for each data center.
 
