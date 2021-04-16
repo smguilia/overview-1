@@ -88,7 +88,9 @@ In addition to selecting a region for your resource, you can select from a list 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
-See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map showing the available data centers, MZRs, Network PoP, and federal data centers.
+See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map showing the available data centers, MZRs, Network PoP, and federal data centers. 
+
+<!-- taking out in favor of link above until we have an updated graphic ![Map of available data centers](images/Global-View.svg){: caption="Figure 2. Data center locations" caption-side="bottom"} -->
 
 See the following table for the specific code for each data center.
 
@@ -96,20 +98,25 @@ See the following table for the specific code for each data center.
 |------------------|-------|
 | Dallas 05        | DAL05 |
 | Dallas 06        | DAL06 |
-| Dallas 07        | DAL07 |
+| Dallas 08 [^1]    | DAL08 |
 | Dallas 09        | DAL09 |
 | Dallas 10        | DAL10 |
 | Dallas 12        | DAL12 |
 | Dallas 13        | DAL13 |
-| Houston 01       | HOU01 |
+| Houston 02       | HOU02 |
 | Mexico 01        | MEX01 |
 | Montreal 01      | MON01 |
 | San Jose 01      | SJC01 |
 | San Jose 03      | SJC03 |
 | San Jose 04      | SJC04 |
-| Seattle 01       | SEA01 |
+| Sao Paulo 01     | SAO01 |
+| Sao Paulo 04     | SAO04 |
+| Sao Paulo 05     | SAO05 |
 | Toronto 01       | TOR01 |
+| Toronto 04       | TOR04 |
+| Toronto 05       | TOR05 |
 | Washington DC 01 | WDC01 |
+| Washington DC 03 [^2] | WDC03 |
 | Washington DC 04 | WDC04 |
 | Washington DC 06 | WDC06 |
 | Washington DC 07 | WDC07 |
@@ -120,32 +127,23 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
+[^1]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/federal)
+
+[^2]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/federal)
+
 | Data Center  | Code  |
 |--------------|-------|
 |Amsterdam 01 | AMS01|
-|Amsterdam 02 | AMS02|
 |Amsterdam 03 | AMS03|
-|Frankfurt 01 | FRA01|
 |Frankfurt 02 | FRA02|
-|Frankfurt 03 | FRA03|
 |Frankfurt 04 | FRA04|
 |Frankfurt 05 | FRA05|
-|London 01 | LON01|
 |London 02 | LON02|
-|London 03 | LON03|
 |London 04 | LON04|
 |London 05 | LON05|
 |London 06 | LON06|
 |Milan 01 | MIL01|
-|Milan 02 | MIL02|
-|Oslo 01 | OSL01|
-|Oslo 02 | OSL02|
 |Paris 01 | PAR01|
-|Paris 02 | PAR02|
-|Paris 03 | PAR03|
-|Paris 04 | PAR04|
-|Paris 05 | PAR05|
-|Paris 06 | PAR06|
 {: caption="Table 3. Data centers in Europe" caption-side="top"}
 {: #europe}
 {: tab-title="Europe"}
@@ -156,25 +154,16 @@ See the following table for the specific code for each data center.
 | Data Center  | Code  |
 |--------------|-------|
 |Chennai 01 | CHE01|
-|Hong Kong 01 | HKG01|
 |Hong Kong 02 | HKG02|
-|Melbourne 01 | MEL01|
-|Melbourne 02 | MEL02|
 |Osaka 21 | OSA21|
 |Osaka 22 | OSA22|
 |Osaka 23 | OSA23|
-|Perth 01 | PER01|
 |Seoul 01 | SEO01|
 |Singapore 01 | SNG01|
-|Singapore 02 | SNG02|
 |Sydney 01 | SYD01|
-|Sydney 02 | SYD02|
-|Sydney 03 | SYD03|
 |Sydney 04 | SYD04|
 |Sydney 05 | SYD05|
-|Tokyo 01 | TOK01|
 |Tokyo 02 | TOK02|
-|Tokyo 03 | TOK03|
 |Tokyo 04 | TOK04|
 |Tokyo 05 | TOK05|
 {: caption="Table 4. Data centers in Asia Pacific" caption-side="top"}
