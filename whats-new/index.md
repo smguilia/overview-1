@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-03-26"
+lastupdated: "2021-04-19"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,20 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Upcoming changes to the user invitation flow
+{: #upcoming-invitation-flow}
+
+New as of: 19 April 2021
+
+From May 17, 2021, to enhance security and user protection, {{site.data.keyword.Bluemix}} will require all users to accept an invitation in order to become an active user within a new account. The new invitation flow will have an impact only on inviting existing {{site.data.keyword.Bluemix}} users. Existing users are currently being automatically onboarded to each new account as they are invited. After this change, these users will need to accept an invitation in their notifications, by email, or by using the CLI to onboard to a new account.
+
+Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts:
+
+* To accept invitations in the CLI, existing members of {{site.data.keyword.Bluemix}} must use the [**`ibmcloud login`**](/docs/cli?topic=cli-ibmcloud_cli#accept-invitation-to-join-a-new-account-) command. They need to target the account that they are invited to join and use the new `--accept` flag.
+
+As an account administrator, you may want to remind your users to accept these invitations upon initial change of this behavior.
+{: note}
 
 ## {{site.data.keyword.codeenginefull_notm}} is supported as an app deployment type
 {: #codeengine-deploy-mar2021}
