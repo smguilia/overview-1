@@ -92,8 +92,6 @@ Data centers are based on a POD architecture where each data center can have mor
 
 See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map showing the available data centers, MZRs, Network PoP, and federal data centers. 
 
-<!-- taking out in favor of link above until we have an updated graphic ![Map of available data centers](images/Global-View.svg){: caption="Figure 2. Data center locations" caption-side="bottom"} -->
-
 See the following table for the specific code for each data center.
 
 | Data Center      | Code  |
