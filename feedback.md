@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2021
-lastupdated: "2021-01-20"
+lastupdated: "2021-04-12"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
@@ -20,25 +20,6 @@ subcollection: overview
 
 We want to hear from you! You can submit feedback for the {{site.data.keyword.Bluemix_notm}} team on the documentation or the console. You can choose from a few different methods to provide feedback.
 {: shortdesc}
-
-## Submitting a comment by using the Feedback button
-{: #feedback-button}
-
-When you are reading a page of documentation or completing a task within the console, you can find a feedback button on the edge of the page. Click the **Feedback** button to submit a rave review, a suggestion, or identify an error.  
-
-1. Click **Feedback**.
-2. Select to provide **Generic feedback** for the entire page or product, or **Specific feedback** on a certain part of the page you are currently on.
-3. Select an option for what you think about the page or selection.
-4. Enter a short subject line about your feedback and a longer description about what you want to share with the {{site.data.keyword.Bluemix_notm}} team.
-5. Then, leave your email address if you want to receive progress from the team that is addressing the feedback that you submitted.
-
-Common ad blockers block Usabilla and hide the **Feedback** button. Disable any ad blockers to use the **Feedback** button to submit your comments.
-{: tip}
-
-## Submitting feedback on the documentation
-{: #feedback-topic}
-
-You can submit feedback on a specific documentation topic by using the **Was this page helpful?** buttons that are displayed at the end of each topic. Do you find the information helpful? Click **Yes** and optionally provide a comment. If you don't find it helpful or have suggestions for improvements, click **No** and provide more details.  
 
 ## Providing a content update with a pull request
 {: #feedback-pr}
