@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-04-19"
+lastupdated: "2021-04-21"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Delivering notifications by using webhooks
+{: #deliver-notification-webhook}
+
+New as of: 21 April 2021
+
+You can now easily add webhooks to the notification distribution list in addition to adding email addresses. You can register a webhook with your account on the [Notification distribution list page](https://cloud.ibm.com/account/notifications-distribution-list) to receive all account notifications. Administrators can use webhooks to configure an application to receive asynchronous notifications whenever an event occurs on the {{site.data.keyword.Bluemix_notm}} platform. Any registered webhook must support HTTP POST requests and accept the notification as a JSON.
+
+For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs#adding-webhooks-to-a-distribution-list).
 
 ## Upcoming changes to the user invitation flow
 {: #upcoming-invitation-flow}
