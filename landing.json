@@ -1,0 +1,60 @@
+{
+    "title": "IBM Cloud docs",
+    "lastupdated": "2021-04-19",
+    "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model.",
+    "section_devtools": {
+      "api": "/docs?tab=api-docs&category=platform_services",
+      "cli": "/docs?tab=develop",
+      "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs"
+    },
+    "section_recommended": [
+      {
+        "title": "Navigating the IBM Cloud console",
+        "description": "The IBM Cloud console is a user interface that you use to manage all your IBM Cloud resources.",
+        "href": "/docs/overview?topic=overview-ui"
+      },
+      {
+        "title": "IBM Cloud prerequisites",
+        "description": "The prerequisites for using the IBM Cloud platform are limited, but we do have a few.",
+        "href": "/docs/overview?topic=overview-prereqs-platform"
+      },
+      {
+        "title": "Service and infrastructure by region",
+        "description": "Check out the regions and data centers that IBM Cloud products are available.",
+        "href": "/docs/overview?topic=overview-services_region"
+      }
+    ],
+    "section_videos": [
+      {
+        "title": "Learn how to navigate through the IBM Cloud console",
+        "href": "/docs/overview?topic=overview-ui#video-ui",
+        "thumbnail": "/images/welcome-thumbnail.png"
+      }
+    ],
+    "section_learn": {
+      "developer": "https://developer.ibm.com/depmodels/cloud/",
+      "architecture": "https://www.ibm.com/cloud/architecture",
+      "training": "https://www.ibm.com/training/cloud",
+      "community": "https://community.ibm.com/community/user/publiccloud/home"
+    },
+    "section_updates": {
+      "view_more": "/docs/overview?topic=overview-whatsnew",
+      "tiles": [
+        {
+          "date": "26 March 2021",
+          "title": "IBM Cloud Code Engine is supported as an app deployment type",
+          "description": "IBM Cloud Code Engine is now supported as a application deployment type when you use a starter kit in the IBM Cloud console."
+        },
+        {
+          "date": "26 February 2021",
+          "title": "Managing user login sessions",
+          "description": "You can customize the duration of working sessions for user's on your account."
+        },
+        {
+          "date": "25 February 2021",
+          "title": "Controlling access to resources by using tags",
+          "description": "You can now create tags to control access to your resources and your team's projects can grow without requiring updates to your IAM policies."
+        }
+      ]
+    }
+  }
