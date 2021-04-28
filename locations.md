@@ -3,7 +3,7 @@
 copyright:
   years: 2019, 2021
 
-lastupdated: "2021-04-20"
+lastupdated: "2021-04-28"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -34,9 +34,10 @@ The advantage of an MZR is that it provides consistent cloud services across dif
 
 The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the region, zone, and data center codes for each one. 
 
-| Location | Region | Zone | Data Center |
+| Location | Region | Zone | Data center |
 |-----------|----------|------|----|
 | Dallas | us-south | us-south-1<br>us-south-2<br>us-south-3 | DAL10<br>DAL12<br>DAL13 |
+| Sao Paulo | br-sao | br-sao-1<br>br-sao-2<br>br-sao-3 | SAO01<br>SAO04<br>SAO05 |
 | Toronto | ca-tor | ca-tor-1<br>ca-tor-2<br>ca-tor-3 | TOR01<br>TOR04<br>TOR05 |
 | Washington DC | us-east | us-east-1<br>us-east-2<br>us-east-3 | WDC04<br>WDC06<br>WDC07 |
 {: caption="Table 1. MZRs in North and South America" caption-side="top"}
@@ -46,7 +47,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-| Location      | Region   | Zone | Data Center |
+| Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
 | Frankfurt     | eu-de    |eu-de-1<br>eu-de-2<br>eu-de-3 | FRA02<br>FRA04<br>FRA05 |
 | London        | eu-gb    |eu-gb-1<br>eu-gb-2<br>eu-gb-3 | LON04<br>LON05<br>LON06|
@@ -57,7 +58,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-| Location      | Region   | Zone | Data Center |
+| Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
 | Osaka         | jp-osa   |jp-osa-1<br>jp-osa-2<br>jp-osa-3 | OSA21<br>OSA22<br>OSA23|
 | Sydney        | au-syd   |au-syd-1<br>au-syd-2<br>au-syd-3 | SYD01<br>SYD04<br>SYD05|
@@ -75,9 +76,9 @@ Osaka is a single-site MZR. In a single-site MZR, the three data centers that su
 ## Single-zone regions
 {: #szr-table}
 
-You can also choose to deploy resources to an SZR, but you can't spread them across zones. The following table lists the [SZRs](#x9774825){: term} in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
+You can also choose to deploy resources to an SZR, but you can't spread them across zones. The following table lists the [SZRs](#x9774825){: term} that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
 
-| Location      | Region   | Zone | Data Center |
+| Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
 | Seoul     | kr-seo | kr-seo-1 | SEO01 |
 | Chennai | in-che-1  |in-che-1  | CHE01 |
@@ -90,11 +91,11 @@ In addition to selecting a region for your resource, you can select from a list 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
-See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map showing the available data centers, MZRs, Network PoP, and federal data centers. 
+See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map that shows the available data centers, MZRs, Network PoP, and federal data centers. 
 
 See the following table for the specific code for each data center.
 
-| Data Center      | Code  |
+| Data center      | Code  |
 |------------------|-------|
 | Dallas 05        | DAL05 |
 | Dallas 06        | DAL06 |
@@ -131,7 +132,7 @@ See the following table for the specific code for each data center.
 
 [^2]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/federal)
 
-| Data Center  | Code  |
+| Data center  | Code  |
 |--------------|-------|
 |Amsterdam 01 | AMS01|
 |Amsterdam 03 | AMS03|
@@ -151,7 +152,7 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-| Data Center  | Code  |
+| Data center  | Code  |
 |--------------|-------|
 |Chennai 01 | CHE01|
 |Hong Kong 02 | HKG02|
