@@ -23,12 +23,12 @@ subcollection: overview
 {{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency.
 {: shortdesc}
 
-{{site.data.keyword.cloud_notm}} provides 3 tiers of regions: multizone regions (MZR), single-zone regions (SZR), and data centers. For more details, see the following sections.
+{{site.data.keyword.cloud_notm}} provides 3 tiers of regions: [multizone regions](#x9774820){: term} (MZRs), [single-zone regions](#x9774825){: term} (SZRs), and [data centers](#x2439906){: term}. For more details, see the following sections.
 
 ## Multizone regions
 {: #mzr-table}
 
-A [multizone region](#x9774820){: term} (MZR) is composed of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR will be available in all MZRs within 90 days.  
+MZRs are composed of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR will be available in all MZRs within 90 days.  
 
 The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than an SZR can increase the availability from 99.9% to 99.99% when deployed over 3 zones. 
 
@@ -76,7 +76,7 @@ Osaka is a single-site MZR. In a single-site MZR, the three data centers that su
 ## Single-zone regions
 {: #szr-table}
 
-You can also choose to deploy resources to an SZR, but you can't spread them across zones. The following table lists the [SZRs](#x9774825){: term} that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
+You can also choose to deploy resources to an SZR, but you can't spread them across zones. The following table lists the SZRs that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
 
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
@@ -87,7 +87,7 @@ You can also choose to deploy resources to an SZR, but you can't spread them acr
 ## Data centers
 {: #data-centers}
 
-In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} [data centers](#x2439906){: term}. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
+In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
