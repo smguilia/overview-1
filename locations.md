@@ -91,7 +91,7 @@ In addition to selecting a region for your resource, you can select from a list 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
-See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map that shows the available data centers, MZRs, Network PoP, and federal data centers. 
+See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map that shows the available data centers, MZRs, [points of presence](#x5458832){: term} (PoPs), and federal data centers. 
 
 See the following table for the specific code for each data center.
 
