@@ -12,7 +12,7 @@ subcollection: account
 ---
 {:external: target="_blank" .external}
 {:shortdesc: .shortdesc}
-
+{:term: .term}
 
 # Service and infrastructure availability by location
 {: #services_region}
@@ -29,7 +29,8 @@ Not all services and infrastructure are available for purchase in every {{site.d
 
 Some services are available to purchase in a location, but that service's data might be hosted in a different location. The following table shows the services that are provided by IBM. For the full list of resources that are available, see the [catalog](https://cloud.ibm.com/catalog){: external} in the {{site.data.keyword.Bluemix_notm}} console.
 
-Services that are hosted globally create resources that operate across multiple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests. For more information about the global network of locations, see [Locations for resource deployment](https://cloud.ibm.com/docs/overview?topic=overview-locations).
+Services that are hosted globally create resources that operate across 
+ple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single [data center](#x2439906){: term}, or even a combination of locations by selecting the endpoint where your application sends REST API requests. For more information about the global network of locations, see [Locations for resource deployment](https://cloud.ibm.com/docs/overview?topic=overview-locations).
 
 <!-- Everthing above, can be changed, edited, modified in this Markdown file. Everything after, is maintained in the script file -->
 <!-- Do not manually change the table or add content in this table or after this table. -->
@@ -415,12 +416,12 @@ Services that are hosted globally create resources that operate across multiple 
 ## Infrastructure
 {: #iaas-service-infra}
 
-Infrastructure services are available to be deployed in data centers. Each column header that ends with a number represents a data center or multi-zone region (MZR). Columns marked (MZR) represent a location where resources are automatically deployed and managed across several data centers.
+Infrastructure services are available to be deployed in data centers. Each column header that ends with a number represents a data center or [multizone region (MZR)](#x9774820){: term}. Columns marked (MZR) represent a location where resources are automatically deployed and managed across several data centers.
 
 ### Americas
 {: #iaas-service-americas}
 
-The following infrastructure resources are available in North and South America. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The Dallas (MZR) and Washington DC (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in North and South America. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The Dallas (MZR) and Washington DC (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Montreal 01 | Toronto 01 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -549,7 +550,7 @@ The following infrastructure resources are available in North and South America.
 ### Europe
 {: #iaas-service-europe}
 
-The following infrastructure resources are available in Europe. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The London (MZR) and Frankfurt (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in Europe. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The London (MZR) and Frankfurt (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Amsterdam 01 | Amsterdam 03 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -740,7 +741,7 @@ The following infrastructure resources are available in Europe. Match the resour
 ### Asia Pacific
 {: #iaas-service-asia}
 
-The following infrastructure resources are available in Asia and the Pacific region. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The Sydney (MZR) and Tokyo (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in Asia and the Pacific region. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The Sydney (MZR) and Tokyo (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Melbourne 01 | Sydney (MZR) | Sydney 01 | Sydney 04 | Sydney 05 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
