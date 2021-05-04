@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-04-21"
+lastupdated: "2021-05-04"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -41,7 +41,7 @@ For more information, see [Setting email preferences for notifications](/docs/ac
 
 New as of: 19 April 2021
 
-From May 17, 2021, to enhance security and user protection, {{site.data.keyword.Bluemix}} will require all users to accept an invitation in order to become an active user within a new account. The new invitation flow will have an impact only on inviting existing {{site.data.keyword.Bluemix}} users. Existing users are currently being automatically onboarded to each new account as they are invited. After this change, these users will need to accept an invitation in their notifications, by email, or by using the CLI to onboard to a new account.
+From June 1, 2021, to enhance security and user protection, {{site.data.keyword.Bluemix}} will require all users to accept an invitation in order to become an active user within a new account. The new invitation flow will have an impact only on inviting existing {{site.data.keyword.Bluemix}} users. Existing users are currently being automatically onboarded to each new account as they are invited. After this change, these users will need to accept an invitation in their notifications, by email, or by using the CLI to onboard to a new account.
 
 Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts:
 
