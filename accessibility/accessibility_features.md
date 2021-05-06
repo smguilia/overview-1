@@ -4,7 +4,7 @@
 
 copyright:
   years: 2016, 2019
-lastupdated: "2019-08-22"
+lastupdated: "2021-05-06"
 
 keywords: quick keys, accessibility
 
@@ -48,9 +48,9 @@ Review the following information about the {{site.data.keyword.Bluemix_notm}} us
 ## Related accessibility information
 {: #related-info}
 
-The {{site.data.keyword.Bluemix_notm}} web user interface accessibility compliance status is specifically for the {{site.data.keyword.Bluemix_notm}} product platform. There are subsections of the user interface that are owned by third-party products or services that host content within the platform, for which the {{site.data.keyword.Bluemix_notm}} compliance record does not maintain or own the accessibility compliance status. If you are accessing any user interface or documentation for a service, you must request the compliance statements for that service. For example, if you are using an interface for {{site.data.keyword.containerlong_notm}}, the administration console for a local or dedicated environment, or an IoT service, you must request [product accessibility information](https://able.ibm.com/request/){: external} for that interface or documentation.
+The {{site.data.keyword.Bluemix_notm}} web user interface accessibility compliance status is specifically for the {{site.data.keyword.Bluemix_notm}} product platform. There are subsections of the user interface that are owned by third-party products or services that host content within the platform, for which the {{site.data.keyword.Bluemix_notm}} compliance record does not maintain or own the accessibility compliance status. If you are accessing any user interface or documentation for a service, you must request the compliance statements for that service. For example, if you are using an interface for {{site.data.keyword.containerlong_notm}}, the administration console for a local or dedicated environment, or an IoT service, you must request [product accessibility information](https://www.ibm.com/able/product_accessibility/){: external} for that interface or documentation.
 
-The {{site.data.keyword.Bluemix_notm}} documentation accessibility compliance is specifically for the {{site.data.keyword.Bluemix_notm}} core platform information, and it does not extend to any services. From the home page, the content is separated into tabs, and the Learn section of the Get started tab, Build tab, service-specific CLI docs on the Tools tab, and All docs tab contain links to content that is maintained separately by service teams. The available documentation for {{site.data.keyword.Bluemix_notm}} is managed and reported in the {{site.data.keyword.Bluemix_notm}} product accessibility information that is available upon request. For compliance status for any service, you must request [product accessibility information](https://able.ibm.com/request/){: external}.
+The {{site.data.keyword.Bluemix_notm}} documentation accessibility compliance is specifically for the {{site.data.keyword.Bluemix_notm}} core platform information, and it does not extend to any services. From the home page, the content is separated into tabs, and the Learn section of the Get started tab, Build tab, service-specific CLI docs on the Tools tab, and All docs tab contain links to content that is maintained separately by service teams. The available documentation for {{site.data.keyword.Bluemix_notm}} is managed and reported in the {{site.data.keyword.Bluemix_notm}} product accessibility information that is available upon request. For compliance status for any service, you must request [product accessibility information](https://www.ibm.com/able/product_accessibility/){: external}.
 
 In addition to standard {{site.data.keyword.IBM_notm}} help desk and support websites, {{site.data.keyword.IBM_notm}} has established a TTY telephone service for use by deaf or hard of hearing customers to access sales and support services:
 
