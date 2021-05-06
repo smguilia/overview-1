@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-03-12"
+lastupdated: "2021-05-06"
 
 keywords: ui, components, using the console, SoftLayer, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -25,7 +25,7 @@ The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is 
 ## Watch a tour
 {: #video-ui}
 
-![Introducing {{site.data.keyword.cloud_notm}}](https://www.youtube.com/embed/HzugDzl2cfg){: video output="iframe" data-script="#video-transcript-ui" id="youtubeplayer" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen}
+![Introducing {{site.data.keyword.cloud_notm}}](https://video.ibm.com/embed/recorded/128452443){: video output="iframe" data-script="#video-transcript-ui" id="watsonmediaplayer" width="560" height="315" scrolling="no" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" style="border: 0 none transparent;"}
 
 ### Video transcript
 {: #video-transcript-ui}
