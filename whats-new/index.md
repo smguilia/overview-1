@@ -32,7 +32,7 @@ If you're looking for updates about products that are available on {{site.data.k
 
 New as of: 07 May 2021
 
-Third-party providers can now offer virtual server images deployed by using Terraform in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see the [Onboarding a virtual server image with Terraform](/docs/third-party?topic=third-party-vsimage-register).
+Third-party providers can now offer virtual server images deployed by using Terraform in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a virtual server image with Terraform](/docs/third-party?topic=third-party-vsimage-register).
 
 ## Delivering notifications by using webhooks
 {: #deliver-notification-webhook}
@@ -56,6 +56,13 @@ Concerned about how this change will impact your automation? To avoid any disrup
 
 As an account administrator, you may want to remind your users to accept these invitations upon initial change of this behavior.
 {: note}
+
+## Support for third-party Operators deployed on {{site.data.keyword.openshiftlong_notm}}
+{: #support-onboarding-operators}
+
+New as of: 31 March 2021
+
+Third-party providers can now offer Operators in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a Node-Red Operator](/docs/third-party?topic=third-party-operator-define).
 
 ## {{site.data.keyword.codeenginefull_notm}} is supported as an app deployment type
 {: #codeengine-deploy-mar2021}
