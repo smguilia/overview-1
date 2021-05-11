@@ -64,6 +64,13 @@ New as of: 31 March 2021
 
 Third-party providers can now offer Operators in {{site.data.keyword.cloud_notm}}. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a Node-Red Operator](/docs/third-party?topic=third-party-operator-define).
 
+## New catalog filter for Financial Services Validated services 
+{: #filter-financial-services}
+
+New as of: 31 March 2021
+
+You can now search the {{site.data.keyword.cloud_notm}} catalog for services that are designated as Financial Services Validated. Services with this designation leverage the industry’s highest levels of encryption certification, provide preventive and compensatory controls for financial services regulatory workloads, multi-architecture support and proactive, and automated security. See [What is {{site.data.keyword.cloud_notm}} for Financial Services?](/docs/overview?topic=overview-what-is-fscloud) for more information.
+
 ## {{site.data.keyword.codeenginefull_notm}} is supported as an app deployment type
 {: #codeengine-deploy-mar2021}
 
