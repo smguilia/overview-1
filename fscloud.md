@@ -20,7 +20,7 @@ subcollection: overview
 {{site.data.keyword.cloud_notm}} for Financial Services is a solution platform and ecosystem program built on an industry-informed framework of controls, architectures, and operations that mitigates systemic risk in using public cloud for mission-critical workloads with client-sensitive data.
 {: shortdesc}
 
-To view all services that are Financial Services Validated in {{site.data.keyword.cloud_notm}}, go to the [Catalog](https://cloud.ibm.com/catalog?search=label%3Afs_ready#services) and select the **Financial Services Validated** filter under the Compliance section.
+To view all services that are Financial Services Validated in {{site.data.keyword.cloud_notm}}, go to the [catalog](https://cloud.ibm.com/catalog?search=label%3Afs_ready#services) and select the **Financial Services Validated** filter in the Compliance section.
 
 However, there are required services to use to maintain an {{site.data.keyword.cloud_notm}} for Financial Services solution. Others are optional. The following services are required for a validated architecture when using {{site.data.keyword.vpc_full}} services. 
 * {{site.data.keyword.iamlong}}
