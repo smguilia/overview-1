@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2021-05-11",
+    "lastupdated": "2021-05-12",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -48,12 +48,12 @@
         {
           "date": "19 April 2021",
           "title": "Upcoming changes to the user invitation flow",
-          "description": "From June 1, 2021 to enhance security and user protection, IBM Cloud will require all users to accept an invitation in order to become an active user within a new account. The new invitation flow will have an impact only on inviting existing IBM Cloud users. Existing users are currently being automatically onboarded to each new account as they are invited. After this change, these users will need to accept an invitation in their notifications, by email, or by using the CLI to onboard to a new account. Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
+          "description": "From June 1, 2021 to enhance security and user protection, IBM Cloud will require all users to accept an invitation in order to become an active user within a new account. After this change, users will need to accept an invitation in their notifications, by email, or by using the CLI to onboard to a new account. Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
         },
         {
           "date": "26 March 2021",
           "title": "IBM Cloud Code Engine is supported as an app deployment type",
-          "description": "IBM Cloud Code Engine is now supported as an application deployment type when you use a starter kit in the IBM Cloud console. Code Engine is a fully managed, serverless platform that runs your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs. Code Engine even builds container images for you from your source code. Because these workloads are all hosted within the same Kubernetes infrastructure, all of them can seamlessly work together. The Code Engine experience is designed so that you can focus on writing code and not on the infrastructure that is needed to host it."
+          "description": "IBM Cloud Code Engine is now supported as an application deployment type when you use a starter kit in the IBM Cloud console. Code Engine is a fully managed, serverless platform that runs your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs. The Code Engine experience is designed so that you can focus on writing code and not on the infrastructure that is needed to host it."
         }
       ]
     }
