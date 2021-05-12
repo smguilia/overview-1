@@ -41,6 +41,11 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
+          "date": "07 May 2021",
+          "title": "Support for third-party virtual server images with Terraform",
+          "description": "Third-party providers can now offer virtual server images deployed by using Terraform in IBM Cloud. This capability is supported by the beta release of IBM Cloud Partner Center and our previously general availability release of private catalog capabilities."
+        },
+        {
           "date": "21 April 2021",
           "title": "Delivering notifications by using webhooks",
           "description": "You can now easily add webhooks to the notification distribution list in addition to adding email addresses. You can register a webhook with your account on the Notification distribution list page to receive all account notifications."
@@ -49,11 +54,6 @@
           "date": "19 April 2021",
           "title": "Upcoming changes to the user invitation flow",
           "description": "From June 1, 2021 to enhance security and user protection, IBM Cloud will require all users to accept an invitation in order to become an active user within a new account. After this change, users will need to accept an invitation in their notifications, by email, or by using the CLI to onboard to a new account. Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
-        },
-        {
-          "date": "26 March 2021",
-          "title": "IBM Cloud Code Engine is supported as an app deployment type",
-          "description": "IBM Cloud Code Engine is now supported as an application deployment type when you use a starter kit in the IBM Cloud console. Code Engine is a fully managed, serverless platform that runs your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs. The Code Engine experience is designed so that you can focus on writing code and not on the infrastructure that is needed to host it."
         }
       ]
     }
