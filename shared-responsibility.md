@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2021
 
-lastupdated: "2021-01-22"
+lastupdated: "2021-05-11"
 
 keywords: roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 
@@ -41,6 +41,9 @@ When you're reviewing the following sections, the tables list resources for each
 </dd>
   <dt>Applications</dt>
   <dd>Customer-owned software components, such as executables, web applications, middleware, frameworks, libraries, and other software packages that the client developed or acquired by third parties and deployed in {{site.data.keyword.cloud_notm}}.</dd>
+  <dt>Service instance</dt>
+  <dd>An entity that consists of resources that are reserved for a particular service.
+ </dd>
   <dt>Operating systems</dt>
   <dd>The operating system software and configuration that are deployed in virtual or bare metal servers, such as Linux, Windows, or similar to the ones provided in [stock images](/docs/vpc?topic=vpc-about-images).</dd>
 <dt>Virtual and bare metal servers</dt>
