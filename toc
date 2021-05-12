@@ -3,7 +3,7 @@
 {:download: .download}
 
 {: .toc subcollection="overview" category="platform_services" audience="platform" arm="3816100" href="/docs/overview" console-page="/" product-page="https://ibm.com/cloud" path="overview"}
-IBM Cloud Overview
+Getting started with IBM Cloud
 
     {: .navgroup id="learn"}
     ibm-cloud-platform.md
