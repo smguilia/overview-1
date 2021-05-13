@@ -3,7 +3,7 @@
 copyright:
   years: 2019, 2021
 
-lastupdated: "2021-04-28"
+lastupdated: "2021-05-12"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -50,7 +50,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
 | Frankfurt     | eu-de    |eu-de-1<br>eu-de-2<br>eu-de-3 | FRA02<br>FRA04<br>FRA05 |
-| London        | eu-gb    |eu-gb-1<br>eu-gb-2<br>eu-gb-3 | LON04<br>LON05<br>LON06|
+| London        | eu-gb    |eu-gb-1<br>eu-gb-2<br>eu-gb-3 | LON02<br>LON04<br>LON05<br>LON06|
 {: caption="Table 1. MZRs in Europe" caption-side="top"}
 {: #europe-mzr}
 {: tab-title="Europe"}
