@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-05-17"
+lastupdated: "2021-05-18"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -415,7 +415,7 @@ Services that are hosted globally create resources that operate across multiple 
 ## Infrastructure
 {: #iaas-service-infra}
 
-Infrastructure services are available to be deployed in data centers. Each column header that ends with a number represents a data center or multi-zone region (MZR). Columns marked (MZR) represent a location where resources are automatically deployed and managed across several data centers.
+Infrastructure services are available to be deployed in data centers. Each column header that ends with a number represents a data center or multizone region (MZR). Columns marked (MZR) represent a location where resources are automatically deployed and managed across several data centers.
 
 ### Americas
 {: #iaas-service-americas}
