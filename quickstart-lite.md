@@ -40,7 +40,7 @@ Go to the [{{site.data.keyword.Bluemix_notm}} console](https://{DomainName}) and
 {: #explore-catalog}
 {: step}
 
-Explore the catalog for products that include free Lite service plans.
+Explore the catalog for products that include free Lite plans, which are structured as a free quota. You can work on your projects worry free, without the risk of generating an accidental bill. The quota might operate for a specific time period, for example a month, or on a one-off usage basis. 
 
 1. Go to the [catalog](https://cloud.ibm.com/catalog){: external}.  
 2. Select the **Lite** pricing plan option.
@@ -52,7 +52,7 @@ Explore the catalog for products that include free Lite service plans.
 Create an instance of a product that includes a free Lite plan.
 
 1. Select the tile from the catalog after reviewing the filtered list of products that offer the Lite plan option.
-2. Enter any required information to set up the instance.
+2. Enter any required information to create the instance.
 3. Click **Create**.
 
 ## Check out the solution tutorials
