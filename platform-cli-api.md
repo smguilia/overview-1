@@ -16,6 +16,7 @@ subcollection: overview
 {:tip: .tip}
 {:external: target="_blank" .external}
 {:term: .term}
+{:video: .video}
 
 # Service availability in the {{site.data.keyword.cloud_notm}} console, APIs, SDKs, and CLIs
 {: #platform-svc-cli-api}
