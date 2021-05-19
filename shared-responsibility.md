@@ -88,7 +88,7 @@ Infrastructure-as-a-service (IaaS) products that are managed by {{site.data.keyw
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 {:caption="Table 1. Shared responsibilities for IaaS products" caption-side="top"}
 
-For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recover, the customer is responsible for provisioning resources in a secondary region and managing the application and data disaster recovery.
+For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recover, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}
 
 
@@ -136,7 +136,7 @@ Managed products on customer's resources are orchestrated by {{site.data.keyword
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 {:caption="Table 3. Shared responsibilities for self-managed products" caption-side="top"}
 
-For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recovery, the customer is responsible for provisioning resources in a secondary region and managing the application and data disaster recovery.
+For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recovery, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}
 
 ## Software packages
@@ -163,5 +163,5 @@ You can find a list of software in the {{site.data.keyword.cloud_notm}} catalog 
 | Facilities and data centers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
 {:caption="Table 4. Shared responsiblities for software packages" caption-side="top"}
 
-For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recovery, the customer is responsible for provisioning resources in a secondary region and managing the application and data disaster recovery.
+For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recovery, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}
