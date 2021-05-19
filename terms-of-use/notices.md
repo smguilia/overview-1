@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-05-13"
+lastupdated: "2021-05-19"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -112,7 +112,7 @@ This section consists of the following:
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/2.5/legalcode.
 
-JCIP-ANNOTATIONS [HttpCore] (Copyright not found) (https://downloads.apache.org/httpcomponents/httpcore/source/httpcomponents-core-4.4.12-src.zip)
+JCIP-ANNOTATIONS [HttpCore] (Copyright not found) (https://downloads.apache.org/httpcomponents/httpcore/source/)
 
 #### Creative Commons Attribution 3.0 Generic
 {: #console-30}
@@ -241,7 +241,7 @@ The URL to the license is https://creativecommons.org/licenses/by/2.5/
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/3.0/legalcode
 
-spdx-exceptions (https://github.com/jslicense/spdx-exceptions.json/archive/v2.2.0.zip), SPDX (https://github.com/spdx), SPDX STANDARD [spdx-expression-parse] (https://github.com/spdx/spdx-spec), GO GOPHER [gonum/gonum](https://github.com/gonum/gonum/archive/4340aa3071a0.zip), DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1), H2DEMO/TMPL.GO [x/net](https://github.com/x/net/archive/6078986fec03a1dcc236c34816c71b0e05018fda.zip), POLY [google-api-go-client](https://github.com/googleapis/google-api-go-client/tree/5213b8090861), DIR.TMPL [x/tools](https://github.com/x/tools/archive/00c44ba9c14f88ffdd4fb5bfae57fe8dd6d6afb1.zip), THE IVY MASCOT [x/mobile](https://github.com/golang/mobile/tree/e47acb2ca7f9)
+spdx-exceptions (https://github.com/jslicense/spdx-exceptions.json/archive/v2.2.0.zip), SPDX (https://github.com/spdx), SPDX STANDARD [spdx-expression-parse] (https://github.com/spdx/spdx-spec), GO GOPHER [gonum/gonum](https://github.com/gonum/gonum/archive/4340aa3071a0.zip), DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1), H2DEMO/TMPL.GO [x/net], POLY [google-api-go-client](https://github.com/googleapis/google-api-go-client/tree/5213b8090861), DIR.TMPL [x/tools], THE IVY MASCOT [x/mobile](https://github.com/golang/mobile/tree/e47acb2ca7f9)
 
 #### Creative Commons Attribution 4.0 Generic
 {: #devcon-40}
@@ -472,7 +472,7 @@ TXT_CN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
-[WIKIMEDIA FOUNDATION'S CODE OF CONDUCT DRAFT](HTTPS://WWW.MEDIAWIKI.ORG/WIKI/CODE_OF_CONDUCT/DRAFT), [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate/archive/v0.1.0.zip), TXT_VN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
+[WIKIMEDIA FOUNDATION'S CODE OF CONDUCT DRAFT](https://meta.wikimedia.org/wiki/Universal_Code_of_Conduct), [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate/archive/v0.1.0.zip), TXT_VN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 
 #### Creative Commons Attribution Share Alike 4.0 Generic
 {: #cli-share-40}
@@ -530,7 +530,7 @@ SILKICONS-ALLJARJAR-SRC [Groovy](http://www.famfamfam.com/lab/icons/silk/), JCIP
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/3.0/legalcode
 
-DOCS. [jq](http://archive.ubuntu.com/ubuntu/pool/universe/j/jq/jq_1.5+dfsg.orig.tar.gz), FONT AWESOME DOCUMENTATION [goconvey](https://fontawesome.com), SOUNDMANAGER.TS [xterm](http://registry.npmjs.org/xterm/-/xterm-3.14.5.tgz), H2DEMO [golang/net](https://github.com/golang/net/archive/13f9640d40b9cc418fb53703dfbd177679788ceb.zip), [SPDX-EXCEPTIONS](http://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.3.0.tgz), SPDX STANDARD [spdx-expression-parse](https://github.com/spdx/spdx-spec), TMPL.GO [golang/net] (https://github.com/golang/net/tree/master/http2/h2demo), FIREWORKS.JPEG [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), GO1.HTML [hashicorp/go.net](https://github.com/hashicorp/go.net/archive/afc3cb3a421746fc66dd55b09a270c750cf536ce.zip),GODOC.HTML [golang.org/x/tools] (Not Required), GOLANG-ORG.YAML [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr/archive/v1.0.1.zip), GO [Go](https://golang.org/dl/), HTTP2/H2DEMO/TMPL.GO [dns](https://pkg.go.dev/github.com/miekg/dns@v1.0.14), POLY [google.golang.org/api](https://proxy.golang.org/google.golang.org/api/@v/v0.9.0.zip), GOPHER IMAGE [Go](https://github.com/golang/go/releases/tag/go1.15.2), DIR.TMPL [golang.org/x/tools] (Not Required), SPRITES [golang.org/x/mobile](https://github.com/x/mobile/archive/d2bd2a29d028.zip), GOPHER [gonum](https://github.com/gonum/gonum/tree/3d26580ed485), RUNC-DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1)
+DOCS. [jq](http://archive.ubuntu.com/ubuntu/pool/universe/j/jq/jq_1.5+dfsg.orig.tar.gz), FONT AWESOME DOCUMENTATION [goconvey](https://fontawesome.com), SOUNDMANAGER.TS [xterm](http://registry.npmjs.org/xterm/-/xterm-3.14.5.tgz), H2DEMO [golang/net](https://github.com/golang/net/archive/13f9640d40b9cc418fb53703dfbd177679788ceb.zip), [SPDX-EXCEPTIONS](http://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.3.0.tgz), SPDX STANDARD [spdx-expression-parse](https://github.com/spdx/spdx-spec), TMPL.GO [golang/net] (https://github.com/golang/net/tree/master/http2/h2demo), FIREWORKS.JPEG [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), GO1.HTML [hashicorp/go.net](https://github.com/hashicorp/go.net/archive/afc3cb3a421746fc66dd55b09a270c750cf536ce.zip),GODOC.HTML [golang.org/x/tools] (Not Required), GOLANG-ORG.YAML [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr/archive/v1.0.1.zip), GO [Go](https://golang.org/dl/), HTTP2/H2DEMO/TMPL.GO [dns](https://pkg.go.dev/github.com/miekg/dns@v1.0.14), POLY [google.golang.org/api](https://proxy.golang.org/google.golang.org/api/@v/v0.9.0.zip), GOPHER IMAGE [Go](https://github.com/golang/go/releases/tag/go1.15.2), DIR.TMPL [golang.org/x/tools] (Not Required), SPRITES [golang.org/x/mobile](https://pkg.go.dev/golang.org/x/mobile), GOPHER [gonum](https://github.com/gonum/gonum/tree/3d26580ed485), RUNC-DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1)
 
 #### Creative Commons Attribution 4.0 Generic
 {: #cloudshell-40}
@@ -650,8 +650,8 @@ This license becomes null and void if any of the above conditions are not met.
 DISCLAIMER
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
-* FONTAWESOME [smartystreets/goconvey](Copyright (c) 2016 SmartyStreets, LLC)(https://github.com/smartystreets/goconvey/tree/v1.6.4)
-* OFL.TXT [smartystreets/goconvey](Copyright (c) 2016 SmartyStreets, LLC)(https://github.com/smartystreets/goconvey/tree/v1.6.4)
+* FONTAWESOME [smartystreets/goconvey] (Copyright (c) 2016 SmartyStreets, LLC)(https://github.com/smartystreets/goconvey/tree/v1.6.4)
+* OFL.TXT [smartystreets/goconvey] (Copyright (c) 2016 SmartyStreets, LLC)(https://github.com/smartystreets/goconvey/tree/v1.6.4)
 
 ## Trademarks
 {: #trademarks}
