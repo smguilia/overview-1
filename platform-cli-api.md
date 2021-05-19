@@ -25,6 +25,10 @@ subcollection: overview
 
 Services that are available in the {{site.data.keyword.cloud_notm}} console are also available through APIs, SDKs, and CLIs at their [general availability (GA)](#x2117947){: term} release. SDKs are, at a minimum, available in the Java, Node, Python, and Go programming languages.
 
-- [{{site.data.keyword.cloud_notm}} catalog](https://cloud.ibm.com/catalog){: external}
-- [{{site.data.keyword.cloud_notm}} API and SDK reference library](/docs?tab=api-docs)
-- [{{site.data.keyword.cloud_notm}} CLI reference](/docs/cli?topic=cli-ibmcloud_cli)
+* [{{site.data.keyword.cloud_notm}} catalog](https://cloud.ibm.com/catalog){: external}
+* [{{site.data.keyword.cloud_notm}} API and SDK reference library](/docs?tab=api-docs)
+* [{{site.data.keyword.cloud_notm}} CLI reference](/docs/cli?topic=cli-ibmcloud_cli)
+
+From the docs [Explore](https://{DomainName}/docs) page, you can quickly find what you're looking for whether it's a specific API and SDK reference for a service you're using, or how to get started with the CLI. Check out the following demo that shows you how to filter the API and SDK reference library for all AI/Machine Learning services, and then move to the Develop tab to copy the CLI install command to get set up. 
+
+![Filter API and SDK docs for AI services and copy CLI instanll command](images/api-ref-filtering.mp4){: video controls loop}
