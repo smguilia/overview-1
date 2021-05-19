@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2021-05-12",
+    "lastupdated": "2021-05-19",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -16,7 +16,7 @@
       {
         "title": "Try out IBM Cloud, for free",
         "description": "Get up and running quickly by setting up a Lite account with this short tutorial.",
-        "href": "/docs/overview?topic=overview-quickstart_lite"
+        "href": "/docs/overview?topic=overview-tutorial-try-for-free"
       },
       {
         "title": "Service and infrastructure by location",
@@ -53,7 +53,7 @@
         {
           "date": "19 April 2021",
           "title": "Upcoming changes to the user invitation flow",
-          "description": "From June 1, 2021 to enhance security and user protection, IBM Cloud will require all users to accept an invitation in order to become an active user within a new account. After this change, users will need to accept an invitation in their notifications, by email, or by using the CLI to onboard to a new account. Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
+          "description": "From June 1, 2021, to enhance security and user protection, IBM Cloud will require all users to accept an invitation in order to become an active user within a new account. The new invitation flow will have an impact only on inviting existing IBM Cloud users. Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
         }
       ]
     }
