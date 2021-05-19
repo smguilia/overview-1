@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2021-05-18"
+lastupdated: "2021-05-19"
 
 keywords: byok, kyok, key encryption, data encryption, keep your own key, bring your own key
 
@@ -22,25 +22,25 @@ subcollection: overview
 # Encrypting data with your own keys 
 {: #key-encryption}
 
-The {{site.data.keyword.cloud_notm}} encrypts all data in transit, and you can encrypt your data at rest with your own keys, and then monitor the events around the lifecycle of the encryption keys with {{site.data.keyword.cloudaccesstraillong}}.
+{{site.data.keyword.cloud}} encrypts all data in transit, and you can encrypt your data at rest with your own keys, and then monitor the events around the lifecycle of the encryption keys with {{site.data.keyword.cloudaccesstraillong}}.
 {: shortesc}
 
-{{site.data.keyword.IBM}} supports multiple encryption options, whether you're looking for a solution that supports the Bring Your Own Keys (BYOK) or Keep Your Own Key (KYOK) method. For an in-depth look at the options available through {{site.data.keyword.cloud_notm}} to secure your data depending on your organization's needs, see [Protect data in transit or at rest](https://www.ibm.com/cloud/architecture/architectures/securityArchitecture/security-for-data){: external}.
+{{site.data.keyword.IBM}} supports multiple encryption options, whether you're looking for a solution that supports the Bring-Your-Own-Key (BYOK) or Keep-Your-Own-Key (KYOK) functionality. For an in-depth look at the options available through {{site.data.keyword.cloud_notm}} to secure your data depending on your organization's needs, see [Protect data in transit or at rest](https://www.ibm.com/cloud/architecture/architectures/securityArchitecture/security-for-data){: external}.
 
 ## Bring your own keys
 {: #byok-overview}
 
-Many {{site.data.keyword.cloud_notm}} services support data encryption by using customer-managed keys, also known as Bring Your Own Keys (BYOK). The most common use case for BYOK is using {{site.data.keyword.keymanagementservicelong}} to [bring your encryption keys to the cloud](/docs/key-protect?topic=key-protect-importing-keys). For a list of services that can be integrated with {{site.data.keyword.keymanagementserviceshort}}, see [Integrating services](/docs/key-protect?topic=key-protect-integrate-services). {{site.data.keyword.keymanagementserviceshort}} is a multi-tenant service using FIPS 140-2 Level 3 HSM.
+Many {{site.data.keyword.cloud_notm}} services support data encryption by using customer-managed keys, also known as Bring-Your-Own-Key (BYOK). The most common use case for BYOK is using {{site.data.keyword.keymanagementservicelong}} to [bring your encryption keys to the cloud](/docs/key-protect?topic=key-protect-importing-keys). {{site.data.keyword.keymanagementserviceshort}} is a multi-tenant service using FIPS 140-2 Level 3 HSM. For a list of services that can be integrated with {{site.data.keyword.keymanagementserviceshort}}, see [Integrating services](/docs/key-protect?topic=key-protect-integrate-services). 
 
 ## Keep your own keys
 {: #kyok-overview}
 
-{{site.data.keyword.cloud_notm}} also provides {{site.data.keyword.cloud_notm}} {{site.data.keyword.hscrypto}}, which is a dedicated key management service and hardware security module (HSM). {{site.data.keyword.hscrypto}} features Keep Your Own Key (KYOK) encryption capabilities backed by FIPS 140-2 Level 4 certification. With this option, it makes the {{site.data.keyword.IBM_notm}} public cloud the industry's most secure and open public cloud for business. For a list of services that can be integrated with Hyper Protect Crypto Services, see [Integrating {{site.data.keyword.cloud_notm}} services with {{site.data.keyword.hscrypto}}](/docs/hs-crypto?topic=hs-crypto-integrate-services).  
+{{site.data.keyword.cloud_notm}} also provides {{site.data.keyword.cloud_notm}} {{site.data.keyword.hscrypto}}, which is a dedicated key management service and hardware security module (HSM). {{site.data.keyword.hscrypto}} features Keep-Your-Own-Key (KYOK) encryption capabilities backed by FIPS 140-2 Level 4 certification. With this option, it makes the {{site.data.keyword.IBM_notm}} public cloud the industry's most secure and open public cloud for business. For a list of services that can be integrated with {{site.data.keyword.hscrypto}}, see [Integrating {{site.data.keyword.cloud_notm}} services with {{site.data.keyword.hscrypto}}](/docs/hs-crypto?topic=hs-crypto-integrate-services).  
 
 ## Auditing the lifecycle of your keys
 {: #key-auditing}
 
-You can use {{site.data.keyword.at_short}} to monitor the activity of your keys. The {{site.data.keyword.at_short}} service provides the framework and functions to monitor API calls to services on the {{site.data.keyword.cloud_notm}} and produces the evidence to comply with corporate policies and market industry-specific regulations. Events that are tracked by {{site.data.keyword.at_short}} are either global or regional, and global events, such as provisioning a service, are available through the global domain instance that is located in Frankfurt. Events that are generated by an instance of {{site.data.keyword.keymanagementserviceshort}} or {{site.data.keyword.hscrypto}} are automatically forwarded to the {{site.data.keyword.cloud_notm}} instance that is available in the same location.
+You can use {{site.data.keyword.at_short}} to monitor the activity of your keys. The {{site.data.keyword.at_short}} service provides the framework and functions to monitor API calls to services on {{site.data.keyword.cloud_notm}} and produces the evidence to comply with corporate policies and market industry-specific regulations. Events that are tracked by {{site.data.keyword.at_short}} are either global or regional, and global events, such as provisioning a service, are available through the global domain instance that is located in Frankfurt. Events that are generated by an instance of {{site.data.keyword.keymanagementserviceshort}} or {{site.data.keyword.hscrypto}} are automatically forwarded to the {{site.data.keyword.cloud_notm}} instance that is available in the same location.
 
 See [Provisioning an instance](/docs/activity-tracker?topic=activity-tracker-provision) to configure your monitoring instance. Whether you're using {{site.data.keyword.keymanagementserviceshort}} or {{site.data.keyword.hscrypto}}, you can track events like creating a key, deleting a key, rotating a key, and more:
 
