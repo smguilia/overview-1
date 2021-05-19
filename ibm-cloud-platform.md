@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-04-08"
+lastupdated: "2021-05-19"
 
 keywords: console, platform overview, overview, data center, security, compliance 
 
@@ -17,10 +17,19 @@ subcollection: overview
 # What is the {{site.data.keyword.Bluemix_notm}} platform?
 {: #whatis-platform}
 
-The {{site.data.keyword.IBM}} cloud platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
+The {{site.data.keyword.cloud}} platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
 {: .shortdesc}
 
-The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. With our open source technologies, such as Kubernetes, Red Hat OpenShift, and a full range of compute options, including virtual machines, containers, bare metal, and serverless, you have the control and flexibility that's required to support workloads in your hybrid environment. You can deploy cloud-native apps while also ensuring workload portability.
+{{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads. Available in data centers worldwide, across 19 countries with multizone regions in North and South America, Europe, Asia, and Australia, you are enabled to deploy locally with global scalability.
+
+{{site.data.keyword.cloud_notm}} offers the most open and secure public cloud for business with a next-generation hybrid cloud platform, advanced data and AI capabilities, and deep enterprise expertise across 20 industries. Solutions are available depending on your needs for working in the public cloud, on-premises, or a combination:
+
+* With public cloud, the resources are made available to you over the public internet. It is a multi-tenant environment, and resources like hardware and infrastructure are managed by {{site.data.keyword.IBM}}. 
+* A [hybrid cloud solution](https://www.ibm.com/cloud/hybrid){: external} is a combination of public and private, giving you the flexibility to move workloads between the two based on your business and technological needs. {{site.data.keyword.IBM_notm}} uses {{site.data.keyword.openshiftlong_notm}}, the market-leading hybrid cloud container platform for hybrid solutions that enables you to build once and deploy anywhere. With {{site.data.keyword.satellitelong_notm}}, you can create a hybrid environment that brings the scalability and on-demand flexibility of public cloud services to the applications and data that runs in your secure private cloud.
+* Support for [multicloud](https://www.ibm.com/cloud/learn/multicloud){: external} and hybrid multicloud solutions is also available, which makes it easy for you to work with different vendors. [{{site.data.keyword.cloud_notm}} Paks](https://www.ibm.com/cloud/paks){: external} are software products for hybrid clouds that enable you to develop apps once and deploy them anywhere. 
+* [Virtual Private Cloud (VPC)](/docs/vpc?topic=vpc-getting-started) is available as a public cloud offering that lets you establish your own private cloud-like computing environment on shared public cloud infrastructure. With VPC, enterprises can define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
+
+With our open source technologies, such as Kubernetes, Red Hat OpenShift, and a full range of compute options, including virtual machines, containers, bare metal, and serverless, you have the control and flexibility that's required to support workloads in your hybrid environment. You can deploy cloud-native apps while also ensuring workload portability.
 
 Whether you need to migrate apps to the cloud, modernize your existing apps by using cloud services, ensure data resiliency against regional failure, or use new paradigms and deployment topologies to innovate and build your cloud-native apps, the platform's open architecture is built to accommodate your use case.
 
@@ -63,9 +72,9 @@ For more information, see the [best practices for setting up an enterprise](/doc
 
 {{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with various products in the catalog, including options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. You can find all of these services on the Services tab in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-The Software tab includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs), [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, and [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud). Even though you're responsible for the lifecycle management, deployment, and configuration of these software products on your own compute resources, you can take advantage of a simplified installation process to get up and running quickly.
+The Software tab includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud){: external}, [Operators](https://www.ibm.com/cloud/blog/announcements/onboard-your-operator-in-the-ibm-cloud-catalog-in-days){: external}, and [virtual server images](https://www.ibm.com/cloud/blog/announcements/onboard-virtual-server-images-in-days-by-using-terraform-in-the-ibm-cloud-catalog){: external}. Even though you're responsible for the lifecycle management, deployment, and configuration of these software products on your own compute resources, you can take advantage of a simplified installation process to get up and running quickly.
 
-The catalog supports command-line interfaces (CLIs) and a RESTful API for users to retrieve information about existing products, and create, manage, and delete their resources. 
+The catalog also supports command-line interfaces (CLIs) and a RESTful API for users to retrieve information about existing products, and create, manage, and delete their resources. 
 
 ### Searching the catalog 
 {: #catalog-filter-options}
@@ -145,7 +154,7 @@ The following table lists the filter options that you can use when you search th
 ## Pricing and billing
 {: #pricing-billing}
 
-When you're choosing a service from the catalog and you select a tile, if there are different types of available plans you can find pricing details. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost). 
+You can view the pricing details for each service when you're browsing the catalog. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost). 
 
 {{site.data.keyword.Bluemix_notm}} billing provides multiple services that ensure the {{site.data.keyword.Bluemix_notm}} platform can securely manage pricing, accounts, usage, and more.
 
@@ -154,15 +163,10 @@ When you're choosing a service from the catalog and you select a tile, if there 
 
 Account management maintains the billing relationship with the customer. Each account is a billing entity that represents a customer. This service controls account lifecycle, subscription, user relationship, and organization.
 
-### Pricing
-{: #pricing}
-
-The pricing platform service helps you to define, manage, and retrieve pricing information for resources in the {{site.data.keyword.Bluemix_notm}} catalog.
-
 ### Usage metering
 {: #metering}
 
-With usage metering, service providers can submit metrics that are collected for resource instances that are provisioned by {{site.data.keyword.Bluemix_notm}} users. Third-party service providers that deliver an integrated billing service are required to submit usage for all active service instances every hour. 
+With usage metering, service providers can submit metrics that are collected for resource instances that are created by {{site.data.keyword.Bluemix_notm}} users. Third-party service providers that deliver an integrated billing service are required to submit usage for all active service instances every hour. 
 
 ### Usage reports
 {: #usage}
@@ -174,14 +178,14 @@ Usage reports return the summary for the account for the specified month. Accoun
 
 The {{site.data.keyword.compliance_full}} offers a single location where you can validate that your resources are meeting continuous security and compliance.
 
-With the {{site.data.keyword.compliance_short}}, you can create profiles and config rules to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.compliance_short}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.compliance_short}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-getting-started). 
+You can create profiles and config rules to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.compliance_short}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.compliance_short}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-getting-started). 
 
 ## Creating resources
 {: #provisioning-layer}
 
-The resource controller is the next-generation {{site.data.keyword.Bluemix_notm}} platform provisioning layer that manages the lifecycle of {{site.data.keyword.Bluemix_notm}} resources in your account. Resources are provisioned globally in an account scope. The resource controller supports both synchronous and asynchronous provisioning of resources. Examples of resources include databases, accounts, processors, memory, and storage limits. 
+The resource controller is the next-generation {{site.data.keyword.Bluemix_notm}} platform provisioning layer that manages the lifecycle of {{site.data.keyword.Bluemix_notm}} resources in your account. Resources are created globally in an account scope. The resource controller supports the creation of resources both synchronously and asynchronously. Examples of resources include databases, accounts, processors, memory, and storage limits. 
 
-In general, resources that are tracked by the provisioning layer are intended to associate usage metrics and billing, but that isn’t always the case. In some cases, the resource might be associated with the provisioning layer to ensure that the resource lifecycle can be managed along with the account lifecycle. The resource controller uses {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) for authentication and authorization of actions that are taken against the provisioning layer.
+In general, resources that are tracked by the provisioning layer are intended to associate usage metrics and billing, but that isn’t always the case. In some cases, the resource might be associated with the provisioning layer to ensure that its lifecycle can be managed along with the account lifecycle. The resource controller uses {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) for authentication and authorization of actions that are taken against the provisioning layer.
 
 ### Resource lifecycle management
 {: #lifecycle}
@@ -191,7 +195,7 @@ The resource controller provides common APIs to control the lifecycle of resourc
 ## Managing your resources
 {: #resource-manager}
 
-A collection of resources is managed by [resource groups](/docs/account?topic=account-rgs). A resource group is associated with your account. All {{site.data.keyword.Bluemix_notm}} resources must be assigned to a resource group. When you create an account, a default resource group is created for you. All {{site.data.keyword.Bluemix_notm}} IAM-enabled resources must be provisioned within a resource group. If you have a Lite account, you can have only one resource group. If you have a Pay-As-You-Go or Subscription account, you can create more than one resource group. If an account is suspended, the corresponding resource group is suspended as well, and all resources within the resource group are suspended. 
+A collection of resources is managed by [resource groups](/docs/account?topic=account-rgs). A resource group is associated with your account. All {{site.data.keyword.Bluemix_notm}} resources must be assigned to a resource group. When you create an account, a default resource group is created for you. All {{site.data.keyword.Bluemix_notm}} IAM-enabled resources must be created within a resource group. If you have a Lite account, you can have only one resource group. If you have a Pay-As-You-Go or Subscription account, you can create more than one resource group. If an account is suspended, the corresponding resource group is suspended as well, and all resources within the resource group are suspended. 
 
 ## Searching and tagging resources
 {: #search-and-tag}
@@ -222,7 +226,7 @@ The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find 
 
 
 ## Notification preferences
-{: #notification-preferences}
+{: #notification-preference}
 
 Depending on your {{site.data.keyword.Bluemix_notm}} account type, you can choose to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform-related items and resource-related items from the [Notification preferences page](https://cloud.ibm.com/user/notifications){: external}. Platform-related items include announcements, billing and usage, and ordering. Resource-related items include incidents, maintenance, security bulletins, and resource activity. For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs).
 
