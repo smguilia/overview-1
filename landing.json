@@ -53,7 +53,7 @@
         {
           "date": "19 April 2021",
           "title": "Upcoming changes to the user invitation flow",
-          "description": "Starting 01 June 2021, to enhance security and user protection, IBM Cloud will require all users to accept an invitation in order to become an active user within a new account. The new invitation flow will have an impact only on inviting existing IBM Cloud users. Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
+          "description": "Starting 01 June 2021, to enhance security and user protection, all users will be required to accept an invitation to become an active user within a new account. The new invitation flow will have an impact only on inviting existing IBM Cloud users. Concerned about how this change will impact your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
         }
       ]
     }
