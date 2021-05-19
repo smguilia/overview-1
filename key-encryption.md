@@ -25,7 +25,7 @@ subcollection: overview
 {{site.data.keyword.cloud}} encrypts all data in transit, and you can encrypt your data at rest with your own keys, and then monitor the events around the lifecycle of the encryption keys with {{site.data.keyword.cloudaccesstraillong}}.
 {: shortesc}
 
-{{site.data.keyword.IBM}} supports multiple encryption options, whether you're looking for a solution that supports the bring your own key (BYOK) or keep your own key (KYOK) functionality. For an in-depth look at the options to secure your data depending on your organization's needs, see [Protect data in transit or at rest](https://www.ibm.com/cloud/architecture/architectures/securityArchitecture/security-for-data){: external}.
+{{site.data.keyword.cloud_notm}} supports multiple encryption options, whether you're looking for a solution that supports the bring your own key (BYOK) or keep your own key (KYOK) functionality. For an in-depth look at the options to secure your data depending on your organization's needs, see [Protect data in transit or at rest](https://www.ibm.com/cloud/architecture/architectures/securityArchitecture/security-for-data){: external}.
 
 ## Bring your own keys
 {: #byok-overview}
