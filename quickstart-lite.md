@@ -2,7 +2,7 @@
 
 copyright:
    years: 2021
-lastupdated: "2020-05-18"
+lastupdated: "2020-05-19"
 
 keywords: get started with IBM Cloud, get started, try for free, lite account
 
@@ -28,7 +28,7 @@ completion-time: 10m
 {: toc-content-type="tutorial"} 
 {: toc-completion-time="10m"} 
 
-Looking to try out {{site.data.keyword.Bluemix}}? A Lite account is great for learning how to work in the cloud, use Watson, and more. It’s also perfect for building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. This quick start guide is intended to help you get up and running with our Lite account.  
+Looking to try out {{site.data.keyword.Bluemix}}? A Lite account is great for learning how to work in the cloud, use Watson, and more. It’s also perfect for building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. This tutorial is intended to help you get up and running with a Lite account.  
 {:shortdesc}
 
 ## Before you begin
@@ -40,7 +40,7 @@ Go to the [{{site.data.keyword.Bluemix_notm}} console](https://{DomainName}) and
 {: #explore-catalog}
 {: step}
 
-Explore the catalog for offerings that include free Lite service plans.
+Explore the catalog for products that include free Lite service plans.
 
 1. Go to the [catalog](https://cloud.ibm.com/catalog){: external}.  
 2. Select the **Lite** pricing plan option.
@@ -49,7 +49,7 @@ Explore the catalog for offerings that include free Lite service plans.
 {: #lite-create-instance}
 {: step}
 
-Create an instance of an offering that includes a free Lite plan.
+Create an instance of a product that includes a free Lite plan.
 
 1. Select the tile from the catalog after reviewing the filtered list of products that offer the Lite plan option.
 2. Enter any required information to set up the instance.
@@ -59,9 +59,9 @@ Create an instance of an offering that includes a free Lite plan.
 {: #lite-solution-tutorials}
 {: step}
 
-Check out our [tutorials for Lite accounts](/docs?tab=tutorials&filters=lite-account) for detailed steps about using {{site.data.keyword.Bluemix_notm}} to implement common patterns based on best practices and proven technologies.
+Check out the [tutorials for Lite accounts](/docs?tab=tutorials&filters=lite-account) for detailed steps about using {{site.data.keyword.Bluemix_notm}} to implement common patterns based on best practices and proven technologies.
 
 ## Next steps
 {: #lite-next-steps}
 
-Build your apps! For more information, see the [Getting started tutorial](/docs/apps?topic=apps-getting-started).
+Build your apps! For more information, see [Getting started with apps](/docs/apps?topic=apps-getting-started).
