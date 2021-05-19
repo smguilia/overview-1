@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-04-08"
+lastupdated: "2021-05-19"
 
 keywords: console, platform overview, overview, data center, security, compliance 
 
@@ -17,17 +17,17 @@ subcollection: overview
 # What is the {{site.data.keyword.Bluemix_notm}} platform?
 {: #whatis-platform}
 
-The {{site.data.keyword.IBM}} cloud platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
+The {{site.data.keyword.cloud}} platform combines platform as a service (PaaS) with infrastructure as a service (IaaS) to provide an integrated experience. The platform scales and supports both small development teams and organizations, and large enterprise businesses. Globally deployed across data centers around the world, the solution you build on {{site.data.keyword.cloud}} spins up fast and performs reliably in a tested and supported environment you can trust!
 {: .shortdesc}
 
 {{site.data.keyword.cloud_notm}} provides solutions that enable higher levels of compliance, security, and management, with proven architecture patterns and methods for rapid delivery for running mission-critical workloads. Available in data centers worldwide, across 19 countries with multizone regions in North and South America, Europe, Asia, and Australia, you are enabled to deploy locally with global scalability.
 
 {{site.data.keyword.cloud_notm}} offers the most open and secure public cloud for business with a next-generation hybrid cloud platform, advanced data and AI capabilities, and deep enterprise expertise across 20 industries. Solutions are available depending on your needs for working in the public cloud, on-premises, or a combination:
 
-* With public cloud, the resources are made available to you over the public internet. It is a multi-tenant environment and resources like hardware and infrastructure are managed by IBM. 
-* A [hybrid cloud solution](https://www.ibm.com/cloud/hybrid){: external} is a combination of public and private giving you the flexibility to move workloads between the two based on your business and technological needs. IBM uses {{site.data.keyword.openshiftlong_notm}}, the market-leading hybrid cloud container platform for hybrid solutions that enables you to build once and deploy anywhere. With {{site.data.keyword.satellitelong_notm}}, you can create a hybrid environment that brings the scalability and on-demand flexibility of public cloud services to the applications and data that runs in your secure private cloud.
-* Support for [multicloud](https://www.ibm.com/cloud/learn/multicloud){: external} and hybrid multicloud solutions is also available, which makes it easy for you to work with different vendors. [{{site.data.keyword.cloud_notm}} Paks](https://www.ibm.com/cloud/paks){: external} are software offerings for hybrid clouds that enable you to develop apps once and deploy them anywhere. 
-* [Virtual Private Cloud (VPC)](/docs/vpc?topic=vpc-getting-started) is available as a public cloud offering that lets you establish your own private cloud-like computing environment on shared public cloud infrastructure. A VPC gives an enterprise the ability to define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
+* With public cloud, the resources are made available to you over the public internet. It is a multi-tenant environment, and resources like hardware and infrastructure are managed by {{site.data.keyword.IBM}}. 
+* A [hybrid cloud solution](https://www.ibm.com/cloud/hybrid){: external} is a combination of public and private, giving you the flexibility to move workloads between the two based on your business and technological needs. {{site.data.keyword.IBM_notm}} uses {{site.data.keyword.openshiftlong_notm}}, the market-leading hybrid cloud container platform for hybrid solutions that enables you to build once and deploy anywhere. With {{site.data.keyword.satellitelong_notm}}, you can create a hybrid environment that brings the scalability and on-demand flexibility of public cloud services to the applications and data that runs in your secure private cloud.
+* Support for [multicloud](https://www.ibm.com/cloud/learn/multicloud){: external} and hybrid multicloud solutions is also available, which makes it easy for you to work with different vendors. [{{site.data.keyword.cloud_notm}} Paks](https://www.ibm.com/cloud/paks){: external} are software products for hybrid clouds that enable you to develop apps once and deploy them anywhere. 
+* [Virtual Private Cloud (VPC)](/docs/vpc?topic=vpc-getting-started) is available as a public cloud offering that lets you establish your own private cloud-like computing environment on shared public cloud infrastructure. With VPC, enterprises can define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
 
 With our open source technologies, such as Kubernetes, Red Hat OpenShift, and a full range of compute options, including virtual machines, containers, bare metal, and serverless, you have the control and flexibility that's required to support workloads in your hybrid environment. You can deploy cloud-native apps while also ensuring workload portability.
 
