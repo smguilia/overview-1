@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-05-19"
+lastupdated: "2021-05-20"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -420,7 +420,7 @@ Infrastructure services are available to be deployed in data centers. Each colum
 ### Americas
 {: #iaas-service-americas}
 
-The following infrastructure resources are available in North and South America. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The Dallas (MZR) and Washington DC (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in North and South America. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The Dallas (MZR) and Washington DC (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Montreal 01 | Toronto 01 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -549,7 +549,7 @@ The following infrastructure resources are available in North and South America.
 ### Europe
 {: #iaas-service-europe}
 
-The following infrastructure resources are available in Europe. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The London (MZR) and Frankfurt (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in Europe. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The London (MZR) and Frankfurt (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Amsterdam 01 | Amsterdam 03 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -740,7 +740,7 @@ The following infrastructure resources are available in Europe. Match the resour
 ### Asia Pacific
 {: #iaas-service-asia}
 
-The following infrastructure resources are available in Asia and the Pacific region. Match the resource row with the column representing the data center or multi-zone region. A check mark indicates the resource is available in that location. The Sydney (MZR) and Tokyo (MZR) columns represent multi-zone regions where deployment is managed automatically across several data centers.
+The following infrastructure resources are available in Asia and the Pacific region. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The Sydney (MZR) and Tokyo (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Melbourne 01 | Sydney (MZR) | Sydney 01 | Sydney 04 | Sydney 05 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
