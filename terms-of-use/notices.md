@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-05-19"
+lastupdated: "2021-05-25"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -537,35 +537,35 @@ DOCS. [jq](http://archive.ubuntu.com/ubuntu/pool/universe/j/jq/jq_1.5+dfsg.orig.
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/4.0/legalcode
 
-DOM [Typescript](http://registry.npmjs.org/typescript/-/typescript-3.7.2.tgz), GO-DIGEST-README.MD FILE AND CONTRIBUTING.MD [distribution](https://github.com/docker/distribution/archive/v2.7.1.zip), DOC [docker-ce-cli](https://github.com/docker/docker-ce/archive/v19.03.3.zip), TEST_CONTAINERD_DOCS [Microsoft/hcsshim](https://pkg.go.dev/github.com/Microsoft/hcsshim@v0.8.7), CASCADINGSCHEMES.YAML [go-openapi/loads](https://pkg.go.dev/github.com/go-openapi/loads@v0.19.4), CONTAINERD DOCUMENTATION [docker/docker](https://github.com/docker/docker), DATA.GO [go-openapi/runtime](https://github.com/go-openapi/runtime/tree/v0.19.4), DOCS/LOGO.SVG [Semver](https://pypi.io/packages/source/s/semver/semver-2.13.0.tar.gz), SWAGGER PETSTORE [go-openapi/validate](https://github.com/go-openapi/validate/archive/v0.19.58.zip), EXPANDER_TEST.GO [go-openapi/spec](https://github.com/go-openapi/spec/tree/v0.19.9), PAPER-100K.PDF [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), README AND DOCS FOLDER [containerd/containerd](https://github.com/containerd/containerd/archive/v1.3.2.zip)
+DOM [Typescript](http://registry.npmjs.org/typescript/-/typescript-3.7.2.tgz), GO-DIGEST-README.MD FILE AND CONTRIBUTING.MD [distribution](https://github.com/docker/distribution/archive/v2.7.1.zip), DOC [docker-ce-cli](https://github.com/docker/docker-ce/archive/v19.03.3.zip), TEST_CONTAINERD_DOCS [Microsoft/hcsshim](https://pkg.go.dev/github.com/Microsoft/hcsshim@v0.8.7), CASCADINGSCHEMES.YAML [go-openapi/loads](https://pkg.go.dev/github.com/go-openapi/loads@v0.19.4), CONTAINERD DOCUMENTATION [docker/docker](https://github.com/docker/docker), DATA.GO [go-openapi/runtime](https://github.com/go-openapi/runtime/tree/v0.19.4), DOCS/LOGO.SVG [Semver](https://pypi.io/packages/source/s/semver/semver-2.13.0.tar.gz), SWAGGER PETSTORE [go-openapi/validate], EXPANDER_TEST.GO [go-openapi/spec](https://github.com/go-openapi/spec/tree/v0.19.9), PAPER-100K.PDF [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), README AND DOCS FOLDER [containerd/containerd](https://github.com/containerd/containerd/archive/v1.3.2.zip)
 
 #### Creative Commons Attribution Share Alike 1.0 Generic
 {: #cloudshell-share-10}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/1.0/legalcode
 
-MAP_TEST.GO [x/text](https://github.com/x/text/archive/0.3.0.zip), RUSSIAN TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip)
+MAP_TEST.GO [x/text], RUSSIAN TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip)
 
 #### Creative Commons Attribution Share Alike 2.0 Generic
 {: #cloudshell-share-20}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/2.0/legalcode
 
-JAPANESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip), THREEBYTEUTF8 [x/text](https://github.com/x/text/archive/0.3.0.zip)
+JAPANESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip), THREEBYTEUTF8 [x/text]
 
 #### Creative Commons Attribution Share Alike 2.5 Generic
 {: #cloudshell-share-25}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/2.5/legalcode
 
-CANTONESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip), MAP_TEST.GO [x/text](https://github.com/x/text/archive/0.3.0.zip)
+CANTONESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip), MAP_TEST.GO [x/text]
 
 #### Creative Commons Attribution Share Alike 3.0 Generic
 {: #cloudshell-share-30}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
-REGULAR_EXPRESSIONS [posix-character-classes](https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions), TEXT IN FOREIGN LANGUAGE [golang/text](https://github.com/golang/text/archive/cbf43d21aaebfdfeb81d91a5f444d13a3046e686.zip), NEP-0012-MISSING-DATA.RST [NumPy](https://github.com/numpy/numpy/blob/master/doc/neps/nep-0012-missing-data.rst), VIETNAMESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip), RAMDA LOGO [RAMda](http://registry.npmjs.org/ramda/-/ramda-0.27.1.tgz), NEP-0012-MISSING-DATA.RST [NumPy](https://pypi.org/project/numpy/#files), DATA LICENSE (GEOLITE COUNTRY AND CITY DATABASES) [geoip](https://github.com/maxmind/geoip-api-c/releases/tag/v1.6.12), NEP12 [NumPy](https://pypi.io/packages/source/n/numpy/numpy-1.16.6.tar.gz), MAP_TEST.GO [x/text](https://github.com/x/text/archive/0.3.0.zip)
+REGULAR_EXPRESSIONS [posix-character-classes](https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions), TEXT IN FOREIGN LANGUAGE [golang/text](https://github.com/golang/text/archive/cbf43d21aaebfdfeb81d91a5f444d13a3046e686.zip), NEP-0012-MISSING-DATA.RST [NumPy](https://github.com/numpy/numpy/blob/master/doc/neps/nep-0012-missing-data.rst), VIETNAMESE TEXT [golang.org/x/text](https://proxy.golang.org/golang.org/x/text/@v/v0.3.3-0.20200430171850-afb9336c4530.zip), RAMDA LOGO [RAMda](http://registry.npmjs.org/ramda/-/ramda-0.27.1.tgz), NEP-0012-MISSING-DATA.RST [NumPy](https://pypi.org/project/numpy/#files), DATA LICENSE (GEOLITE COUNTRY AND CITY DATABASES) [geoip](https://github.com/maxmind/geoip-api-c/releases/tag/v1.6.12), NEP12 [NumPy], MAP_TEST.GO [x/text]
 
 #### Creative Commons Attribution Share Alike 4.0 Generic
 {: #cloudshell-share-40}
