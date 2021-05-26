@@ -4,7 +4,7 @@ copyright:
   years: 2021
 lastupdated: "2021-05-19"
 
-keywords: byok, kyok, key encryption, data encryption, keep your own key, bring your own key
+keywords: byok, kyok, key encryption, data encryption, keep your own key, bring your own key, encryption at rest, encryption in transit, data at rest, data in transit
 
 subcollection: overview
 
