@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2021
-lastupdated: "2021-01-27"
+lastupdated: "2021-05-27"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -19,10 +19,10 @@ subcollection: overview
 # Managing security and compliance in {{site.data.keyword.cloud_notm}}
 {: #manage-security-compliance}
 
-{{site.data.keyword.cloud}} is integrated with the {{site.data.keyword.compliance_short}} to help you manage security and compliance for your organization.
+With the {{site.data.keyword.compliance_short}}, you can manage the security and compliance of the {{site.data.keyword.cloud}} platform.
 {: shortdesc}
 
-With the {{site.data.keyword.compliance_short}}, you can accomplish the following tasks:
+In the {{site.data.keyword.compliance_short}}, you can accomplish the following tasks:
 
 * Monitor for controls and goals that pertain to platform services.
 * Define rules that can help to standardize resource configuration.
@@ -40,38 +40,40 @@ To start monitoring your resources, see [Getting started with {{site.data.keywor
 ### Available goals for platform services
 {: #platform-available-goals}
 
+
+#### Billing
+{: #billing-goals}
+
+* Check whether the EU supported setting is enabled in account settings
+* Check whether the HIPAA supported setting is enabled in account settings
+
 #### Identity and Access Management
 {: #iam-goals}
 
-* Check whether password policy requires at least one uppercase letter
-* Check whether password policy requires at least one lowercase letter
-* Check whether password policy requires at least one number
-* Check whether password policy requires minimum length of 8 chars that meets expectation
-* Check whether password policy prevents password reuse
-* Check whether the password can contain only printable ASCII characters (in the range 33 -126)
-* Check whether password policy cannot contain: spaces, or any of \;:("?)<>
-* Check whether the usage of a password meter coaches user to create a stronger password than the minimum
-* Check whether IAM instance roles are used for {{site.data.keyword.IBM_notm}} resource access from instances
-* Check whether a support role has been created to manage incidents with {{site.data.keyword.cloud_notm}} support
-* Do not set up access API keys during initial user setup for all IAM users that have a console password
-* Check whether multi-factor authentication (MFA) is enabled for all users under account
-* Check whether contact email is maintained
-* Check whether contact phone number is maintained
-* Check whether IAM users are attached to access groups
-* Check whether IAM policies are attached only to groups or roles
-* Check whether MFA is enabled at the account level
-* Check whether MFA is enabled for the owner account
-* Check whether security questions are registered for the owner account
-* Check whether authorized IP ranges are configured for the owner account
-* Check whether more than allowed number of admins are configured per account
-* Check whether IAM does not allow public access to COS (not applicable to ACLs managed using S3 APIs)
-* Check whether no owner account API key exists
-* Check whether access keys are rotated for every specific period # (days)
-* Check whether owner account has logged in the past 30 days
-* Check whether user list visibility restrictions are configured
-* Check whether API key creation is limited and configured
-* Check whether service ID creation is limited and configured
-* Ensure no more than 3 user administrators are defined for IAM
+* Check whether multifactor authentication (MFA) is enabled for each user at the user level
+* Check whether multifactor authentication (MFA) is enabled at the account level
+* Check whether multifactor authentication (MFA) is enabled for the account owner
+* Check whether account has a contact email defined
+* Check whether account has a contact phone number defined
+* Check whether IAM users and service IDs are attached to access groups
+* Check whether account access is managed only by IAM access groups
+* Check whether IAM policies for service IDs are attached only to groups or roles
+* Check whether IAM policies for users are attached only to groups or roles
+* Check whether security questions are registered by the account owner
+* Check whether authorized IP ranges are configured by the account owner
+* Check whether there are no more than # IAM administrators configured per account
+* Check whether the account owner does not have an IBM Cloud API key created in IAM
+* Check whether an account owner has logged in to IBM Cloud in the past # days
+* Check whether IBM Cloud API keys that are managed in IAM are rotated at least every # days
+* Check whether user list visibility restrictions are configured in IAM settings for the account owner
+* Check whether permissions for API key creation are limited and configured in IAM settings for the account owner
+* Check whether permissions for service ID creation are limited and configured in IAM settings for the account owner
+* Check whether account has no more than # service IDs with admin privileges
+* Check whether IAM-enabled services have at least # service IDs with the IAM manager role
+* Check whether IAM-enabled services have no more than # service IDs with the IAM administrator role
+* Check whether IAM-enabled services have no more than # users with the IAM administrator role
+
+
 
 ## Governing resource configuration for platform services
 {: #govern-platform}
@@ -80,14 +82,14 @@ As a security or compliance focal, you can use the {{site.data.keyword.complianc
 
 [Config rules](#x3084914){: term} are used to enforce the configuration standards that you want to implement across your accounts. For more details about the data that you can use to create a rule, review the following table.
 
-| Platform service | Resource kind | Property | Operator | Value | Description |
+| Platform service | Resource kind | Property | Operator type | Value | Description |
 |---------------|---------------|----------|---------------|-------|-------------|
-| Billing | account-trait | eu_supported | is_false | - | Indicates whether the account has the eu_supported flag enabled. |
-| Billing | account-trait | hipaa_accepted | is_false | - | Indicates whether the account has the hipaa_accepted flag enabled. |
-| IAM Access Groups Service | service | public_access_enabled | is_false | - | Indicates whether the public access feature is enabled. |
-| IAM Identity Service | accountsettings | restrict_create_service_id | is_false | - | Indicates whether the restriction on service ID creation is enabled. |
-| IAM Identity Service | accountsettings | restrict_create_platform_apikey | is_false | - | Indicates whether the restriction on platform API key creation is enabled. |
-| IAM Identity Service | accountsettings | mfa | is_false | - | Indicates the level of MFA that is required. |
-{: caption="Table 1. Rule properties for platform services caption-side="top"}
+| Billing | `account-trait` | `eu_supported` | Boolean | - | Indicates whether the account has the `eu_supported` flag enabled. |
+| Billing | `account-trait` | `hipaa_accepted` | Boolean | - | Indicates whether the account has the `hipaa_accepted` flag enabled. |
+| IAM Access Groups Service | `service` | `public_access_enabled` | Boolean | - | A boolean indicating whether the public access feature is enabled. |
+| IAM Identity Service | `accountsettings` | `restrict_create_service_id` | Boolean | - | Indicates whether the restriction on service ID creation is enabled. |
+| IAM Identity Service | `accountsettings` | `restrict_create_platform_apikey` | Boolean | - | Indicates whether the restriction on platform API key creation is enabled. |
+| IAM Identity Service | `accountsettings` | `mfa` | String | Options include: `NONE`, `TOTP`, `TOTP4ALL`, `LEVEL1`, `LEVEL2`, and `LEVEL3`. | Indicates the level of MFA that is required. |
+{: caption="Table 1. Rule properties for platform services" caption-side="top"}
 
 See [What is a config rule?](/docs/security-compliance?topic=security-compliance-what-is-rule) for more information. 
