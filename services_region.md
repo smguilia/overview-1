@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-05-27"
+lastupdated: "2021-05-28"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -293,7 +293,7 @@ Services that are hosted globally create resources that operate across multiple 
 | API Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Annotator for Clinical Data |  |  |  |  | 
-| App Configuration |  |  |  |  | 
+| App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Auto Scale for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
