@@ -106,9 +106,7 @@ The following table lists the filter options that you can use when you search th
 
 | Option | Description |
 |--------------|-------|
-| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information on SAP-certified products, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap). |
 | Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. |
-| Quantum Technologies | A service that is compatible with quantum technologies. |
 {: caption="Table 1. Options for filtering by run-time environment" caption-side="top"}
 {: #supported-env-svc}
 {: tab-title="Works with"}
@@ -141,8 +139,6 @@ The following table lists the filter options that you can use when you search th
 | Option | Description |
 |--------------|-------|
 | EU Supported | Support for the service is restricted to {{site.data.keyword.cloud_notm}} support team members that are located in the European Union (EU) region. This filter is available only if the [EU Supported setting](/docs/account?topic=account-eu-hipaa-supported) is enabled in the account.  |
-| FedRAMP Boundary| A FedRAMP boundary service that is FedRAMP compliant and available to create instances within the US  boundary. |
-| FedRAMP Boundary Pending| A FedRAMP boundary-pending service that is undergoing a review to become FedRAMP compliant. |
 | Financial Services Validated | Services are designated as Financial Services Validated when the {{site.data.keyword.cloud_notm}} service or SaaS, or independent software vendor (ISV) offering, evidences compliance with the {{site.data.keyword.cloud_notm}} Framework for Financial Services. This filter is available only if the [Financial Services Validated setting](/docs/account?topic=account-eu-hipaa-supported) is enabled in the account. |
 | HIPAA Enabled | The service is designated as HIPAA ready, meaning processing, storing, and handling Protected Health Information (PHI) in the service is supported. This filter is available only if the [HIPAA Supported setting](/docs/account?topic=account-eu-hipaa-supported) is enabled in the account. |
 | IAM-enabled | The service is enabled to use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
