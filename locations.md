@@ -2,8 +2,7 @@
 
 copyright:
   years: 2019, 2021
-
-lastupdated: "2021-05-12"
+lastupdated: "2021-06-09"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -23,12 +22,12 @@ subcollection: overview
 {{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency.
 {: shortdesc}
 
-{{site.data.keyword.cloud_notm}} provides 3 tiers of regions: [multizone regions](#x9774820){: term} (MZRs), [single-zone regions](#x9774825){: term} (SZRs), and [data centers](#x2439906){: term}. For more details, see the following sections.
+{{site.data.keyword.cloud_notm}} provides 3 tiers of regions: [multizone regions](#x9774820){: term} (MZR), [single-zone regions](#x9774825){: term} (SZR), and [data centers](#x2439906){: term}. For more details, see the following sections.
 
 ## Multizone regions
 {: #mzr-table}
 
-MZRs are composed of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR will be available in all MZRs within 90 days.  
+MZRs are composed of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR will be available in all MZRs within 90 days. 
 
 The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than an SZR can increase the availability from 99.9% to 99.99% when deployed over 3 zones. 
 
@@ -50,7 +49,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
 | Frankfurt     | eu-de    |eu-de-1<br>eu-de-2<br>eu-de-3 | FRA02<br>FRA04<br>FRA05 |
-| London        | eu-gb    |eu-gb-1<br>eu-gb-2<br>eu-gb-3 | LON02<br>LON04<br>LON05<br>LON06|
+| London        | eu-gb    |eu-gb-1<br>eu-gb-2<br>eu-gb-3 | LON04<br>LON05<br>LON06|
 {: caption="Table 1. MZRs in Europe" caption-side="top"}
 {: #europe-mzr}
 {: tab-title="Europe"}
@@ -63,7 +62,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 | Osaka         | jp-osa   |jp-osa-1<br>jp-osa-2<br>jp-osa-3 | OSA21<br>OSA22<br>OSA23|
 | Sydney        | au-syd   |au-syd-1<br>au-syd-2<br>au-syd-3 | SYD01<br>SYD04<br>SYD05|
 | Tokyo         | jp-tok   |jp-tok-1<br>jp-tok-2<br>jp-tok-3 | TOK02<br>TOK04<br>TOK05|
-{: caption="Table 1. Multizone regions in Asia Pacific" caption-side="top"}
+{: caption="Table 1. MZRs in Asia Pacific" caption-side="top"}
 {: #asiapacific-mzr}
 {: tab-title="Asia Pacific"}
 {: tab-group="mzr"}
@@ -81,13 +80,13 @@ You can also choose to deploy resources to an SZR, but you can't spread them acr
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
 | Seoul     | kr-seo | kr-seo-1 | SEO01 |
-| Chennai | in-che-1  |in-che-1  | CHE01 |
+| Chennai | in-che  |in-che-1  | CHE01 |
 {: caption="Table 2. SZRs for creating resources" caption-side="top"}
 
 ## Data centers
 {: #data-centers}
 
-In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
+For classic infrastructure resources, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
@@ -144,6 +143,7 @@ See the following table for the specific code for each data center.
 |London 05 | LON05|
 |London 06 | LON06|
 |Milan 01 | MIL01|
+|Oslo 01 | OSL01 |
 |Paris 01 | PAR01|
 {: caption="Table 3. Data centers in Europe" caption-side="top"}
 {: #europe}
@@ -182,7 +182,9 @@ The table includes certain data centers that are set to close soon. For the list
 
 You can view all resources and locations from the Resource list page in the console. If you want to view and work with resources in a specific location, expand the **Location** filter, and select a location from the list. By expanding a specific location, you can select to filter by individual data centers, regions, or zones.
 
-For example, if you have resources that are deployed in the London 2 (eu-gb-2) zone, you can set filters to display only those resources in your resource list. Expand the **London** metro option, and the **London (eu-gb)** region option. Within that region, you can select from the list of available zones. If you have a resource that is deployed in a specific data center, you can identify the data center by the specific metro location and alphanumeric code. For example, **Dallas** for the metro location and then **Dallas 07 (dal07)** for the data center.
+Depending on the type of resource, you might be interested in only specific types of location data. For example, if you created a service or VPC infrastructure service, you can filter the Resource list page by the region and zone codes. However, if you're working with classic infrastructure resources, the specific data center codes are the pertinent information for you.
+
+For example, if you have resources that are deployed in the London 2 (eu-gb-2) zone, you can set filters to display only those resources in your resource list. Expand the **London** metro option, and the **London (eu-gb)** region option. Within that region, you can select from the list of available zones, such as **London 2 (eu-gb-2)**. If you have a classic infrastructure resource that is deployed in a specific data center, you can identify the data center by the specific metro location and alphanumeric code. For example, use **Dallas** for the metro location and then **Dallas 05 (dal05)** for the data center.
 
 You might also want to display your resources that are located globally. The **Global** option means that only one logical, globally accessible instance of the service, independent of any region or zone, is published to customer applications. These types of resources are accessible from a global endpoint.
 
