@@ -86,7 +86,7 @@ You can also choose to deploy resources to an SZR, but you can't spread them acr
 ## Data centers
 {: #data-centers}
 
-In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
+For classic infrastructure resources, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
