@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2021
-lastupdated: "2021-06-04"
+lastupdated: "2021-06-10"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -82,18 +82,18 @@ As a security or compliance focal, you can use the {{site.data.keyword.complianc
 
 [Config rules](#x3084914){: term} are used to enforce the configuration standards that you want to implement across your accounts. For more details about the data that you can use to create a rule, review the following table.
 
-| Platform service | Resource kind | Property | Operator type | Value | Description |
-|---------------|---------------|----------|---------------|-------|-------------|
-| Billing | `account-trait` | `eu_supported` | Boolean | - | Indicates whether the account has the `eu_supported` flag enabled. |
-| Billing | `account-trait` | `hipaa_accepted` | Boolean | - | Indicates whether the account has the `hipaa_accepted` flag enabled. |
-| Catalog Management | `account-settings` | `allow_ibm_provider_only` | Boolean | - | Indicates whether users are restricted to installing only software provided by {{site.data.keyword.IBM_notm}} from the {{site.data.keyword.cloud_notm}} catalog. Set catalog management filters to comply with this rule. This rule cannot be combined with other provider rules. |
-| Catalog Management | `account-settings` | `allow_ibm_provider` | Boolean | - | Indicates whether users can install software provided by {{site.data.keyword.IBM_notm}} software from the {{site.data.keyword.cloud_notm}} catalog. Set catalog management filters to comply with this rule. |
-| Catalog Management | `account-settings` | `allow_community_provider` | Boolean | - | Indicates whether users can install community-provided software from the {{site.data.keyword.cloud_notm}} catalog.  Set catalog management filters to comply with this rule. |
-| Catalog Management | `account-settings` | `allow_thirdparty_provider` | Boolean | - | Indicates whether users can install third-party software from the {{site.data.keyword.cloud_notm}} catalog. Set catalog management filters to comply with this rule. |
-| IAM Access Groups Service | `service` | `public_access_enabled` | Boolean | - | A boolean indicating whether the public access feature is enabled. |
-| IAM Identity Service | `accountsettings` | `restrict_create_service_id` | Boolean | - | Indicates whether the restriction on service ID creation is enabled. |
-| IAM Identity Service | `accountsettings` | `restrict_create_platform_apikey` | Boolean | - | Indicates whether the restriction on platform API key creation is enabled. |
-| IAM Identity Service | `accountsettings` | `mfa` | String | Options include: `NONE`, `TOTP`, `TOTP4ALL`, `LEVEL1`, `LEVEL2`, and `LEVEL3`. | Indicates the level of MFA that is required. |
+| Platform service | Resource kind | Property | Operator type |  Description |
+|---------------|---------------|----------|---------------|-------------|
+| Billing | `account-trait` | `eu_supported` | Boolean |  Indicates whether the account has the `eu_supported` flag enabled. |
+| Billing | `account-trait` | `hipaa_accepted` | Boolean |  Indicates whether the account has the `hipaa_accepted` flag enabled. |
+| Catalog Management | `account-settings` | `allow_ibm_provider_only` | Boolean |  Indicates whether users are restricted to installing only software provided by {{site.data.keyword.IBM_notm}} from the {{site.data.keyword.cloud_notm}} catalog. Set catalog management filters to comply with this rule. This rule cannot be combined with other provider rules. |
+| Catalog Management | `account-settings` | `allow_ibm_provider` | Boolean |  Indicates whether users can install software provided by {{site.data.keyword.IBM_notm}} software from the {{site.data.keyword.cloud_notm}} catalog. Set catalog management filters to comply with this rule. |
+| Catalog Management | `account-settings` | `allow_community_provider` | Boolean |  Indicates whether users can install community-provided software from the {{site.data.keyword.cloud_notm}} catalog.  Set catalog management filters to comply with this rule. |
+| Catalog Management | `account-settings` | `allow_thirdparty_provider` | Boolean |  Indicates whether users can install third-party software from the {{site.data.keyword.cloud_notm}} catalog. Set catalog management filters to comply with this rule. |
+| IAM Access Groups Service | `service` | `public_access_enabled` | Boolean | A boolean indicating whether the public access feature is enabled. |
+| IAM Identity Service | `accountsettings` | `restrict_create_service_id` | Boolean | Indicates whether the restriction on service ID creation is enabled. |
+| IAM Identity Service | `accountsettings` | `restrict_create_platform_apikey` | Boolean | Indicates whether the restriction on platform API key creation is enabled. |
+| IAM Identity Service | `accountsettings` | `mfa` | String <br/> Options include: `NONE`, `TOTP`, `TOTP4ALL`, `LEVEL1`, `LEVEL2`, and `LEVEL3`. | Indicates the level of MFA that is required. |
 {: caption="Table 1. Rule properties for platform services" caption-side="top"}
 
 See [What is a config rule?](/docs/security-compliance?topic=security-compliance-what-is-rule) for more information. 
