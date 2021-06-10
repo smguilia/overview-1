@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-06-09"
+lastupdated: "2021-06-10"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -86,7 +86,7 @@ You can also choose to deploy resources to an SZR, but you can't spread them acr
 ## Data centers
 {: #data-centers}
 
-For classic infrastructure resources, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
+In addition to selecting a region for your resource, you have the option to select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, depending on the type of resource you're working with. For example, you get this option with all classic infrastructure services. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
