@@ -347,7 +347,7 @@ You can now use filters to customize which products in the {{site.data.keyword.B
 {: #unified-notifications-experience}
 New as of: 21 April 2020
 
-Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notification icon](../../icons/Notification.svg) on the console menu bar to view your notifications.
+Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notification icon](../../icons/Notification.svg "Notifications") on the console menu bar to view your notifications.
 
 Additionally, you can find all infrastructure notifications on the new notifications page. To learn more about the new notifications experience, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).
 
@@ -584,7 +584,7 @@ Tags are now available for you to add to your resources, like Cloud Object Stora
 New as of: 30 November 2018
 {: #cost-estimator}
 
-To help you decide and analyze what services you'd like to purchase, you can use the cost estimator. Now, you can go through the console and select each service you'd like to have, and add all of the costs in an easy to use tool. You can even enter projected data usages, lookups per second, writes per second, and queries per second to get a more accurate estimation of your monthly expenditures. You can use the cost estimator with each catalog service you select, or you can click the cost estimator icon ![Estimator icon](../icons/Estimator.svg) in the console menu to get a summary of your estimated costs. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
+To help you decide and analyze what services you'd like to purchase, you can use the cost estimator. Now, you can go through the console and select each service you'd like to have, and add all of the costs in an easy to use tool. You can even enter projected data usages, lookups per second, writes per second, and queries per second to get a more accurate estimation of your monthly expenditures. You can use the cost estimator with each catalog service you select, or you can click the cost estimator icon ![Cost Estimator icon](../icons/calculator.svg "Cost Estimator") in the console menu to get a summary of your estimated costs. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
 
 ## Updated global location names
 New as of: 1 November 2018

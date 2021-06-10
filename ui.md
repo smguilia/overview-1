@@ -19,7 +19,7 @@ subcollection: overview
 # Navigating the {{site.data.keyword.cloud_notm}} console 
 {: #ui}
 
-The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is a user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) and more links.
+The [{{site.data.keyword.cloud}} console](https://cloud.ibm.com){: external} is a user interface that you use to manage all your {{site.data.keyword.cloud_notm}} resources. You can create a free account, log in, access documentation, access the catalog, view pricing information, get support, or check the status of {{site.data.keyword.cloud_notm}} components. After you log in, the menu bar contains a **Menu** icon ![Menu icon](../icons/icon_hamburger.svg "Menu") and more links.
 {: shortdesc}
 
 ## Watch a tour
@@ -68,9 +68,9 @@ When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed
   * Use the **Docs** link to access the product documentation. 
   * Use the **Support** link to access the Support Center.  
   * From the **Manage** menu, you can access your account, billing and usage, and Identity and Access Management options.
-  * Click the {{site.data.keyword.cloud-shell_notm}} icon ![{{site.data.keyword.cloud-shell_notm}} icon](../icons/terminal-cloud-shell.svg) to open a browser-based shell environment that you can use to work with your {{site.data.keyword.cloud_notm}} resources.
-  * Click the Cost estimator icon ![Estimator icon](../icons/calculator.svg) to open the cost estimator.
-  * Click the Notifications icon ![Notifications icon](../icons/Notification.svg) to view and control all incidents, maintenance, and announcements that are likely to affect your account.
+  * Click the **{{site.data.keyword.cloud-shell_notm}}** icon ![{{site.data.keyword.cloud-shell_notm}} icon](../icons/terminal-cloud-shell.svg "Cloud Shell") to open a browser-based shell environment that you can use to work with your {{site.data.keyword.cloud_notm}} resources.
+  * Click the **Cost estimator** icon ![Cost Estimator icon](../icons/calculator.svg "Cost Estimator") to open the cost estimator.
+  * Click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") to view and control all incidents, maintenance, and announcements that are likely to affect your account.
   
 ## Working in the catalog
 {: #catalogcreate}
@@ -97,7 +97,7 @@ For more information, see [Searching for resources](/docs/account?topic=account-
 ## Managing resources
 {: #dashboardview}
 
-Go to the Menu icon ![Menu icon](../icons/icon_hamburger.svg) &gt; **Resource List** to access your list of account resources. You can use the Resource list page to view and work with {{site.data.keyword.cloud_notm}} resources and Cloud Foundry service instances. 
+Go to the **Menu** icon ![Menu icon](../icons/icon_hamburger.svg "Menu") &gt; **Resource List** to access your list of account resources. You can use the Resource list page to view and work with {{site.data.keyword.cloud_notm}} resources and Cloud Foundry service instances. 
 
 ### Viewing resources
 You can view all the resources in your account across all locations from your resource list. To see the items that are important to you, filter your list with the filters for each column header. For example, if you want to view and work with resources in a specific location, expand the **Location** filter, and select a location from the list.
@@ -105,7 +105,7 @@ You can view all the resources in your account across all locations from your re
 ### Working with resources
 You can work with your resources in various ways from your resource list:
 
-  * Each resource is displayed in its own row and an Actions icon ![More Actions icon](../icons/action-menu-icon.svg) is included at the end of the row. Click the Actions icon ![More Actions icon](../icons/action-menu-icon.svg) to start, stop, rename, or delete a resource.
+  * Each resource is displayed in its own row and an Actions icon ![More Actions icon](../icons/action-menu-icon.svg "Actions") is included at the end of the row. Click the **Actions** icon ![More Actions icon](../icons/action-menu-icon.svg "Actions") to start, stop, rename, or delete a resource.
   * To set up credentials or connections for a resource, click the name of the resource to go to the resource details page. Then, select **Service credentials** or **Connections**. For more information, see [Adding a credential](/docs/account?topic=account-service_credentials) and [Managing connections](/docs/account?topic=account-connect_app).
 
 ## Transitioning to the {{site.data.keyword.cloud_notm}} experience
@@ -119,11 +119,11 @@ The formerly named SoftLayer is now called {{site.data.keyword.cloud_notm}} clas
 ### Locating your infrastructure items
 {: #sl-links}
 
-Click the **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) > **Classic Infrastructure** to quickly locate your devices, storage, network, security, and services. 
+Click the **Menu** icon ![Menu icon](../icons/icon_hamburger.svg "Menu") > **Classic Infrastructure** to quickly locate your devices, storage, network, security, and services. 
 
 ![Location of classic infrastructure items.](images/iaas-items.png "Locating your infrastructure items"){: caption="Figure 1. Location of classic infrastructure items in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
-You can also find your infrastructure resources by clicking any of the links that are listed in the Classic infrastructure widget on your dashboard. Go to **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) > **Dashboard**.
+You can also find your infrastructure resources by clicking any of the links that are listed in the Classic infrastructure widget on your dashboard. Go to **Menu** icon ![Menu icon](../icons/icon_hamburger.svg "Menu") > **Dashboard**.
 {: tip}
 
 ### Managing users, access, and API keys
@@ -143,7 +143,7 @@ You can manage users in your account, classic infrastructure access for your use
 Use the catalog to place an order. You can navigate to the catalog in one of the following ways:
 
   * Click **Catalog** from the menu bar.
-  * Click the **Menu** icon ![Menu icon](../icons/icon_hamburger.svg) > **Resource list**. Then, click **Create resource**.
+  * Click the **Menu** icon ![Menu icon](../icons/icon_hamburger.svg "Menu") > **Resource list**. Then, click **Create resource**.
 
 ![Location to place an order.](images/orders.png "Placing an order"){: caption="Figure 3. Placing an order in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
@@ -184,14 +184,14 @@ To access your current support cases, click **Support** > **Manage cases**. You 
 You can submit a rave review, a suggestion, or any other feedback. To get in touch with us, choose from the following methods:
 
   * Click the **Feedback** button that is on the edge of the console page. 
-  * Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg) > **Feedback**. 
+  * Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") > **Feedback**. 
 
 ![Location to submit feedback.](images/feedback.png "Submitting feedback"){: caption="Figure 8. Submitting feedback in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
 ### Setting email preferences
 {: #email-prefsl}
 
-You can set your preferences to receive emails about platform and infrastructure notifications. Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg) > **Profile and settings**, and select **Notifications**.
+You can set your preferences to receive emails about platform and infrastructure notifications. Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") > **Profile and settings**, and select **Notifications**.
 
 ![Location to set email preferences.](images/email-prefs.png "Setting email preferences"){: caption="Figure 9. Setting your email preferences in the {{site.data.keyword.cloud_notm}} console" caption-side="bottom"}
 
