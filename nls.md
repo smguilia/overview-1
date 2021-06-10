@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2021
-lastupdated: "2021-04-14"
+lastupdated: "2021-06-10"
 
 keywords: translation, national language support
 
@@ -45,7 +45,7 @@ Support by local technical account managers is available in any of the supported
 ## National language support for sales
 {: #sales-language-support}
 
-IBM has a local presence in most countries, with sales and technical resources that speak the local language. The [{{site.data.keyword.cloud_notm}} website](https://www.ibm.com/cloud){:external} does IP detection to designate the website language, and you can also change your business location in the **Let's talk** button at the bottom the screen. There, you can find a local phone number and contact information for your country. 
+IBM has a local presence in most countries, with sales and technical resources that speak the local language. The [{{site.data.keyword.cloud_notm}} website](https://www.ibm.com/cloud){:external} does IP detection to designate the website language, and you can also change your business location in the **Let's talk** button. There, you can find a local phone number and contact information for your country. 
 
 The following list displays the website URL and local phone number for a selection of locations that {{site.data.keyword.cloud_notm}} sales supports across the world.
 
