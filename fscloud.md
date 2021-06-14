@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2021-04-08"
+lastupdated: "2021-06-14"
 
 keywords: financial services 
 
@@ -23,16 +23,17 @@ subcollection: overview
 To view all services that are Financial Services Validated in {{site.data.keyword.cloud_notm}}, go to the [catalog](https://cloud.ibm.com/catalog?search=label%3Afs_ready#services) and select the **Financial Services Validated** filter in the Compliance section.
 
 However, there are required services to use to maintain an {{site.data.keyword.cloud_notm}} for Financial Services solution. Others are optional. The following services are required for a validated architecture when using {{site.data.keyword.vpc_full}} services. 
-* {{site.data.keyword.iamlong}}
+
 * {{site.data.keyword.cloud_notm}} Activity Tracking (requires the use of {{site.data.keyword.cos_full_notm}})
-* {{site.data.keyword.hscrypto}}
-* {{site.data.keyword.vpc_full}}
-* {{site.data.keyword.vpn_full}} or {{site.data.keyword.dl_full_notm}}
-* {{site.data.keyword.vpe_full}}
-* {{site.data.keyword.tg_full_notm}}
-* {{site.data.keyword.alb_full}}
-* {{site.data.keyword.fl_full}}
+* {{site.data.keyword.cloud_notm}} {{site.data.keyword.alb_full}}
+* {{site.data.keyword.cloud_notm}} {{site.data.keyword.fl_full}}
+* {{site.data.keyword.iamlong}}
 * {{site.data.keyword.cos_full_notm}} or {{site.data.keyword.block_storage_is_full}}
+* {{site.data.keyword.tg_full_notm}}
+* {{site.data.keyword.vpc_full}}
+* {{site.data.keyword.cloud_notm}} {{site.data.keyword.vpe_full}}
+* {{site.data.keyword.cloud_notm}} {{site.data.keyword.vpn_full}} or {{site.data.keyword.dl_full_notm}} (Connect and Dedicated 2.0)
+* {{site.data.keyword.IBM_notm}} {{site.data.keyword.hscrypto}}
 * {{site.data.keyword.openshiftlong_notm}} or {{site.data.keyword.vsi_is_full}}
 
 For the most security, it's recommended that you use the {{site.data.keyword.cloud_notm}} CLI to create resources by using [private endpoints](/docs/cli?topic=cli-service-connection).
