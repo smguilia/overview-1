@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-06-01"
+lastupdated: "2021-06-18"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -190,15 +190,15 @@ New as of: 4 December 2020
 
 You can now experience an enhanced version of the Status page in the {{site.data.keyword.Bluemix_notm}} console that offers reduced time to visibility of issues, as well as more detailed and up-to-date status information. For more information, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status). 
 
-## Support for U2F MFA and other MFA methods
+## Support for U2F MFA and other MFA factors
 {: #mfa-hardware}
 
 New as of: 25 November 2020
 
-By default, users in your account authenticate themselves by logging in with a username and password. To require users to use more secure authentication methods, the following MFA options are now available.
+By default, users in your account authenticate themselves by logging in with a username and password. To require users to use more secure authentication factors, the following MFA options are now available.
 
   * MFA for users with an IBMid: Users authenticate by using an IBMid, password, and time-based one-time passcode (TOTP). This option applies to all users or just non-federated users.
-  * MFA for all users (IBMid & supported IdPs): This option applies to users who are using either an IBMid or an external identity provider (IdP). Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. The U2F MFA method is based on the FIDO U2F standard, and it offers the highest level of security.
+  * MFA for all users: This option applies to users who are using either an IBMid or an external identity provider (IdP). Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. The U2F MFA factor is based on the FIDO U2F standard, and it offers the highest level of security.
 
 For more details, see [Enabling MFA for your account](/docs/account?topic=account-enablemfa).
 
