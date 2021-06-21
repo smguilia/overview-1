@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2021
-lastupdated: "2021-06-10"
+lastupdated: "2021-06-21"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -91,9 +91,9 @@ As a security or compliance focal, you can use the {{site.data.keyword.complianc
 | Catalog Management | `account-settings` | `allow_community_provider` | Boolean |  Indicates whether users can install community-provided software from the {{site.data.keyword.cloud_notm}} catalog.  Set catalog management filters to comply with this rule. |
 | Catalog Management | `account-settings` | `allow_thirdparty_provider` | Boolean |  Indicates whether users can install third-party software from the {{site.data.keyword.cloud_notm}} catalog. Set catalog management filters to comply with this rule. |
 | IAM Access Groups Service | `service` | `public_access_enabled` | Boolean | A boolean indicating whether the public access feature is enabled. |
-| IAM Identity Service | `accountsettings` | `restrict_create_service_id` | Boolean | Indicates whether the restriction on service ID creation is enabled. |
-| IAM Identity Service | `accountsettings` | `restrict_create_platform_apikey` | Boolean | Indicates whether the restriction on platform API key creation is enabled. |
-| IAM Identity Service | `accountsettings` | `mfa` | String <br/> Options include: `NONE`, `TOTP`, `TOTP4ALL`, `LEVEL1`, `LEVEL2`, and `LEVEL3`. | Indicates the level of MFA that is required. |
+| IAM Identity Service | `accountsettings` | `restrict_create_service_id` | String | Indicates whether the restriction on service ID creation is enabled. Value options include `restricted` and `nonrestricted`. |
+| IAM Identity Service | `accountsettings` | `restrict_create_platform_apikey` | String | Indicates whether the restriction on platform API key creation is enabled. Value options include `RESTRICTED` and `NOT_RESTRICTED`. |
+| IAM Identity Service | `accountsettings` | `mfa` | String | Indicates the level of MFA that is required. Value options include `NONE`, `TOTP`, `TOTP4ALL`, `LEVEL1`, `LEVEL2`, and `LEVEL3`. |
 {: caption="Table 1. Rule properties for platform services" caption-side="top"}
 
 See [What is a config rule?](/docs/security-compliance?topic=security-compliance-what-is-rule) for more information. 
